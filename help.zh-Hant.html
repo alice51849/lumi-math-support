@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lumi數學星球：探索版 — 說明、常見問題與疑難排解</title>
+<meta name="description" content="Lumi數學星球：探索版 最常被問到的問題、疑難排解步驟,以及聯絡真人的方式。">
+<link rel="canonical" href="https://alice51849.github.io/lumi-math-support/help.zh-Hant.html">
+<link rel="alternate" hreflang="en-US" href="https://alice51849.github.io/lumi-math-support/help.html">
+<link rel="alternate" hreflang="ar-SA" href="https://alice51849.github.io/lumi-math-support/help.ar-SA.html">
+<link rel="alternate" hreflang="de-DE" href="https://alice51849.github.io/lumi-math-support/help.de-DE.html">
+<link rel="alternate" hreflang="en-AU" href="https://alice51849.github.io/lumi-math-support/help.en-AU.html">
+<link rel="alternate" hreflang="fr-FR" href="https://alice51849.github.io/lumi-math-support/help.fr-FR.html">
+<link rel="alternate" hreflang="hi" href="https://alice51849.github.io/lumi-math-support/help.hi.html">
+<link rel="alternate" hreflang="ja" href="https://alice51849.github.io/lumi-math-support/help.ja.html">
+<link rel="alternate" hreflang="ko" href="https://alice51849.github.io/lumi-math-support/help.ko.html">
+<link rel="alternate" hreflang="pt-BR" href="https://alice51849.github.io/lumi-math-support/help.pt-BR.html">
+<link rel="alternate" hreflang="th" href="https://alice51849.github.io/lumi-math-support/help.th.html">
+<link rel="alternate" hreflang="vi" href="https://alice51849.github.io/lumi-math-support/help.vi.html">
+<link rel="alternate" hreflang="zh-Hant" href="https://alice51849.github.io/lumi-math-support/help.zh-Hant.html">
+<link rel="alternate" hreflang="en-CA" href="https://alice51849.github.io/lumi-math-support/help.en-AU.html">
+<link rel="alternate" hreflang="en-GB" href="https://alice51849.github.io/lumi-math-support/help.en-AU.html">
+<link rel="alternate" hreflang="x-default" href="https://alice51849.github.io/lumi-math-support/help.html">
+<meta property="og:title" content="Lumi數學星球：探索版 — 說明、常見問題與疑難排解">
+<meta property="og:description" content="Lumi數學星球：探索版 最常被問到的問題、疑難排解步驟,以及聯絡真人的方式。">
+<meta property="og:url" content="https://alice51849.github.io/lumi-math-support/help.zh-Hant.html">
+<meta property="og:type" content="article">
+<style>
+  :root{
+    --ink:#1a1430; --ink2:#463f66; --muted:#7d779a;
+    --line:#ece8f8; --line2:#e2dcf3;
+    --bg:#fcfbff; --panel:#ffffff;
+    --violet:#6d4ad8; --violet-ink:#5836c0; --violet-soft:#efeaff;
+    --gold:#d99a16; --gold-light:#f3c14e;
+    --shadow:0 1px 2px rgba(26,20,48,.04), 0 14px 36px -18px rgba(70,45,140,.28);
+    --shadow-lg:0 3px 8px rgba(26,20,48,.06), 0 36px 70px -30px rgba(70,45,140,.40);
+    --radius:20px; --maxw:1080px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0; color:var(--ink); background:var(--bg);
+    font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI","PingFang TC","Noto Sans TC",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size:16.5px; line-height:1.7; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;}
+  a{color:var(--violet-ink); text-decoration:none}
+  .container{max-width:var(--maxw); margin:0 auto; padding:0 24px}
+  .zh{color:var(--muted); font-weight:500}
+  .eyebrow{font-size:.74rem; font-weight:800; letter-spacing:2.4px; text-transform:uppercase; color:var(--violet); margin:0 0 12px}
+
+  @media (prefers-reduced-motion:no-preference){
+    .reveal{opacity:0; transform:translateY(16px); animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+    .d1{animation-delay:.06s}.d2{animation-delay:.15s}.d3{animation-delay:.24s}.d4{animation-delay:.33s}.d5{animation-delay:.42s}
+    @keyframes rise{to{opacity:1; transform:none}}
+    .float{animation:float 6s ease-in-out infinite}
+    .float.s{animation-duration:7.5s} .float.l{animation-duration:5s}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-16px)}}
+    .twinkle{animation:tw 3.4s ease-in-out infinite}
+    @keyframes tw{0%,100%{opacity:.3; transform:scale(.85)}50%{opacity:1; transform:scale(1)}}
+  }
+
+  header.nav{position:sticky; top:0; z-index:60; background:rgba(252,251,255,.72);
+    backdrop-filter:saturate(180%) blur(16px); -webkit-backdrop-filter:saturate(180%) blur(16px); border-bottom:1px solid var(--line)}
+  .nav-inner{display:flex; align-items:center; justify-content:space-between; height:66px}
+  .brand-lockup{display:flex; align-items:center; gap:12px}
+  .brand-lockup img{width:38px; height:38px; border-radius:11px; box-shadow:0 3px 10px -2px rgba(70,45,140,.45)}
+  .brand-lockup .name{font-weight:800; font-size:1.04rem; letter-spacing:.2px; line-height:1.15}
+  .brand-lockup .name small{display:block; font-weight:600; font-size:.7rem; color:var(--muted); letter-spacing:.6px}
+  .nav-links{display:flex; gap:4px; align-items:center}
+  .nav-links a{color:var(--ink2); font-weight:600; font-size:.92rem; padding:9px 15px; border-radius:11px; transition:.15s}
+  .nav-links a:hover{color:var(--violet-ink); background:var(--violet-soft)}
+  .nav-links a.cta{color:#fff; background:linear-gradient(135deg,#7d57e6,var(--violet)); box-shadow:0 10px 22px -10px var(--violet); margin-left:6px}
+  .nav-links a.cta:hover{filter:brightness(1.05); color:#fff}
+  @media (max-width:720px){ .nav-links a:not(.cta){display:none} }
+
+  .hero{position:relative; overflow:hidden; text-align:center; padding:96px 0 90px;
+    background:url("hero-bg.jpg") center top/cover no-repeat}
+  .hero::after{content:""; position:absolute; inset:0; pointer-events:none;
+    background:radial-gradient(900px 460px at 50% 34%, rgba(255,255,255,.64), rgba(255,255,255,.16) 55%, transparent 72%),
+              linear-gradient(180deg, rgba(252,251,255,0) 60%, var(--bg) 100%)}
+  .hero .container{position:relative; z-index:2}
+  .hero .mascot-wrap{position:relative; width:188px; margin:0 auto 6px}
+  .hero .mascot{width:188px; height:auto; filter:drop-shadow(0 22px 30px rgba(80,50,150,.32))}
+  .deco{position:absolute; z-index:1; pointer-events:none; filter:drop-shadow(0 10px 16px rgba(80,50,150,.25))}
+  .deco.cube{width:88px; left:calc(50% - 230px); top:54px}
+  .deco.planet{width:92px; right:calc(50% - 250px); top:120px}
+  .hero h1{font-size:clamp(2.2rem,5vw,3.5rem); line-height:1.08; margin:.25em 0 .2em; letter-spacing:-1px; font-weight:850}
+  .hero h1 .grad{background:linear-gradient(105deg,var(--violet) 10%,var(--gold)); -webkit-background-clip:text; background-clip:text; color:transparent}
+  .hero h1 .zh{display:block; font-size:.42em; font-weight:700; letter-spacing:0; margin-top:.5em; color:var(--ink2)}
+  .hero p.sub{font-size:1.16rem; color:var(--ink2); max-width:40em; margin:0 auto; font-weight:450}
+  .hero p.sub .zh{display:block; font-size:.86rem; margin-top:8px}
+  .actions{display:flex; gap:13px; justify-content:center; flex-wrap:wrap; margin-top:30px}
+  .btn{display:inline-flex; align-items:center; gap:9px; font-weight:700; font-size:1rem; padding:14px 26px; border-radius:14px; transition:.16s; border:1px solid transparent; cursor:pointer}
+  .btn.primary{color:#fff; background:linear-gradient(135deg,#7d57e6,var(--violet)); box-shadow:0 16px 34px -14px var(--violet)}
+  .btn.primary:hover{transform:translateY(-2px); filter:brightness(1.05)}
+  .btn.ghost{color:var(--ink2); background:rgba(255,255,255,.85); border-color:var(--line2); box-shadow:var(--shadow)}
+  .btn.ghost:hover{border-color:#cbbff0; color:var(--violet-ink); transform:translateY(-2px)}
+
+  .trust{margin-top:-44px; position:relative; z-index:5}
+  .trust-grid{display:grid; grid-template-columns:repeat(4,1fr); gap:16px}
+  .trust-card{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:22px 20px; box-shadow:var(--shadow); text-align:left}
+  .trust-card .ic{width:42px; height:42px; border-radius:12px; display:grid; place-items:center; font-size:1.2rem; margin-bottom:13px; background:linear-gradient(140deg,var(--violet-soft),#fff); border:1px solid var(--line2)}
+  .trust-card b{display:block; font-size:1rem}
+  .trust-card span{font-size:.82rem; color:var(--muted)}
+  @media (max-width:820px){ .trust-grid{grid-template-columns:repeat(2,1fr)} }
+
+  section.block{padding:74px 0}
+  .section-head{max-width:680px; margin:0 auto 40px; text-align:center}
+  .section-head h2{font-size:2rem; margin:0 0 .2em; letter-spacing:-.5px; font-weight:850}
+  .section-head h2 .zh{font-size:.6em; font-weight:700}
+  .section-head p{color:var(--muted); margin:0}
+
+  .values{display:grid; grid-template-columns:repeat(3,1fr); gap:20px}
+  .value{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:28px 26px; box-shadow:var(--shadow); transition:.18s}
+  .value:hover{transform:translateY(-4px); box-shadow:var(--shadow-lg); border-color:#ddd3f5}
+  .value .ic{font-size:1.7rem; margin-bottom:14px}
+  .value h3{margin:0 0 6px; font-size:1.18rem}
+  .value p{margin:0; color:var(--ink2); font-size:.95rem}
+  .value p .zh{display:block; color:var(--muted); font-size:.84rem; margin-top:5px}
+  @media (max-width:820px){ .values{grid-template-columns:1fr} }
+
+  .scene-band{text-align:center; padding:14px 0 0}
+  .scene-band img{max-width:460px; width:74%; height:auto}
+
+  .contact-card{display:flex; align-items:center; justify-content:space-between; gap:30px; flex-wrap:wrap;
+    background:linear-gradient(135deg,#fff,#f8f5ff); border:1px solid var(--line2); border-radius:26px; padding:38px 40px; box-shadow:var(--shadow-lg)}
+  .contact-card .txt h3{margin:0 0 6px; font-size:1.3rem}
+  .contact-card .txt p{margin:0; color:var(--ink2); font-size:.97rem}
+  .contact-card .txt p .zh{display:block; font-size:.84rem; margin-top:4px}
+  .mailrow{display:flex; align-items:center; gap:10px; margin-top:15px; font-weight:600; color:var(--ink2); font-size:.9rem}
+  .mailrow .dot{width:9px; height:9px; border-radius:50%; background:#27c08a; box-shadow:0 0 0 4px #27c08a22}
+
+  .faq{max-width:840px; margin:0 auto; display:grid; gap:13px}
+  details.qa{background:var(--panel); border:1px solid var(--line2); border-radius:15px; padding:0 22px; box-shadow:var(--shadow); transition:border-color .15s}
+  details.qa[open]{border-color:#d6cbf3}
+  details.qa summary{list-style:none; cursor:pointer; padding:19px 0; font-weight:700; font-size:1.05rem; display:flex; align-items:center; justify-content:space-between; gap:16px}
+  details.qa summary::-webkit-details-marker{display:none}
+  details.qa summary .q .zh{display:block; font-weight:500; font-size:.82rem; margin-top:2px}
+  details.qa summary .plus{flex:0 0 27px; width:27px; height:27px; border-radius:9px; border:1px solid var(--line2); display:grid; place-items:center; color:var(--violet); font-size:1.15rem; transition:.2s; background:#faf8ff}
+  details.qa[open] summary .plus{transform:rotate(45deg); background:var(--violet); color:#fff; border-color:var(--violet)}
+  details.qa .body{padding:0 0 20px; color:var(--ink2); font-size:.97rem}
+  details.qa .body .zh{display:block; color:var(--muted); font-size:.86rem; margin-top:8px}
+
+  .privacy-wrap{max-width:880px; margin:0 auto; background:var(--panel); border:1px solid var(--line2); border-radius:26px; box-shadow:var(--shadow-lg); overflow:hidden}
+  .privacy-top{padding:32px 38px; border-bottom:1px solid var(--line); background:linear-gradient(135deg,#f8f5ff,#fff)}
+  .privacy-top .meta{display:inline-flex; align-items:center; gap:8px; font-size:.8rem; color:var(--muted); font-weight:600; background:#fff; border:1px solid var(--line2); padding:6px 13px; border-radius:999px}
+  .pill-list{list-style:none; padding:0; margin:18px 0 0; display:grid; grid-template-columns:repeat(2,1fr); gap:13px}
+  .pill-list li{display:flex; gap:11px; align-items:flex-start; font-size:.94rem}
+  .pill-list .chk{flex:0 0 22px; width:22px; height:22px; border-radius:50%; display:grid; place-items:center; background:#e9faf3; color:#1f9d6b; font-weight:900; font-size:.78rem; margin-top:2px}
+  .pill-list .zh{color:var(--muted); font-size:.82rem}
+  .privacy-body{padding:34px 38px}
+  .privacy-body h3{font-size:1.08rem; margin:28px 0 5px; font-weight:800; display:flex; align-items:center; gap:10px}
+  .privacy-body h3:first-child{margin-top:0}
+  .privacy-body h3 .num{font-size:.72rem; color:var(--violet); border:1px solid var(--line2); border-radius:7px; padding:2px 8px; font-weight:800}
+  .privacy-body p{color:var(--ink2); margin:.2em 0 0; font-size:.96rem}
+  .privacy-body p .zh{display:block; color:var(--muted); font-size:.85rem; margin-top:5px}
+  @media (max-width:680px){ .pill-list{grid-template-columns:1fr} .privacy-top,.privacy-body{padding:26px 22px} }
+
+  footer.site{border-top:1px solid var(--line); margin-top:30px; background:#fff}
+  .foot-inner{display:flex; justify-content:space-between; gap:34px; flex-wrap:wrap; padding:46px 0 34px}
+  .foot-brand{max-width:360px}
+  .foot-brand .lock{display:flex; align-items:center; gap:11px; margin-bottom:13px}
+  .foot-brand .lock img{width:32px; height:32px; border-radius:9px}
+  .foot-brand .lock b{font-weight:800; letter-spacing:.3px; font-size:1.05rem}
+  .foot-brand p{color:var(--muted); font-size:.88rem; margin:0}
+  .foot-col h4{font-size:.74rem; letter-spacing:1.3px; text-transform:uppercase; color:var(--muted); margin:0 0 13px}
+  .foot-col a, .foot-col span{display:block; color:var(--ink2); font-size:.92rem; padding:4px 0}
+  .foot-col a:hover{color:var(--violet-ink)}
+  .foot-bottom{border-top:1px solid var(--line); padding:20px 0; display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px; color:var(--muted); font-size:.82rem}
+</style>
+<style>
+.helpdoc{max-width:820px;margin:0 auto;padding:28px 20px 64px;line-height:1.75}
+.helpdoc h1{font-size:clamp(26px,4.4vw,38px);line-height:1.25;margin:.2em 0 .35em}
+.helpdoc h2{font-size:clamp(19px,2.8vw,24px);margin:2.2em 0 .6em;scroll-margin-top:20px}
+.helpdoc h3{font-size:16.5px;margin:1.6em 0 .35em}
+.helpdoc .lede{font-size:17.5px;opacity:.85;margin:0 0 1.6em}
+.helpdoc ul{padding-left:1.15em}
+.helpdoc li{margin:.35em 0}
+.helpdoc .hd-nav{display:flex;flex-wrap:wrap;gap:14px;font-size:14px;margin:0 0 22px;opacity:.8}
+.helpdoc .hd-toc{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px;padding:0;list-style:none}
+.helpdoc .hd-toc a{display:inline-block;padding:6px 12px;border:1px solid currentColor;border-radius:999px;font-size:13.5px;opacity:.75;text-decoration:none}
+.helpdoc .hd-specs{width:100%;border-collapse:collapse;margin:.6em 0;font-size:15px}
+.helpdoc .hd-specs th{text-align:left;font-weight:600;padding:9px 12px 9px 0;white-space:nowrap;vertical-align:top;opacity:.7}
+.helpdoc .hd-specs td{padding:9px 0;border-bottom:1px solid rgba(128,128,128,.18)}
+.helpdoc .hd-q{margin:1.5em 0 .3em;font-weight:650;font-size:16.5px}
+.helpdoc .hd-a{margin:0 0 .2em}
+.helpdoc .hd-cta{display:inline-block;margin:10px 8px 10px 0;padding:11px 20px;border-radius:999px;border:1px solid currentColor;font-weight:600;text-decoration:none}
+.helpdoc .hd-note{font-size:13px;opacity:.62;margin-top:2.6em;border-top:1px solid rgba(128,128,128,.2);padding-top:14px}
+.helpdoc .hd-langs{margin:2.4em 0 0;font-size:13.5px;line-height:2;opacity:.75;border-top:1px solid rgba(128,128,128,.2);padding-top:14px}
+.helpdoc .hd-langs a{display:inline-block;margin:0 10px 0 0;text-decoration:none;border-bottom:1px solid rgba(128,128,128,.35)}
+@media (max-width:520px){.helpdoc .hd-specs th{display:block;padding-bottom:0}.helpdoc .hd-specs td{display:block;padding-top:2px}}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "url": "https://alice51849.github.io/lumi-math-support/help.zh-Hant.html", "name": "Lumi數學星球：探索版 — 說明、常見問題與疑難排解", "inLanguage": "zh-Hant", "mainEntity": [{"@type": "Question", "name": "需要註冊帳號嗎?", "acceptedAnswer": {"@type": "Answer", "text": "不需要。產品頁說明沒有帳號、註冊或登入流程,安裝後即可直接使用。"}}, {"@type": "Question", "name": "這是訂閱制嗎?", "acceptedAnswer": {"@type": "Answer", "text": "不是。產品頁說明採一次性購買,而非週期性訂閱。購買前可在 App Store 產品頁再次確認付款項目,也可在「設定 →(你的名字)→ 訂閱項目」檢視目前有效的訂閱。"}}, {"@type": "Question", "name": "有廣告嗎?", "acceptedAnswer": {"@type": "Answer", "text": "沒有。產品頁說明此 App 不含廣告。"}}, {"@type": "Question", "name": "匯出的檔案跑到哪裡去了?", "acceptedAnswer": {"@type": "Answer", "text": "匯出是走 iOS 的分享表單,所以會存到你當下選的位置 — 檔案 App(在我的 iPhone 或 iCloud 雲碟)、郵件、訊息或其他 App。若之後找不到檔案,可打開「檔案」App 查看「最近項目」。"}}, {"@type": "Question", "name": "我已經付款,但 App 還是顯示未解鎖", "acceptedAnswer": {"@type": "Answer", "text": "一次性購買會綁定當初付款的 Apple 帳號。請先用同一個帳號登入(設定 →(你的名字)→ 媒體與購買項目),再使用 App 內的「回復購買項目」(若有),或從 App Store 的「已購買」清單重新下載。用其他 Apple 帳號(包含家人的帳號)購買的項目不會出現。"}}, {"@type": "Question", "name": "換了新 iPhone,需要再付一次錢嗎?", "acceptedAnswer": {"@type": "Answer", "text": "不用。在新裝置上用同一個 Apple 帳號登入並重新下載即可;購買紀錄綁在帳號,不是綁在手機。"}}, {"@type": "Question", "name": "要怎麼申請退款?", "acceptedAnswer": {"@type": "Answer", "text": "在 App Store 的購買一律由 Apple 處理退款,開發者無法代為處理。請前往 reportaproblem.apple.com 登入,找到該筆購買並選擇「要求退款」。我們無法核發、加速或推翻 App Store 的退款決定,但仍歡迎告訴我們出了什麼問題。"}}, {"@type": "Question", "name": "怎麼刪除 App 以及它存的資料?", "acceptedAnswer": {"@type": "Answer", "text": "長按 App 圖示 →「移除 App」→「刪除 App」。刪除 iOS App 會一併移除它的沙盒,存在裝置上的文件與設定也會跟著消失,所以請先把要保留的內容匯出。App 究竟儲存了什麼、存在哪裡,寫在我們的隱私權政策。"}}, {"@type": "Question", "name": "怎麼確認自己用的是最新版?", "acceptedAnswer": {"@type": "Answer", "text": "打開 App Store,點右上角個人頭像,下拉重新整理待更新清單;若 App 出現在清單中,點「更新」。在「設定 → App Store → App 更新項目」開啟自動更新後就不用手動確認。"}}, {"@type": "Question", "name": "怎麼避免小孩不小心買東西?", "acceptedAnswer": {"@type": "Answer", "text": "iOS 可以在系統層級擋掉,比任何 App 自己做的防護都可靠:設定 → 螢幕使用時間 → 內容與隱私權限制 → iTunes 與 App Store 購買項目 → App 內購買項目 → 不允許。請設定一組與裝置密碼不同的螢幕使用時間密碼,孩子才無法自行取消。"}}, {"@type": "Question", "name": "怎麼讓孩子只能停在這一個 App 裡?", "acceptedAnswer": {"@type": "Answer", "text": "使用「輔助使用控制」:設定 → 輔助使用 → 輔助使用控制,開啟並設定密碼。之後打開該 App,連按三下側邊按鈕即可把裝置鎖在這個 App 裡;再連按三下並輸入密碼就能離開。"}}, {"@type": "Question", "name": "Lumi數學星球：探索版 需要哪些裝置與 iOS 版本?", "acceptedAnswer": {"@type": "Answer", "text": "請看 App Store 產品頁,該頁「資訊」區塊永遠是相容性、大小與語言最即時且權威的答案。"}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Lumi數學星球：探索版", "operatingSystem": "iOS", "applicationCategory": "Education", "url": "https://apps.apple.com/app/id6778269699", "installUrl": "https://apps.apple.com/app/id6778269699", "softwareHelp": {"@type": "CreativeWork", "url": "https://alice51849.github.io/lumi-math-support/help.zh-Hant.html"}}</script>
+</head>
+<body>
+<main class="helpdoc">
+<p class="hd-nav"><a href="./">支援首頁</a><a href="privacy.html">隱私權政策</a><a href="https://apps.apple.com/app/id6778269699" rel="noopener">在 App Store 檢視</a></p>
+<h1>Lumi數學星球：探索版 — 說明與常見問題</h1>
+<p class="lede">Lumi數學星球：探索版 最常被問到的問題、疑難排解步驟,以及聯絡真人的方式。</p>
+<p class="hd-toc-label"><strong>本頁內容</strong></p>
+<ul class="hd-toc"><li><a href="#about">Lumi數學星球：探索版 是什麼</a></li><li><a href="#features">功能一覽</a></li><li><a href="#specs">基本資訊</a></li><li><a href="#faq">常見問題</a></li><li><a href="#troubleshooting">疑難排解</a></li><li><a href="#more">同一開發者的其他說明頁</a></li><li><a href="#contact">還是沒解決?寫信給我們</a></li></ul>
+<section id="about"><h2>Lumi數學星球：探索版 是什麼</h2><p>有些 App 教數學。這一款，讓孩子愛上數學。</p></section>
+<section id="features"><h2>功能一覽</h2><h3>一個用「思考」親手點亮的宇宙</h3><ul><li>「Lumi 數學星球」把數學變成一場溫暖、電影級的星際冒險。答對一題，原本暗暗的小星球就會亮起來——建築升起、極光綻放，一隻可愛的太空夥伴緩緩降落到孩子身邊。從「微光星球」一路到「大魔王星球」，每一個正確答案，都讓這座宇宙更美一點。沒有失敗、沒有刺耳的音效、沒有挫折，只有溫柔的鼓勵。於是自信，自己長了出來。</li><li>孩子會主動說「我還要玩」。就是這一點，改變了一切。</li></ul><h3>用看得見的質感打造</h3><ul><li>每一個物件都是溫潤的黏土風質感。每一題都有真人般的溫柔語音。這不是貼了卡通的習題本——而是一個用「老師般的愛」蓋出來的小宇宙。</li><li>練的是思考，不只是答案——對標競賽</li><li>多數數學 App 練的是「算得快」。Lumi 練的是「想得巧」。題型靈感取自世界級幼兒數學挑戰——WMI 世界數學邀請賽、袋鼠數學等的思維方向：數列規律、邏輯推理、空間圖形、簡單組合計數、應用思考。讓孩子在餐桌前，就開始像個小小數學家一樣思考。</li></ul><h3>清楚到「還不識字就能玩」</h3><ul><li>每一題都是圖像化的。骰子、十格框、數線、成長排列、長條圖——把抽象運算變成一眼就懂的畫面。不死背、不亂猜，真正的數感，是被孩子自己發現的。</li><li>從第一個數字，到競賽級思維，全都在</li><li>加法與減法（含破百三位數進退位）、乘法、除法（含平分與餘數）、湊十補數、位值、比大小、找規律、奇偶、序數、時間、金錢——超過 40 種題型，由淺到深、自動分級。無論是還不識字的幼兒、剛上小學的孩子，還是想重新打好基礎的任何人，都能從自己的程度，一步步往上。</li></ul><h3>看得見的成長</h3><ul><li>家長專區呈現「五大能力群」學習數據、標出弱項、一鍵進入集中練習；還能匯出可列印的「練習學習單」與「成長報告」（在手機開啟即可列印或存成 PDF），把每一步進步帶著走。</li></ul><h3>中・英・日・韓 四種母語</h3><ul><li>依裝置自動偵測系統語言，題目文字與真人化語音全程在地化，給孩子最自然的母語學習。</li></ul></section>
+<section id="specs"><h2>基本資訊</h2><table class="hd-specs"><tbody><tr><th>系統需求</th><td>iOS 15.1+</td></tr><tr><th>支援裝置</th><td>iPhone 與 iPad</td></tr><tr><th>年齡分級</th><td>4+</td></tr><tr><th>類別</th><td>Education</td></tr></tbody></table></section>
+<section id="faq"><h2>常見問題</h2><p class="hd-q" id="q-q">需要註冊帳號嗎?</p><p class="hd-a">不需要。產品頁說明沒有帳號、註冊或登入流程,安裝後即可直接使用。</p><p class="hd-q" id="q-q">這是訂閱制嗎?</p><p class="hd-a">不是。產品頁說明採一次性購買,而非週期性訂閱。購買前可在 App Store 產品頁再次確認付款項目,也可在「設定 →(你的名字)→ 訂閱項目」檢視目前有效的訂閱。</p><p class="hd-q" id="q-q">有廣告嗎?</p><p class="hd-a">沒有。產品頁說明此 App 不含廣告。</p><p class="hd-q" id="q-q">匯出的檔案跑到哪裡去了?</p><p class="hd-a">匯出是走 iOS 的分享表單,所以會存到你當下選的位置 — 檔案 App(在我的 iPhone 或 iCloud 雲碟)、郵件、訊息或其他 App。若之後找不到檔案,可打開「檔案」App 查看「最近項目」。</p><p class="hd-q" id="q-app">我已經付款,但 App 還是顯示未解鎖</p><p class="hd-a">一次性購買會綁定當初付款的 Apple 帳號。請先用同一個帳號登入(設定 →(你的名字)→ 媒體與購買項目),再使用 App 內的「回復購買項目」(若有),或從 App Store 的「已購買」清單重新下載。用其他 Apple 帳號(包含家人的帳號)購買的項目不會出現。</p><p class="hd-q" id="q-iphone">換了新 iPhone,需要再付一次錢嗎?</p><p class="hd-a">不用。在新裝置上用同一個 Apple 帳號登入並重新下載即可;購買紀錄綁在帳號,不是綁在手機。</p><p class="hd-q" id="q-q">要怎麼申請退款?</p><p class="hd-a">在 App Store 的購買一律由 Apple 處理退款,開發者無法代為處理。請前往 <a href="https://reportaproblem.apple.com" rel="nofollow noopener">reportaproblem.apple.com</a> 登入,找到該筆購買並選擇「要求退款」。我們無法核發、加速或推翻 App Store 的退款決定,但仍歡迎告訴我們出了什麼問題。</p><p class="hd-q" id="q-app">怎麼刪除 App 以及它存的資料?</p><p class="hd-a">長按 App 圖示 →「移除 App」→「刪除 App」。刪除 iOS App 會一併移除它的沙盒,存在裝置上的文件與設定也會跟著消失,所以請先把要保留的內容匯出。App 究竟儲存了什麼、存在哪裡,寫在我們的<a href="https://alice51849.github.io/lumi-math-support/privacy.html">隱私權政策</a>。</p><p class="hd-q" id="q-q">怎麼確認自己用的是最新版?</p><p class="hd-a">打開 App Store,點右上角個人頭像,下拉重新整理待更新清單;若 App 出現在清單中,點「更新」。在「設定 → App Store → App 更新項目」開啟自動更新後就不用手動確認。</p><p class="hd-q" id="q-q">怎麼避免小孩不小心買東西?</p><p class="hd-a">iOS 可以在系統層級擋掉,比任何 App 自己做的防護都可靠:設定 → 螢幕使用時間 → 內容與隱私權限制 → iTunes 與 App Store 購買項目 → App 內購買項目 → 不允許。請設定一組與裝置密碼不同的螢幕使用時間密碼,孩子才無法自行取消。</p><p class="hd-q" id="q-app">怎麼讓孩子只能停在這一個 App 裡?</p><p class="hd-a">使用「輔助使用控制」:設定 → 輔助使用 → 輔助使用控制,開啟並設定密碼。之後打開該 App,連按三下側邊按鈕即可把裝置鎖在這個 App 裡;再連按三下並輸入密碼就能離開。</p><p class="hd-q" id="q-lumi-ios">Lumi數學星球：探索版 需要哪些裝置與 iOS 版本?</p><p class="hd-a">請看 <a href="https://apps.apple.com/app/id6778269699" rel="noopener">App Store 產品頁</a>,該頁「資訊」區塊永遠是相容性、大小與語言最即時且權威的答案。</p></section>
+<section id="troubleshooting"><h2>疑難排解</h2><h3>App 打不開,或一開就閃退</h3><p>先強制結束:從螢幕底部往上滑並停住,再把該 App 的卡片往上撥掉,然後重新開啟。若仍然閃退,重新啟動裝置 — 多數一次性的啟動失敗都能靠這步解決。</p><h3>很慢,或處理大檔案時卡住</h3><p>到「設定 → 一般 → iPhone 儲存空間」看剩餘空間。iOS 在剩餘空間低於約 1 GB 時行為會變得不穩定,而任何要寫檔的功能(匯出、掃描、影像處理)會最先出問題。同時關掉其他在背景運作的 App。</p><h3>更新後畫面或功能怪怪的</h3><p>先更新 iOS 本身(設定 → 一般 → 軟體更新),再更新 App。舊版 iOS 搭配新版 App 是版面或功能異常的常見原因。</p><h3>最後手段:重新安裝</h3><p>先匯出想保留的內容,刪除 App,再從 App Store 的「已購買」清單重新安裝。付費解鎖綁在 Apple 帳號,重裝後仍在;只存在裝置本機的資料則不會回來。</p></section>
+<section id="more"><h2>同一開發者的其他說明頁</h2><ul><li><a href="https://alice51849.github.io/ios-app-guide/zh-Hant/guides/lumimath.html">Lumi數學星球：探索版 深入介紹</a></li><li><a href="https://alice51849.github.io/lumi-support/help.zh-Hant.html">Lumi注音星球</a></li><li><a href="https://alice51849.github.io/lumi-weather-support/help.zh-Hant.html">Lumi天氣星球 親子出遊指數</a></li><li><a href="https://alice51849.github.io/lumi-mission-support/help.zh-Hant.html">Lumi 任務星球：生活習慣養成</a></li><li><a href="https://alice51849.github.io/lumi-letters-support/help.zh-Hant.html">Lumi 字母星球 Lite：兒童英文ABC遊戲</a></li></ul></section>
+<section id="contact"><h2>還是沒解決?寫信給我們</h2><p>請寄到 <a href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a>。為了第一封回信就能幫到你,請附上:裝置型號(設定 → 一般 → 關於本機)、iOS 版本、App 版本,以及問題出現前你點了什麼。附上截圖或螢幕錄影會更快。</p></section>
+<p style="margin-top:2em"><a class="hd-cta" href="https://apps.apple.com/app/id6778269699" rel="noopener">Lumi數學星球：探索版 — 在 App Store 檢視</a></p>
+<nav class="hd-langs" aria-label="本頁的其他語言版本"><strong>本頁的其他語言版本:</strong> <a href="https://alice51849.github.io/lumi-math-support/help.html" hreflang="en-US" lang="en-US">English</a> <a href="https://alice51849.github.io/lumi-math-support/help.ar-SA.html" hreflang="ar-SA" lang="ar-SA">العربية</a> <a href="https://alice51849.github.io/lumi-math-support/help.de-DE.html" hreflang="de-DE" lang="de-DE">Deutsch</a> <a href="https://alice51849.github.io/lumi-math-support/help.en-AU.html" hreflang="en-AU" lang="en-AU">English (AU)</a> <a href="https://alice51849.github.io/lumi-math-support/help.fr-FR.html" hreflang="fr-FR" lang="fr-FR">Français</a> <a href="https://alice51849.github.io/lumi-math-support/help.hi.html" hreflang="hi" lang="hi">हिन्दी</a> <a href="https://alice51849.github.io/lumi-math-support/help.ja.html" hreflang="ja" lang="ja">日本語</a> <a href="https://alice51849.github.io/lumi-math-support/help.ko.html" hreflang="ko" lang="ko">한국어</a> <a href="https://alice51849.github.io/lumi-math-support/help.pt-BR.html" hreflang="pt-BR" lang="pt-BR">Português (BR)</a> <a href="https://alice51849.github.io/lumi-math-support/help.th.html" hreflang="th" lang="th">ไทย</a> <a href="https://alice51849.github.io/lumi-math-support/help.vi.html" hreflang="vi" lang="vi">Tiếng Việt</a></nav>
+<p class="hd-note">本頁功能敘述取自該 App 的 App Store 產品頁文案;規格取自 App Store 公開的產品資料,可能隨版本更新而變動。 · 最後更新: 2026-08-12</p>
+</main>
+<footer></footer>
+</body>
+</html>
