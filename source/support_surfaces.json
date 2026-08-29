@@ -1,0 +1,3268 @@
+{
+  "schema": "support-surface-source/v1",
+  "site": "lumi-math-support",
+  "base_url": "https://alice51849.github.io/lumi-math-support/",
+  "email": "hourstag.app@gmail.com",
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "routes": {
+    "ar-SA": {
+      "index": "ar-SA/index.html",
+      "support": "ar-SA/support.html",
+      "privacy": "ar-SA/privacy.html"
+    },
+    "bn-BD": {
+      "index": "bn-BD/index.html",
+      "support": "bn-BD/support.html",
+      "privacy": "bn-BD/privacy.html"
+    },
+    "ca": {
+      "index": "ca/index.html",
+      "support": "ca/support.html",
+      "privacy": "ca/privacy.html"
+    },
+    "cs": {
+      "index": "cs/index.html",
+      "support": "cs/support.html",
+      "privacy": "cs/privacy.html"
+    },
+    "da": {
+      "index": "da/index.html",
+      "support": "da/support.html",
+      "privacy": "da/privacy.html"
+    },
+    "de-DE": {
+      "index": "de-DE/index.html",
+      "support": "de-DE/support.html",
+      "privacy": "de-DE/privacy.html"
+    },
+    "el": {
+      "index": "el/index.html",
+      "support": "el/support.html",
+      "privacy": "el/privacy.html"
+    },
+    "en-AU": {
+      "index": "index.html",
+      "support": "support.html",
+      "privacy": "privacy.html"
+    },
+    "en-CA": {
+      "index": "index.html",
+      "support": "support.html",
+      "privacy": "privacy.html"
+    },
+    "en-GB": {
+      "index": "index.html",
+      "support": "support.html",
+      "privacy": "privacy.html"
+    },
+    "en-US": {
+      "index": "index.html",
+      "support": "support.html",
+      "privacy": "privacy.html"
+    },
+    "es-ES": {
+      "index": "es-ES/index.html",
+      "support": "es-ES/support.html",
+      "privacy": "es-ES/privacy.html"
+    },
+    "es-MX": {
+      "index": "es-MX/index.html",
+      "support": "es-MX/support.html",
+      "privacy": "es-MX/privacy.html"
+    },
+    "fi": {
+      "index": "fi/index.html",
+      "support": "fi/support.html",
+      "privacy": "fi/privacy.html"
+    },
+    "fr-CA": {
+      "index": "fr-CA/index.html",
+      "support": "fr-CA/support.html",
+      "privacy": "fr-CA/privacy.html"
+    },
+    "fr-FR": {
+      "index": "fr-FR/index.html",
+      "support": "fr-FR/support.html",
+      "privacy": "fr-FR/privacy.html"
+    },
+    "gu-IN": {
+      "index": "gu-IN/index.html",
+      "support": "gu-IN/support.html",
+      "privacy": "gu-IN/privacy.html"
+    },
+    "he": {
+      "index": "he/index.html",
+      "support": "he/support.html",
+      "privacy": "he/privacy.html"
+    },
+    "hi": {
+      "index": "hi/index.html",
+      "support": "hi/support.html",
+      "privacy": "hi/privacy.html"
+    },
+    "hr": {
+      "index": "hr/index.html",
+      "support": "hr/support.html",
+      "privacy": "hr/privacy.html"
+    },
+    "hu": {
+      "index": "hu/index.html",
+      "support": "hu/support.html",
+      "privacy": "hu/privacy.html"
+    },
+    "id": {
+      "index": "id/index.html",
+      "support": "id/support.html",
+      "privacy": "id/privacy.html"
+    },
+    "it": {
+      "index": "it/index.html",
+      "support": "it/support.html",
+      "privacy": "it/privacy.html"
+    },
+    "ja": {
+      "index": "ja/index.html",
+      "support": "ja/support.html",
+      "privacy": "ja/privacy.html"
+    },
+    "kn-IN": {
+      "index": "kn-IN/index.html",
+      "support": "kn-IN/support.html",
+      "privacy": "kn-IN/privacy.html"
+    },
+    "ko": {
+      "index": "ko/index.html",
+      "support": "ko/support.html",
+      "privacy": "ko/privacy.html"
+    },
+    "ml-IN": {
+      "index": "ml-IN/index.html",
+      "support": "ml-IN/support.html",
+      "privacy": "ml-IN/privacy.html"
+    },
+    "mr-IN": {
+      "index": "mr-IN/index.html",
+      "support": "mr-IN/support.html",
+      "privacy": "mr-IN/privacy.html"
+    },
+    "ms": {
+      "index": "ms/index.html",
+      "support": "ms/support.html",
+      "privacy": "ms/privacy.html"
+    },
+    "nl-NL": {
+      "index": "nl-NL/index.html",
+      "support": "nl-NL/support.html",
+      "privacy": "nl-NL/privacy.html"
+    },
+    "no": {
+      "index": "no/index.html",
+      "support": "no/support.html",
+      "privacy": "no/privacy.html"
+    },
+    "or-IN": {
+      "index": "or-IN/index.html",
+      "support": "or-IN/support.html",
+      "privacy": "or-IN/privacy.html"
+    },
+    "pa-IN": {
+      "index": "pa-IN/index.html",
+      "support": "pa-IN/support.html",
+      "privacy": "pa-IN/privacy.html"
+    },
+    "pl": {
+      "index": "pl/index.html",
+      "support": "pl/support.html",
+      "privacy": "pl/privacy.html"
+    },
+    "pt-BR": {
+      "index": "pt-BR/index.html",
+      "support": "pt-BR/support.html",
+      "privacy": "pt-BR/privacy.html"
+    },
+    "pt-PT": {
+      "index": "pt-PT/index.html",
+      "support": "pt-PT/support.html",
+      "privacy": "pt-PT/privacy.html"
+    },
+    "ro": {
+      "index": "ro/index.html",
+      "support": "ro/support.html",
+      "privacy": "ro/privacy.html"
+    },
+    "ru": {
+      "index": "ru/index.html",
+      "support": "ru/support.html",
+      "privacy": "ru/privacy.html"
+    },
+    "sk": {
+      "index": "sk/index.html",
+      "support": "sk/support.html",
+      "privacy": "sk/privacy.html"
+    },
+    "sl-SI": {
+      "index": "sl-SI/index.html",
+      "support": "sl-SI/support.html",
+      "privacy": "sl-SI/privacy.html"
+    },
+    "sv": {
+      "index": "sv/index.html",
+      "support": "sv/support.html",
+      "privacy": "sv/privacy.html"
+    },
+    "ta-IN": {
+      "index": "ta-IN/index.html",
+      "support": "ta-IN/support.html",
+      "privacy": "ta-IN/privacy.html"
+    },
+    "te-IN": {
+      "index": "te-IN/index.html",
+      "support": "te-IN/support.html",
+      "privacy": "te-IN/privacy.html"
+    },
+    "th": {
+      "index": "th/index.html",
+      "support": "th/support.html",
+      "privacy": "th/privacy.html"
+    },
+    "tr": {
+      "index": "tr/index.html",
+      "support": "tr/support.html",
+      "privacy": "tr/privacy.html"
+    },
+    "uk": {
+      "index": "uk/index.html",
+      "support": "uk/support.html",
+      "privacy": "uk/privacy.html"
+    },
+    "ur-PK": {
+      "index": "ur-PK/index.html",
+      "support": "ur-PK/support.html",
+      "privacy": "ur-PK/privacy.html"
+    },
+    "vi": {
+      "index": "vi/index.html",
+      "support": "vi/support.html",
+      "privacy": "vi/privacy.html"
+    },
+    "zh-Hans": {
+      "index": "zh-Hans/index.html",
+      "support": "zh-Hans/support.html",
+      "privacy": "zh-Hans/privacy.html"
+    },
+    "zh-Hant": {
+      "index": "zh-Hant/index.html",
+      "support": "zh-Hant/support.html",
+      "privacy": "zh-Hant/privacy.html"
+    }
+  },
+  "language_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文",
+    "hr": "Hrvatski",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "nl-NL": "Nederlands",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ms": "Bahasa Melayu",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "no": "Norsk bokmål",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "es-MX": "Español (México)",
+    "es-ES": "Español",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt"
+  },
+  "icon_url": "https://alice51849.github.io/lumi-math-support/logo.png",
+  "theme": {
+    "a1": "#7A5AC8",
+    "a2": "#EF8E64",
+    "ink": "#24212C",
+    "muted": "#686273",
+    "background": "#FBFAFE",
+    "panel": "rgba(255,255,255,.82)"
+  },
+  "authority": {
+    "surface_contract_sha256": "4481c241b4ce7fc0429a2eb4351c01b581ce1bda5cc3b1ccf6d0ea54f38dea04",
+    "crosspromo_config_sha256": "e35d834b73262780c223f2704065378b9634277562827397fee8f913baac7b5d",
+    "catalog_content_digest": "8feba77d050061d0f270dba2e2d02989a41341d766f7540bea0249de2e8aafbc",
+    "catalog_date_modified": "2026-08-29",
+    "requirements_sha256": "a1ca2bbe50fd75e4c4fb0075910a48b7e7fd44f89e75131242e068f2514e290f",
+    "root_index_sha256": "d78161cf2576524469cc30f03f4fb9a04870211896afbc433f1330eaa1afb18b",
+    "root_support_sha256": "",
+    "root_privacy_sha256": "",
+    "app_key": "lumimath",
+    "app_source_sha256": {
+      "app.json": "0d91f2fc12a72c74ed4cc765e580f00dd3a2b0c755d7d9414313ac397b893064",
+      "package.json": "aa7381627f3dda5717aee06668b2c41f3aabbbeb785c3a841dba5a17da7baefd",
+      "i18n_extra.json": "072d2a865af6f6eced4008ad84bd6a30dad79197468121b998da357c88f10af7",
+      "iap.js": "ff06005288fd410e2578d8770b7dfdc5e812aeab054260be957656bdd17abe2a"
+    }
+  },
+  "authority_digest": "4a1f47ec99c1acd6f96a6202568f1be8457c265b0b74945b64ef5afb5f4bdb0d",
+  "surface_contract_digest": "4481c241b4ce7fc0429a2eb4351c01b581ce1bda5cc3b1ccf6d0ea54f38dea04",
+  "targets": [
+    {
+      "locale": "ar-SA",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "الرئيسية",
+        "الدعم",
+        "الخصوصية"
+      ],
+      "nav_label": "اللغة",
+      "language_label": "اللغة",
+      "support_label": "الانتقال إلى الدعم",
+      "contact_heading": "التواصل معنا",
+      "contact_body": "راسلنا على hourstag.app@gmail.com . ولكي نساعدك من أول رد، اذكر طراز جهازك (الإعدادات ← عام ← حول) وإصدار iOS وإصدار التطبيق وما كنت تفعله قبل حدوث المشكلة مباشرة. وإرفاق لقطة شاشة أو تسجيل للشاشة يجعل الأمر أسرع.",
+      "contact_button": "التواصل معنا",
+      "footer_note": "لا يستخدم هذا الموقع أي أدوات تتبع أو إعلانات أو تحليلات من أطراف أخرى.",
+      "title": "سياسة الخصوصية لتطبيق Lumi Math Planet",
+      "description": "باختصار: بلا حساب، وبلا جمع لبيانات شخصية، وبلا إعلانات من أطراف أخرى، وبلا تحليلات من أطراف أخرى.",
+      "eyebrow": "سياسة الخصوصية",
+      "heading": "الخصوصية",
+      "lead": "توضح هذه الصفحة البيانات التي يتعامل معها Lumi Math Planet، وأين تبقى، وما الذي تقرره أنت.",
+      "sections": [
+        {
+          "heading": "لمن هذا التطبيق",
+          "body": "صُمّم التطبيق ليكون أداة تساعد الآباء والأمهات وأولياء الأمور ومقدّمي الرعاية على اتخاذ القرار، لا ليستخدمه الأطفال بمفردهم. ولا نطلب اسم الطفل ولا تاريخ ميلاده ولا صوره ولا بياناته الصحية ولا نحتفظ بها."
+        },
+        {
+          "heading": "المعلومات التي نجمعها",
+          "body": "نحن لا نجمع أي بيانات شخصية ولا نخزّنها ولا نرسلها إلى خوادمنا. ولا يوجد في Lumi Math Planet حسابات مستخدمين ولا تسجيل دخول."
+        },
+        {
+          "heading": "أين تبقى بياناتك",
+          "body": "ما تنشئه وتضبطه في Lumi Math Planet يبقى على جهازك وحده، ضمن التخزين المحلي الاعتيادي من Apple. وإذا حذفت التطبيق فإنه يُحذف معه."
+        },
+        {
+          "heading": "المشتريات",
+          "body": "تتولى App Store من Apple (StoreKit) عمليات الشراء داخل التطبيق بالكامل. ونحن لا نستلم بيانات الدفع الخاصة بك ولا نخزّنها. وبحساب Apple نفسه يمكنك استعادة عملية الشراء على جهاز جديد."
+        },
+        {
+          "heading": "الأطراف الأخرى",
+          "body": "لا يحتوي التطبيق على إعلانات من أطراف أخرى ولا على حزم تحليلات أو تتبّع. ولا نبني عنك ملفًا شخصيًا عبر التطبيقات أو المواقع."
+        },
+        {
+          "heading": "خصوصية الأطفال",
+          "body": "لأننا لا نجمع بيانات شخصية عن أي شخص، فنحن لا نجمعها عن الأطفال أيضًا. ولا نطلب اسم الطفل ولا تاريخ ميلاده ولا بيانات التواصل معه ولا صوره ولا بياناته الصحية."
+        },
+        {
+          "heading": "خياراتك",
+          "body": "لأن أي بيانات شخصية لا تغادر جهازك، لا يوجد لدينا حساب يمكن حذفه. ولإزالة البيانات المحلية احذف التطبيق. ويسعدنا استقبال أي سؤال أو طلب يتعلق بالخصوصية عبر البريد."
+        },
+        {
+          "heading": "التغييرات على هذه السياسة",
+          "body": "إذا تغيّرت إحدى ميزات التطبيق بما يمسّ هذه السياسة، فسنحدّث هذه الصفحة وتاريخ التحديث في الأعلى."
+        }
+      ],
+      "parent_note": "صُمّم التطبيق ليكون أداة تساعد الآباء والأمهات وأولياء الأمور ومقدّمي الرعاية على اتخاذ القرار، لا ليستخدمه الأطفال بمفردهم. ولا نطلب اسم الطفل ولا تاريخ ميلاده ولا صوره ولا بياناته الصحية ولا نحتفظ بها.",
+      "path": "ar-SA/privacy.html"
+    },
+    {
+      "locale": "bn-BD",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "হোম",
+        "সহায়তা",
+        "গোপনীয়তা"
+      ],
+      "nav_label": "ভাষা",
+      "language_label": "ভাষা",
+      "support_label": "সহায়তায় যান",
+      "contact_heading": "যোগাযোগ",
+      "contact_body": "আমাদের hourstag.app@gmail.com ঠিকানায় লিখুন। প্রথম উত্তরেই যাতে সাহায্য করতে পারি, সে জন্য ডিভাইসের মডেল (সেটিংস → সাধারণ → সম্পর্কে), iOS সংস্করণ, অ্যাপ সংস্করণ এবং সমস্যার ঠিক আগে আপনি কী করছিলেন তা জানান। স্ক্রিনশট বা স্ক্রিন রেকর্ডিং থাকলে আরও দ্রুত সমাধান হয়।",
+      "contact_button": "যোগাযোগ",
+      "footer_note": "এই সাইটে তৃতীয় পক্ষের কোনো ট্র্যাকার, বিজ্ঞাপন বা অ্যানালিটিক্স ব্যবহার করা হয় না।",
+      "title": "Lumi Math Planet-এর গোপনীয়তা নীতি",
+      "description": "সংক্ষেপে: কোনো অ্যাকাউন্ট নেই, ব্যক্তিগত তথ্য সংগ্রহ নেই, তৃতীয় পক্ষের বিজ্ঞাপন নেই, তৃতীয় পক্ষের অ্যানালিটিক্স নেই।",
+      "eyebrow": "গোপনীয়তা নীতি",
+      "heading": "গোপনীয়তা",
+      "lead": "এই পৃষ্ঠায় বলা আছে Lumi Math Planet কোন তথ্য নিয়ে কাজ করে, সেগুলো কোথায় থাকে এবং কোন সিদ্ধান্ত আপনার হাতে।",
+      "sections": [
+        {
+          "heading": "এই অ্যাপ কাদের জন্য",
+          "body": "অ্যাপটি বাবা-মা, অভিভাবক ও যত্নকারীদের সিদ্ধান্ত নিতে সাহায্য করার জন্য তৈরি, শিশুদের একা ব্যবহারের জন্য নয়। কোনো শিশুর নাম, জন্মতারিখ, ছবি বা স্বাস্থ্য সংক্রান্ত তথ্য আমরা চাই না, রাখিও না।"
+        },
+        {
+          "heading": "আমরা কী তথ্য সংগ্রহ করি",
+          "body": "আমরা আমাদের সার্ভারে কোনো ব্যক্তিগত তথ্য সংগ্রহ, সংরক্ষণ বা প্রেরণ করি না। Lumi Math Planet-এ ব্যবহারকারী অ্যাকাউন্ট বা সাইন-ইনের কোনো ব্যবস্থা নেই।"
+        },
+        {
+          "heading": "আপনার তথ্য কোথায় থাকে",
+          "body": "আপনি Lumi Math Planet-এ যা তৈরি করেন এবং যেসব সেটিং ঠিক করেন তা কেবল আপনার ডিভাইসেই, Apple-এর সাধারণ স্থানীয় স্টোরেজে থাকে। অ্যাপ মুছে ফেললে সেগুলোও চলে যায়।"
+        },
+        {
+          "heading": "কেনাকাটা",
+          "body": "ইন-অ্যাপ কেনাকাটা সম্পূর্ণভাবে Apple-এর App Store (StoreKit) পরিচালনা করে। আপনার পেমেন্টের তথ্য আমরা পাই না, রাখিও না। একই Apple অ্যাকাউন্ট দিয়ে নতুন ডিভাইসে কেনা জিনিস পুনরুদ্ধার করা যায়।"
+        },
+        {
+          "heading": "তৃতীয় পক্ষ",
+          "body": "অ্যাপে তৃতীয় পক্ষের বিজ্ঞাপন, অ্যানালিটিক্স বা ট্র্যাকিং SDK নেই। বিভিন্ন অ্যাপ বা ওয়েবসাইটের মধ্যে আপনার কোনো প্রোফাইল আমরা তৈরি করি না।"
+        },
+        {
+          "heading": "শিশুদের গোপনীয়তা",
+          "body": "যেহেতু আমরা কারও ব্যক্তিগত তথ্যই সংগ্রহ করি না, শিশুদেরটাও করি না। কোনো শিশুর নাম, জন্মতারিখ, যোগাযোগের তথ্য, ছবি বা স্বাস্থ্য সংক্রান্ত তথ্য আমরা চাই না।"
+        },
+        {
+          "heading": "আপনার পছন্দ",
+          "body": "যেহেতু কোনো ব্যক্তিগত তথ্য আপনার ডিভাইসের বাইরে যায় না, আমাদের দিকে মুছে ফেলার মতো কোনো অ্যাকাউন্টই নেই। স্থানীয় তথ্য সরাতে চাইলে অ্যাপটি মুছে দিন। গোপনীয়তা সংক্রান্ত প্রশ্ন বা অনুরোধ ইমেইলে পাঠাতে পারেন।"
+        },
+        {
+          "heading": "এই নীতির পরিবর্তন",
+          "body": "অ্যাপের কোনো সুবিধা এমনভাবে বদলালে যা এই নীতিকে স্পর্শ করে, আমরা এই পৃষ্ঠা ও উপরের তারিখ হালনাগাদ করব।"
+        }
+      ],
+      "parent_note": "অ্যাপটি বাবা-মা, অভিভাবক ও যত্নকারীদের সিদ্ধান্ত নিতে সাহায্য করার জন্য তৈরি, শিশুদের একা ব্যবহারের জন্য নয়। কোনো শিশুর নাম, জন্মতারিখ, ছবি বা স্বাস্থ্য সংক্রান্ত তথ্য আমরা চাই না, রাখিও না।",
+      "path": "bn-BD/privacy.html"
+    },
+    {
+      "locale": "ca",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Inici",
+        "Assistència",
+        "Privadesa"
+      ],
+      "nav_label": "Idioma",
+      "language_label": "Idioma",
+      "support_label": "Anar a l'assistència",
+      "contact_heading": "Contacte",
+      "contact_body": "Escriu-nos a hourstag.app@gmail.com . Perquè et puguem ajudar ja a la primera resposta, indica el model del dispositiu (Configuració → General → Informació), la versió d'iOS, la versió de l'app i què estaves fent just abans del problema. Una captura o una gravació de pantalla encara ho accelera més.",
+      "contact_button": "Contacte",
+      "footer_note": "Aquest lloc no fa servir rastrejadors, publicitat ni analítiques de tercers.",
+      "title": "Política de privadesa de Lumi Math Planet",
+      "description": "En resum: cap compte, cap recollida de dades personals, cap publicitat de tercers, cap analítica de tercers.",
+      "eyebrow": "Política de privadesa",
+      "heading": "Privadesa",
+      "lead": "En aquesta pàgina expliquem quines dades tracta Lumi Math Planet, on es queden i què pots decidir tu.",
+      "sections": [
+        {
+          "heading": "A qui va adreçada aquesta app",
+          "body": "L'app està pensada com a eina de suport a la decisió per a mares, pares, tutors i cuidadors, no perquè la facin servir els infants pel seu compte. No demanem ni desem el nom, la data de naixement, les fotos ni les dades de salut de cap menor."
+        },
+        {
+          "heading": "Quina informació recollim",
+          "body": "No recollim, no desem ni transmetem cap dada personal als nostres servidors. Lumi Math Planet no té comptes d'usuari ni sistema d'inici de sessió."
+        },
+        {
+          "heading": "On es queden les teves dades",
+          "body": "El que crees i configures a Lumi Math Planet es queda només al teu dispositiu, a l'emmagatzematge local estàndard d'Apple. Si elimines l'app, desapareix amb ella."
+        },
+        {
+          "heading": "Compres",
+          "body": "Les compres dins l'app les gestiona íntegrament l'App Store d'Apple (StoreKit). No rebem ni desem les teves dades de pagament. Amb el mateix compte d'Apple pots restaurar la compra en un dispositiu nou."
+        },
+        {
+          "heading": "Tercers",
+          "body": "L'app no conté publicitat de tercers ni SDK d'analítica o de seguiment. No construïm cap perfil teu entre apps ni entre webs."
+        },
+        {
+          "heading": "Privadesa dels menors",
+          "body": "Com que no recollim dades personals de ningú, tampoc no en recollim dels infants. No demanem el nom, la data de naixement, les dades de contacte, les fotos ni les dades de salut de cap menor."
+        },
+        {
+          "heading": "Les teves opcions",
+          "body": "Com que cap dada personal surt del teu dispositiu, a la nostra banda no hi ha cap compte per esborrar. Per treure les dades locals, elimina l'app. Per a preguntes o peticions sobre privadesa, escriu-nos."
+        },
+        {
+          "heading": "Canvis en aquesta política",
+          "body": "Si una funció de l'app canvia d'una manera que afecti aquesta política, actualitzarem aquesta pàgina i la data d'actualització de dalt."
+        }
+      ],
+      "parent_note": "L'app està pensada com a eina de suport a la decisió per a mares, pares, tutors i cuidadors, no perquè la facin servir els infants pel seu compte. No demanem ni desem el nom, la data de naixement, les fotos ni les dades de salut de cap menor.",
+      "path": "ca/privacy.html"
+    },
+    {
+      "locale": "cs",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Úvod",
+        "Podpora",
+        "Soukromí"
+      ],
+      "nav_label": "Jazyk",
+      "language_label": "Jazyk",
+      "support_label": "Přejít na podporu",
+      "contact_heading": "Kontakt",
+      "contact_body": "Napište nám na hourstag.app@gmail.com . Abychom vám mohli pomoct hned v první odpovědi, uveďte prosím model zařízení (Nastavení → Obecné → Informace), verzi iOS, verzi aplikace a co jste dělali těsně před tím, než potíž nastala. Snímek nebo záznam obrazovky to ještě urychlí.",
+      "contact_button": "Kontakt",
+      "footer_note": "Tento web nepoužívá sledovací nástroje, reklamu ani analytiku třetích stran.",
+      "title": "Zásady ochrany soukromí aplikace Lumi Math Planet",
+      "description": "Ve zkratce: žádný účet, žádný sběr osobních údajů, žádná reklama třetích stran, žádná cizí analytika.",
+      "eyebrow": "Zásady ochrany soukromí",
+      "heading": "Soukromí",
+      "lead": "Tato stránka vysvětluje, jaká data Lumi Math Planet zpracovává, kde zůstávají a o čem rozhodujete vy.",
+      "sections": [
+        {
+          "heading": "Pro koho je aplikace určená",
+          "body": "Aplikace je zamýšlená jako pomůcka pro rozhodování rodičů, zákonných zástupců a pečujících, ne k samostatnému používání dětmi. Neptáme se na jméno, datum narození, fotky ani zdravotní údaje dítěte a neukládáme je."
+        },
+        {
+          "heading": "Jaké údaje shromažďujeme",
+          "body": "Neshromažďujeme, neukládáme ani neposíláme na naše servery žádné osobní údaje. Lumi Math Planet nemá uživatelské účty ani přihlašování."
+        },
+        {
+          "heading": "Kde zůstávají vaše data",
+          "body": "To, co v aplikaci Lumi Math Planet vytvoříte a nastavíte, zůstává jen ve vašem zařízení, ve standardním lokálním úložišti Applu. Když aplikaci smažete, zmizí to s ní."
+        },
+        {
+          "heading": "Nákupy",
+          "body": "Nákupy v aplikaci vyřizuje kompletně App Store Applu (StoreKit). Vaše platební údaje nedostáváme ani neukládáme. Se stejným účtem Apple obnovíte nákup i na novém zařízení."
+        },
+        {
+          "heading": "Třetí strany",
+          "body": "Aplikace neobsahuje reklamy třetích stran ani analytické či sledovací SDK. Nevytváříme o vás profil napříč aplikacemi ani weby."
+        },
+        {
+          "heading": "Soukromí dětí",
+          "body": "Protože nesbíráme osobní údaje nikoho, nesbíráme je ani od dětí. Neptáme se na jméno, datum narození, kontakty, fotografie ani zdravotní údaje dítěte."
+        },
+        {
+          "heading": "Vaše volby",
+          "body": "Protože z vašeho zařízení neodchází žádné osobní údaje, na naší straně není žádný účet ke smazání. Chcete-li odstranit lokální data, smažte aplikaci. S dotazy k soukromí se na nás obraťte e-mailem."
+        },
+        {
+          "heading": "Změny těchto zásad",
+          "body": "Pokud se funkce aplikace změní způsobem, který se těchto zásad týká, tuto stránku i datum nahoře aktualizujeme."
+        }
+      ],
+      "parent_note": "Aplikace je zamýšlená jako pomůcka pro rozhodování rodičů, zákonných zástupců a pečujících, ne k samostatnému používání dětmi. Neptáme se na jméno, datum narození, fotky ani zdravotní údaje dítěte a neukládáme je.",
+      "path": "cs/privacy.html"
+    },
+    {
+      "locale": "da",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Forside",
+        "Support",
+        "Privatliv"
+      ],
+      "nav_label": "Sprog",
+      "language_label": "Sprog",
+      "support_label": "Gå til support",
+      "contact_heading": "Kontakt",
+      "contact_body": "Skriv til os på hourstag.app@gmail.com . For at vi kan hjælpe allerede i første svar, må du gerne oplyse din enhedsmodel (Indstillinger → Generelt → Om), din iOS-version, appversionen og hvad du gjorde lige inden problemet. Et skærmbillede eller en skærmoptagelse gør det endnu hurtigere.",
+      "contact_button": "Kontakt",
+      "footer_note": "Denne side bruger ikke tredjeparts trackere, reklamer eller analyseværktøjer.",
+      "title": "Privatlivspolitik for Lumi Math Planet",
+      "description": "Kort fortalt: ingen konto, ingen indsamling af personoplysninger, ingen tredjepartsreklamer, ingen tredjepartsanalyse.",
+      "eyebrow": "Privatlivspolitik",
+      "heading": "Privatliv",
+      "lead": "Denne side forklarer, hvilke data Lumi Math Planet behandler, hvor de bliver, og hvad du selv bestemmer.",
+      "sections": [
+        {
+          "heading": "Hvem appen er til",
+          "body": "Appen er tænkt som et beslutningsværktøj til forældre, værger og omsorgspersoner, ikke til at børn bruger den alene. Vi beder ikke om og gemmer ikke et barns navn, fødselsdato, billeder eller helbredsoplysninger."
+        },
+        {
+          "heading": "Hvilke oplysninger vi indsamler",
+          "body": "Vi indsamler, gemmer og sender ingen personoplysninger til vores servere. Lumi Math Planet har hverken brugerkonti eller login."
+        },
+        {
+          "heading": "Hvor dine data bliver",
+          "body": "Det, du laver og indstiller i Lumi Math Planet, bliver kun på din egen enhed i Apples almindelige lokale lager. Sletter du appen, forsvinder det med den."
+        },
+        {
+          "heading": "Køb",
+          "body": "Køb i appen håndteres udelukkende af Apples App Store (StoreKit). Vi modtager og gemmer ingen betalingsoplysninger. Med den samme Apple-konto kan du gendanne dit køb på en ny enhed."
+        },
+        {
+          "heading": "Tredjeparter",
+          "body": "Appen indeholder hverken tredjepartsreklamer eller analyse- og sporings-SDK'er. Vi opbygger ingen profil af dig på tværs af apps eller websteder."
+        },
+        {
+          "heading": "Børns privatliv",
+          "body": "Da vi ikke indsamler personoplysninger om nogen, indsamler vi dem heller ikke om børn. Vi beder ikke om et barns navn, fødselsdato, kontaktoplysninger, billeder eller helbredsoplysninger."
+        },
+        {
+          "heading": "Dine valg",
+          "body": "Da ingen personoplysninger forlader din enhed, er der ingen konto hos os at slette. Vil du fjerne de lokale data, så slet appen. Spørgsmål eller ønsker om privatliv er du velkommen til at skrive om."
+        },
+        {
+          "heading": "Ændringer af denne politik",
+          "body": "Hvis en funktion i appen ændrer sig på en måde, der har betydning for denne politik, opdaterer vi denne side og datoen øverst."
+        }
+      ],
+      "parent_note": "Appen er tænkt som et beslutningsværktøj til forældre, værger og omsorgspersoner, ikke til at børn bruger den alene. Vi beder ikke om og gemmer ikke et barns navn, fødselsdato, billeder eller helbredsoplysninger.",
+      "path": "da/privacy.html"
+    },
+    {
+      "locale": "de-DE",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Start",
+        "Support",
+        "Datenschutz"
+      ],
+      "nav_label": "Sprache",
+      "language_label": "Sprache",
+      "support_label": "Zum Support",
+      "contact_heading": "Kontakt",
+      "contact_body": "Schreiben Sie an hourstag.app@gmail.com . Damit die erste Antwort schon weiterhilft, nennen Sie bitte Ihr Gerätemodell (Einstellungen → Allgemein → Info), Ihre iOS-Version, die App-Version und was Sie unmittelbar vor dem Problem getippt haben. Screenshots oder eine Bildschirmaufnahme helfen zusätzlich.",
+      "contact_button": "Kontakt",
+      "footer_note": "Diese Website verwendet kein Tracking, keine Werbung und keine Analyse-Dienste von Dritten.",
+      "title": "Lumi Math Planet Datenschutzerklärung",
+      "description": "Kurz gefasst: kein Konto nötig, keine Erhebung personenbezogener Daten, keine Werbung Dritter, keine Analyse-Dienste Dritter.",
+      "eyebrow": "Datenschutzerklärung",
+      "heading": "Datenschutz",
+      "lead": "Diese Seite erklärt, welche Daten Lumi Math Planet verarbeitet, wo sie liegen und was Sie selbst steuern können.",
+      "sections": [
+        {
+          "heading": "Für wen diese App gedacht ist",
+          "body": "Die App richtet sich an Eltern, Erziehungsberechtigte und Betreuende als Entscheidungshilfe; sie ist nicht dafür gedacht, dass Kinder sie allein nutzen. Wir fragen weder Name, Geburtsdatum, Fotos noch Gesundheitsdaten eines Kindes ab und speichern sie nicht."
+        },
+        {
+          "heading": "Welche Daten wir erheben",
+          "body": "Wir erheben, speichern und übertragen keine personenbezogenen Daten an unsere Server. Lumi Math Planet hat keine Benutzerkonten und keine Anmeldung."
+        },
+        {
+          "heading": "Wo Ihre Daten liegen",
+          "body": "Inhalte und Einstellungen, die Sie in Lumi Math Planet anlegen, werden ausschließlich über den standardmäßigen Gerätespeicher von Apple auf Ihrem Gerät abgelegt und beim Löschen der App mit entfernt."
+        },
+        {
+          "heading": "Käufe",
+          "body": "In-App-Käufe wickelt Apple vollständig über den App Store (StoreKit) ab. Wir erhalten und speichern keine Zahlungsdaten. Mit derselben Apple-Account lassen sich Käufe auf einem neuen Gerät wiederherstellen."
+        },
+        {
+          "heading": "Dritte",
+          "body": "Die App enthält keine Werbung Dritter und keine Analyse- oder Tracking-SDKs von Dritten. Wir erstellen kein App- oder websiteübergreifendes Profil von Ihnen."
+        },
+        {
+          "heading": "Datenschutz für Kinder",
+          "body": "Da die App von niemandem personenbezogene Daten erhebt, erhebt sie auch keine Daten von Kindern. Wir fragen weder Name, Geburtsdatum, Kontaktdaten, Fotos noch Gesundheitsdaten eines Kindes ab."
+        },
+        {
+          "heading": "Ihre Möglichkeiten",
+          "body": "Da keine personenbezogenen Daten Ihr Gerät verlassen, gibt es bei uns kein Konto zu löschen. Um lokale Daten zu entfernen, löschen Sie einfach die App. Für Datenschutzfragen oder Anliegen schreiben Sie uns gern."
+        },
+        {
+          "heading": "Änderungen dieser Erklärung",
+          "body": "Ändern sich Funktionen der App in einer Weise, die diese Erklärung betrifft, aktualisieren wir diese Seite und das Datum oben."
+        }
+      ],
+      "parent_note": "Die App richtet sich an Eltern, Erziehungsberechtigte und Betreuende als Entscheidungshilfe; sie ist nicht dafür gedacht, dass Kinder sie allein nutzen. Wir fragen weder Name, Geburtsdatum, Fotos noch Gesundheitsdaten eines Kindes ab und speichern sie nicht.",
+      "path": "de-DE/privacy.html"
+    },
+    {
+      "locale": "el",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Αρχική",
+        "Υποστήριξη",
+        "Απόρρητο"
+      ],
+      "nav_label": "Γλώσσα",
+      "language_label": "Γλώσσα",
+      "support_label": "Μετάβαση στην υποστήριξη",
+      "contact_heading": "Επικοινωνία",
+      "contact_body": "Γράψτε μας στο hourstag.app@gmail.com . Για να μπορέσουμε να βοηθήσουμε ήδη από την πρώτη απάντηση, αναφέρετε το μοντέλο της συσκευής (Ρυθμίσεις → Γενικά → Πληροφορίες), την έκδοση iOS, την έκδοση της εφαρμογής και τι κάνατε λίγο πριν εμφανιστεί το πρόβλημα. Ένα στιγμιότυπο ή μια εγγραφή οθόνης το επιταχύνει ακόμη περισσότερο.",
+      "contact_button": "Επικοινωνία",
+      "footer_note": "Αυτός ο ιστότοπος δεν χρησιμοποιεί ιχνηλάτες, διαφημίσεις ή αναλυτικά εργαλεία τρίτων.",
+      "title": "Πολιτική απορρήτου του Lumi Math Planet",
+      "description": "Με λίγα λόγια: χωρίς λογαριασμό, χωρίς συλλογή προσωπικών δεδομένων, χωρίς διαφημίσεις τρίτων, χωρίς αναλυτικά εργαλεία τρίτων.",
+      "eyebrow": "Πολιτική απορρήτου",
+      "heading": "Απόρρητο",
+      "lead": "Αυτή η σελίδα εξηγεί ποια δεδομένα επεξεργάζεται το Lumi Math Planet, πού παραμένουν και τι αποφασίζετε εσείς.",
+      "sections": [
+        {
+          "heading": "Σε ποιους απευθύνεται η εφαρμογή",
+          "body": "Η εφαρμογή σχεδιάστηκε ως βοήθημα λήψης αποφάσεων για γονείς, κηδεμόνες και φροντιστές, όχι για αυτόνομη χρήση από παιδιά. Δεν ζητάμε και δεν αποθηκεύουμε όνομα, ημερομηνία γέννησης, φωτογραφίες ή δεδομένα υγείας παιδιού."
+        },
+        {
+          "heading": "Ποιες πληροφορίες συλλέγουμε",
+          "body": "Δεν συλλέγουμε, δεν αποθηκεύουμε και δεν στέλνουμε στους διακομιστές μας κανένα προσωπικό δεδομένο. Το Lumi Math Planet δεν έχει λογαριασμούς χρήστη ούτε σύνδεση."
+        },
+        {
+          "heading": "Πού παραμένουν τα δεδομένα σας",
+          "body": "Όσα δημιουργείτε και ρυθμίζετε στο Lumi Math Planet παραμένουν μόνο στη δική σας συσκευή, στον συνήθη τοπικό χώρο αποθήκευσης της Apple. Αν διαγράψετε την εφαρμογή, φεύγουν μαζί της."
+        },
+        {
+          "heading": "Αγορές",
+          "body": "Οι αγορές εντός της εφαρμογής διεκπεραιώνονται εξ ολοκλήρου από το App Store της Apple (StoreKit). Δεν λαμβάνουμε ούτε αποθηκεύουμε τα στοιχεία πληρωμής σας. Με τον ίδιο λογαριασμό Apple μπορείτε να επαναφέρετε την αγορά σε νέα συσκευή."
+        },
+        {
+          "heading": "Τρίτα μέρη",
+          "body": "Η εφαρμογή δεν περιέχει διαφημίσεις τρίτων ούτε SDK ανάλυσης ή παρακολούθησης. Δεν δημιουργούμε προφίλ σας μεταξύ εφαρμογών ή ιστότοπων."
+        },
+        {
+          "heading": "Απόρρητο των παιδιών",
+          "body": "Επειδή δεν συλλέγουμε προσωπικά δεδομένα κανενός, δεν συλλέγουμε ούτε των παιδιών. Δεν ζητάμε όνομα, ημερομηνία γέννησης, στοιχεία επικοινωνίας, φωτογραφίες ή δεδομένα υγείας παιδιού."
+        },
+        {
+          "heading": "Οι επιλογές σας",
+          "body": "Επειδή κανένα προσωπικό δεδομένο δεν φεύγει από τη συσκευή σας, από τη δική μας πλευρά δεν υπάρχει λογαριασμός προς διαγραφή. Για να αφαιρέσετε τα τοπικά δεδομένα, διαγράψτε την εφαρμογή. Για ερωτήματα σχετικά με το απόρρητο γράψτε μας."
+        },
+        {
+          "heading": "Αλλαγές σε αυτή την πολιτική",
+          "body": "Αν κάποια λειτουργία της εφαρμογής αλλάξει με τρόπο που αφορά αυτή την πολιτική, θα ενημερώσουμε τη σελίδα και την ημερομηνία στην κορυφή."
+        }
+      ],
+      "parent_note": "Η εφαρμογή σχεδιάστηκε ως βοήθημα λήψης αποφάσεων για γονείς, κηδεμόνες και φροντιστές, όχι για αυτόνομη χρήση από παιδιά. Δεν ζητάμε και δεν αποθηκεύουμε όνομα, ημερομηνία γέννησης, φωτογραφίες ή δεδομένα υγείας παιδιού.",
+      "path": "el/privacy.html"
+    },
+    {
+      "locale": "es-ES",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Inicio",
+        "Soporte",
+        "Privacidad"
+      ],
+      "nav_label": "Idioma",
+      "language_label": "Idioma",
+      "support_label": "Ir al soporte",
+      "contact_heading": "Contacto",
+      "contact_body": "Escribe a hourstag.app@gmail.com . Para que la primera respuesta ya te sirva, indica el modelo de tu dispositivo (Ajustes → General → Información), la versión de iOS, la versión de la app y qué tocaste justo antes del problema. Las capturas de pantalla o una grabación de pantalla ayudan mucho.",
+      "contact_button": "Contacto",
+      "footer_note": "Este sitio no utiliza rastreo, publicidad ni analítica de terceros.",
+      "title": "Política de privacidad de Lumi Math Planet",
+      "description": "En resumen: no hace falta cuenta, no se recopilan datos personales, no hay publicidad de terceros ni analítica de terceros.",
+      "eyebrow": "Política de privacidad",
+      "heading": "Privacidad",
+      "lead": "Esta página explica qué datos trata Lumi Math Planet, dónde se guardan y qué puedes controlar tú.",
+      "sections": [
+        {
+          "heading": "Para quién es esta app",
+          "body": "La app está pensada para madres, padres, tutores y cuidadores como ayuda para decidir; no está pensada para que la usen los niños solos. No pedimos ni guardamos el nombre, la fecha de nacimiento, las fotos ni los datos de salud de ningún menor."
+        },
+        {
+          "heading": "Qué datos recopilamos",
+          "body": "No recopilamos, almacenamos ni enviamos datos personales a nuestros servidores. Lumi Math Planet no tiene cuentas de usuario ni inicio de sesión."
+        },
+        {
+          "heading": "Dónde se guardan tus datos",
+          "body": "El contenido y los ajustes que creas en Lumi Math Planet se guardan únicamente en tu dispositivo mediante el almacenamiento local estándar de Apple, y se eliminan si borras la app."
+        },
+        {
+          "heading": "Compras",
+          "body": "Las compras integradas las gestiona íntegramente Apple a través del App Store (StoreKit). No recibimos ni conservamos tus datos de pago. Con la misma cuenta de Apple puedes restaurar las compras en un dispositivo nuevo."
+        },
+        {
+          "heading": "Terceros",
+          "body": "La app no incluye publicidad de terceros ni SDK de analítica o rastreo de terceros. No creamos ningún perfil tuyo entre apps o sitios web."
+        },
+        {
+          "heading": "Privacidad de los menores",
+          "body": "Como la app no recopila datos personales de nadie, tampoco los recopila de menores. No pedimos el nombre, la fecha de nacimiento, los contactos, las fotos ni datos de salud de ningún menor."
+        },
+        {
+          "heading": "Tus opciones",
+          "body": "Como ningún dato personal sale de tu dispositivo, no hay ninguna cuenta que borrar por nuestra parte. Para eliminar los datos locales, basta con borrar la app. Para cualquier consulta o solicitud sobre privacidad, escríbenos."
+        },
+        {
+          "heading": "Cambios en esta política",
+          "body": "Si las funciones de la app cambian de forma que afecte a esta política, actualizaremos esta página y la fecha que aparece arriba."
+        }
+      ],
+      "parent_note": "La app está pensada para madres, padres, tutores y cuidadores como ayuda para decidir; no está pensada para que la usen los niños solos. No pedimos ni guardamos el nombre, la fecha de nacimiento, las fotos ni los datos de salud de ningún menor.",
+      "path": "es-ES/privacy.html"
+    },
+    {
+      "locale": "es-MX",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Inicio",
+        "Soporte",
+        "Privacidad"
+      ],
+      "nav_label": "Idioma",
+      "language_label": "Idioma",
+      "support_label": "Ir a soporte",
+      "contact_heading": "Contacto",
+      "contact_body": "Escríbenos a hourstag.app@gmail.com . Para ayudarte desde la primera respuesta, indícanos el modelo de tu dispositivo (Configuración → General → Información), la versión de iOS, la versión de la app y qué estabas haciendo justo antes del problema. Una captura o una grabación de pantalla lo hace aún más rápido.",
+      "contact_button": "Contacto",
+      "footer_note": "Este sitio no usa rastreadores, publicidad ni analítica de terceros.",
+      "title": "Aviso de privacidad de Lumi Math Planet",
+      "description": "En resumen: sin cuenta, sin recolección de datos personales, sin publicidad de terceros y sin analítica de terceros.",
+      "eyebrow": "Aviso de privacidad",
+      "heading": "Privacidad",
+      "lead": "En esta página te explicamos qué datos maneja Lumi Math Planet, dónde se quedan y qué puedes decidir tú.",
+      "sections": [
+        {
+          "heading": "Para quién es esta app",
+          "body": "La app está pensada como apoyo para las decisiones de madres, padres, tutores y cuidadores, no para que la usen los niños por su cuenta. No pedimos ni guardamos nombre, fecha de nacimiento, fotos ni datos de salud de un menor."
+        },
+        {
+          "heading": "Qué información recopilamos",
+          "body": "No recopilamos, no guardamos ni enviamos ningún dato personal a nuestros servidores. Lumi Math Planet no tiene cuentas de usuario ni inicio de sesión."
+        },
+        {
+          "heading": "Dónde se quedan tus datos",
+          "body": "Lo que creas y configuras en Lumi Math Planet se queda solo en tu dispositivo, en el almacenamiento local estándar de Apple. Si eliminas la app, se va con ella."
+        },
+        {
+          "heading": "Compras",
+          "body": "Las compras dentro de la app las maneja por completo el App Store de Apple (StoreKit). No recibimos ni guardamos tus datos de pago. Con la misma cuenta de Apple puedes restaurar tu compra en un dispositivo nuevo."
+        },
+        {
+          "heading": "Terceros",
+          "body": "La app no incluye publicidad de terceros ni SDK de analítica o de rastreo. No construimos un perfil tuyo entre apps ni entre sitios web."
+        },
+        {
+          "heading": "Privacidad de los menores",
+          "body": "Como no recopilamos datos personales de nadie, tampoco los recopilamos de los niños. No pedimos nombre, fecha de nacimiento, datos de contacto, fotos ni datos de salud de un menor."
+        },
+        {
+          "heading": "Tus opciones",
+          "body": "Como ningún dato personal sale de tu dispositivo, de nuestro lado no hay ninguna cuenta que borrar. Si quieres quitar los datos locales, elimina la app. Para dudas o solicitudes de privacidad, escríbenos."
+        },
+        {
+          "heading": "Cambios a este aviso",
+          "body": "Si alguna función de la app cambia de forma que afecte este aviso, actualizaremos esta página y la fecha de actualización de arriba."
+        }
+      ],
+      "parent_note": "La app está pensada como apoyo para las decisiones de madres, padres, tutores y cuidadores, no para que la usen los niños por su cuenta. No pedimos ni guardamos nombre, fecha de nacimiento, fotos ni datos de salud de un menor.",
+      "path": "es-MX/privacy.html"
+    },
+    {
+      "locale": "fi",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Etusivu",
+        "Tuki",
+        "Tietosuoja"
+      ],
+      "nav_label": "Kieli",
+      "language_label": "Kieli",
+      "support_label": "Siirry tukeen",
+      "contact_heading": "Yhteystiedot",
+      "contact_body": "Lähetä sähköpostia osoitteeseen hourstag.app@gmail.com . Jotta voimme auttaa jo ensimmäisessä vastauksessa, kerro laitemallisi (Asetukset → Yleiset → Tietoja), iOS-versio, sovelluksen versio ja mitä teit juuri ennen ongelmaa. Kuvakaappaus tai näytön tallennus nopeuttaa vielä lisää.",
+      "contact_button": "Yhteystiedot",
+      "footer_note": "Tämä sivusto ei käytä kolmansien osapuolten seurantaa, mainoksia eikä analytiikkaa.",
+      "title": "Sovelluksen Lumi Math Planet tietosuojakäytäntö",
+      "description": "Lyhyesti: ei tiliä, ei henkilötietojen keräämistä, ei kolmansien osapuolten mainoksia eikä analytiikkaa.",
+      "eyebrow": "Tietosuojakäytäntö",
+      "heading": "Tietosuoja",
+      "lead": "Tällä sivulla kerrotaan, mitä tietoja Lumi Math Planet käsittelee, minne ne jäävät ja mistä voit itse päättää.",
+      "sections": [
+        {
+          "heading": "Kenelle sovellus on tarkoitettu",
+          "body": "Sovellus on tarkoitettu vanhempien, huoltajien ja hoivaajien päätöksenteon tueksi, ei lasten itsenäiseen käyttöön. Emme kysy emmekä säilytä lapsen nimeä, syntymäaikaa, valokuvia tai terveystietoja."
+        },
+        {
+          "heading": "Mitä tietoja keräämme",
+          "body": "Emme kerää, säilytä emmekä lähetä palvelimillemme mitään henkilötietoja. Sovelluksessa Lumi Math Planet ei ole käyttäjätilejä eikä kirjautumista."
+        },
+        {
+          "heading": "Minne tietosi jäävät",
+          "body": "Se, mitä luot ja asetat sovelluksessa Lumi Math Planet, jää vain omaan laitteeseesi Applen tavalliseen paikalliseen tallennustilaan. Jos poistat sovelluksen, tiedot poistuvat sen mukana."
+        },
+        {
+          "heading": "Ostot",
+          "body": "Sovelluksen sisäiset ostot hoitaa kokonaan Applen App Store (StoreKit). Emme vastaanota emmekä säilytä maksutietojasi. Samalla Apple-tilillä voit palauttaa ostoksesi uuteen laitteeseen."
+        },
+        {
+          "heading": "Kolmannet osapuolet",
+          "body": "Sovelluksessa ei ole kolmansien osapuolten mainoksia eikä analytiikka- tai seuranta-SDK:ita. Emme muodosta sinusta profiilia sovellusten tai verkkosivustojen välillä."
+        },
+        {
+          "heading": "Lasten tietosuoja",
+          "body": "Koska emme kerää kenenkään henkilötietoja, emme kerää niitä myöskään lapsilta. Emme kysy lapsen nimeä, syntymäaikaa, yhteystietoja, valokuvia emmekä terveystietoja."
+        },
+        {
+          "heading": "Sinun valintasi",
+          "body": "Koska mitkään henkilötiedot eivät poistu laitteeltasi, meillä ei ole tiliä poistettavaksi. Jos haluat poistaa paikalliset tiedot, poista sovellus. Tietosuojaa koskevat kysymykset ja pyynnöt voit lähettää meille sähköpostilla."
+        },
+        {
+          "heading": "Tämän käytännön muutokset",
+          "body": "Jos sovelluksen ominaisuus muuttuu tavalla, joka vaikuttaa tähän käytäntöön, päivitämme tämän sivun ja ylhäällä näkyvän päivämäärän."
+        }
+      ],
+      "parent_note": "Sovellus on tarkoitettu vanhempien, huoltajien ja hoivaajien päätöksenteon tueksi, ei lasten itsenäiseen käyttöön. Emme kysy emmekä säilytä lapsen nimeä, syntymäaikaa, valokuvia tai terveystietoja.",
+      "path": "fi/privacy.html"
+    },
+    {
+      "locale": "fr-CA",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Accueil",
+        "Assistance",
+        "Confidentialité"
+      ],
+      "nav_label": "Langue",
+      "language_label": "Langue",
+      "support_label": "Aller à l'assistance",
+      "contact_heading": "Nous joindre",
+      "contact_body": "Écrivez-nous à hourstag.app@gmail.com . Pour qu'on puisse vous aider dès la première réponse, indiquez le modèle de votre appareil (Réglages → Général → Informations), la version d'iOS, la version de l'app et ce que vous faisiez juste avant le problème. Une capture ou un enregistrement d'écran accélère encore les choses.",
+      "contact_button": "Nous joindre",
+      "footer_note": "Ce site n'utilise aucun traceur, aucune publicité ni aucun outil d'analyse tiers.",
+      "title": "Politique de confidentialité de Lumi Math Planet",
+      "description": "En bref : aucun compte, aucune collecte de données personnelles, aucune publicité tierce, aucun outil d'analyse tiers.",
+      "eyebrow": "Politique de confidentialité",
+      "heading": "Confidentialité",
+      "lead": "Cette page explique quelles données Lumi Math Planet traite, où elles restent et ce que vous pouvez décider.",
+      "sections": [
+        {
+          "heading": "À qui s'adresse cette app",
+          "body": "L'app est conçue comme un outil d'aide à la décision pour les parents, tuteurs et proches aidants, et non pour être utilisée seule par des enfants. Nous ne demandons ni ne conservons le nom, la date de naissance, les photos ou les données de santé d'un enfant."
+        },
+        {
+          "heading": "Les renseignements que nous recueillons",
+          "body": "Nous ne recueillons, ne conservons ni ne transmettons aucune donnée personnelle vers nos serveurs. Lumi Math Planet n'a ni compte utilisateur ni mécanisme de connexion."
+        },
+        {
+          "heading": "Où restent vos données",
+          "body": "Ce que vous créez et réglez dans Lumi Math Planet reste uniquement sur votre appareil, dans le stockage local standard d'Apple. Si vous supprimez l'app, tout part avec elle."
+        },
+        {
+          "heading": "Achats",
+          "body": "Les achats intégrés sont entièrement gérés par l'App Store d'Apple (StoreKit). Nous ne recevons ni ne conservons vos renseignements de paiement. Avec le même compte Apple, vous pouvez restaurer votre achat sur un nouvel appareil."
+        },
+        {
+          "heading": "Tiers",
+          "body": "L'app ne contient aucune publicité tierce ni trousse d'analyse ou de suivi. Nous ne bâtissons aucun profil vous concernant d'une app ou d'un site à l'autre."
+        },
+        {
+          "heading": "Vie privée des enfants",
+          "body": "Comme nous ne recueillons les données personnelles de personne, nous n'en recueillons pas non plus des enfants. Nous ne demandons ni le nom, ni la date de naissance, ni les coordonnées, ni les photos, ni les données de santé d'un enfant."
+        },
+        {
+          "heading": "Vos choix",
+          "body": "Comme aucune donnée personnelle ne quitte votre appareil, il n'y a chez nous aucun compte à supprimer. Pour effacer les données locales, supprimez l'app. Pour toute question ou demande liée à la vie privée, écrivez-nous."
+        },
+        {
+          "heading": "Modifications de cette politique",
+          "body": "Si une fonction de l'app change d'une manière qui touche cette politique, nous mettons cette page à jour ainsi que la date affichée en haut."
+        }
+      ],
+      "parent_note": "L'app est conçue comme un outil d'aide à la décision pour les parents, tuteurs et proches aidants, et non pour être utilisée seule par des enfants. Nous ne demandons ni ne conservons le nom, la date de naissance, les photos ou les données de santé d'un enfant.",
+      "path": "fr-CA/privacy.html"
+    },
+    {
+      "locale": "fr-FR",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Accueil",
+        "Assistance",
+        "Confidentialité"
+      ],
+      "nav_label": "Langue",
+      "language_label": "Langue",
+      "support_label": "Consulter l'assistance",
+      "contact_heading": "Nous contacter",
+      "contact_body": "Écrivez à hourstag.app@gmail.com . Pour que la première réponse soit utile, indiquez le modèle de votre appareil (Réglages → Général → Informations), la version d'iOS, la version de l'app et ce que vous avez touché juste avant le problème. Des captures d'écran ou un enregistrement de l'écran aident beaucoup.",
+      "contact_button": "Nous contacter",
+      "footer_note": "Ce site n'utilise ni suivi, ni publicité, ni outil d'analyse tiers.",
+      "title": "Politique de confidentialité de Lumi Math Planet",
+      "description": "En résumé : aucun compte requis, aucune donnée personnelle collectée, aucune publicité tierce, aucun outil d'analyse tiers.",
+      "eyebrow": "Politique de confidentialité",
+      "heading": "Confidentialité",
+      "lead": "Cette page explique quelles données Lumi Math Planet traite, où elles sont conservées et ce que vous pouvez contrôler.",
+      "sections": [
+        {
+          "heading": "À qui s'adresse cette app",
+          "body": "L'app est conçue pour les parents, tuteurs et personnes qui gardent un enfant, comme aide à la décision ; elle n'est pas prévue pour être utilisée par un enfant seul. Nous ne demandons ni ne conservons le nom, la date de naissance, les photos ou les données de santé d'un enfant."
+        },
+        {
+          "heading": "Les données que nous collectons",
+          "body": "Nous ne collectons, ne stockons ni ne transmettons de données personnelles vers nos serveurs. Lumi Math Planet n'a ni compte utilisateur ni connexion."
+        },
+        {
+          "heading": "Où vos données sont conservées",
+          "body": "Les contenus et réglages que vous créez dans Lumi Math Planet sont enregistrés uniquement sur votre appareil, via le stockage local standard d'Apple, et disparaissent si vous supprimez l'app."
+        },
+        {
+          "heading": "Achats",
+          "body": "Les achats intégrés sont entièrement traités par Apple via l'App Store (StoreKit). Nous ne recevons ni ne conservons vos informations de paiement. Avec le même compte Apple, vous pouvez restaurer vos achats sur un nouvel appareil."
+        },
+        {
+          "heading": "Tiers",
+          "body": "L'app ne contient aucune publicité tierce, ni SDK d'analyse ou de suivi tiers. Nous ne constituons aucun profil vous concernant entre apps ou sites web."
+        },
+        {
+          "heading": "Confidentialité des enfants",
+          "body": "Comme l'app ne collecte les données personnelles de personne, elle n'en collecte pas non plus auprès des enfants. Nous ne demandons ni nom, ni date de naissance, ni contacts, ni photos, ni données de santé d'un enfant."
+        },
+        {
+          "heading": "Vos choix",
+          "body": "Aucune donnée personnelle ne quittant votre appareil, il n'y a chez nous aucun compte à supprimer. Pour effacer les données locales, supprimez simplement l'app. Pour toute question ou demande relative à la confidentialité, écrivez-nous."
+        },
+        {
+          "heading": "Modifications de cette politique",
+          "body": "Si les fonctionnalités de l'app évoluent et affectent cette politique, nous mettrons cette page à jour et modifierons la date ci-dessus."
+        }
+      ],
+      "parent_note": "L'app est conçue pour les parents, tuteurs et personnes qui gardent un enfant, comme aide à la décision ; elle n'est pas prévue pour être utilisée par un enfant seul. Nous ne demandons ni ne conservons le nom, la date de naissance, les photos ou les données de santé d'un enfant.",
+      "path": "fr-FR/privacy.html"
+    },
+    {
+      "locale": "gu-IN",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "હોમ",
+        "સહાય",
+        "ગોપનીયતા"
+      ],
+      "nav_label": "ભાષા",
+      "language_label": "ભાષા",
+      "support_label": "સહાય પર જાઓ",
+      "contact_heading": "સંપર્ક",
+      "contact_body": "અમને hourstag.app@gmail.com પર લખો. પહેલા જ જવાબમાં મદદ કરી શકીએ એ માટે તમારા ઉપકરણનું મૉડલ (સેટિંગ્સ → સામાન્ય → વિશે), iOS આવૃત્તિ, ઍપ આવૃત્તિ અને સમસ્યા થતાં પહેલાં તમે શું કરી રહ્યા હતા તે જણાવો. સ્ક્રીનશૉટ કે સ્ક્રીન રેકોર્ડિંગ હોય તો ઉકેલ વધુ ઝડપી આવે છે.",
+      "contact_button": "સંપર્ક",
+      "footer_note": "આ સાઇટ ત્રીજા પક્ષના ટ્રૅકર, જાહેરાત કે એનાલિટિક્સ વાપરતી નથી.",
+      "title": "Lumi Math Planet ની ગોપનીયતા નીતિ",
+      "description": "ટૂંકમાં: ખાતું નહીં, અંગત માહિતીનો સંગ્રહ નહીં, ત્રીજા પક્ષની જાહેરાત નહીં, ત્રીજા પક્ષનું એનાલિટિક્સ નહીં.",
+      "eyebrow": "ગોપનીયતા નીતિ",
+      "heading": "ગોપનીયતા",
+      "lead": "આ પાનું જણાવે છે કે Lumi Math Planet કઈ માહિતી વાપરે છે, તે ક્યાં રહે છે અને શેનો નિર્ણય તમે લો છો.",
+      "sections": [
+        {
+          "heading": "આ ઍપ કોના માટે છે",
+          "body": "આ ઍપ માતા-પિતા, વાલીઓ અને સંભાળ રાખનારાઓને નિર્ણયમાં મદદ કરવા માટે છે, બાળકો એકલા વાપરે એ માટે નહીં. અમે બાળકનું નામ, જન્મતારીખ, તસવીરો કે આરોગ્ય માહિતી માગતા નથી અને રાખતા પણ નથી."
+        },
+        {
+          "heading": "અમે કઈ માહિતી એકઠી કરીએ છીએ",
+          "body": "અમે અમારા સર્વર પર કોઈ પણ અંગત માહિતી એકઠી, સંગ્રહિત કે પ્રસારિત કરતા નથી. Lumi Math Planet માં વપરાશકર્તા ખાતું કે સાઇન-ઇનની વ્યવસ્થા જ નથી."
+        },
+        {
+          "heading": "તમારી માહિતી ક્યાં રહે છે",
+          "body": "તમે Lumi Math Planet માં જે બનાવો છો અને જે ગોઠવો છો તે ફક્ત તમારા ઉપકરણ પર, Apple ના સામાન્ય સ્થાનિક સંગ્રહમાં રહે છે. ઍપ કાઢી નાખતાં તે પણ જતું રહે છે."
+        },
+        {
+          "heading": "ખરીદી",
+          "body": "ઇન-ઍપ ખરીદી સંપૂર્ણપણે Apple નું App Store (StoreKit) સંભાળે છે. તમારી ચુકવણીની વિગત અમને મળતી નથી અને અમે તે રાખતા પણ નથી. એ જ Apple ખાતાથી નવા ઉપકરણ પર ખરીદી પુનઃસ્થાપિત કરી શકાય છે."
+        },
+        {
+          "heading": "ત્રીજા પક્ષ",
+          "body": "ઍપમાં ત્રીજા પક્ષની જાહેરાત, એનાલિટિક્સ કે ટ્રૅકિંગ SDK નથી. જુદી જુદી ઍપ કે વેબસાઇટ વચ્ચે અમે તમારી કોઈ પ્રોફાઇલ બનાવતા નથી."
+        },
+        {
+          "heading": "બાળકોની ગોપનીયતા",
+          "body": "અમે કોઈની પણ અંગત માહિતી એકઠી કરતા ન હોવાથી બાળકોની પણ કરતા નથી. અમે બાળકનું નામ, જન્મતારીખ, સંપર્ક વિગત, તસવીરો કે આરોગ્ય માહિતી માગતા નથી."
+        },
+        {
+          "heading": "તમારા વિકલ્પો",
+          "body": "કોઈ અંગત માહિતી તમારા ઉપકરણની બહાર જતી ન હોવાથી અમારી બાજુએ કાઢવા જેવું ખાતું જ નથી. સ્થાનિક માહિતી કાઢવી હોય તો ઍપ કાઢી નાખો. ગોપનીયતા વિશે પ્રશ્ન કે વિનંતી ઈમેલથી મોકલી શકો છો."
+        },
+        {
+          "heading": "આ નીતિમાં ફેરફાર",
+          "body": "ઍપની કોઈ સુવિધા આ નીતિને સ્પર્શે એ રીતે બદલાય તો અમે આ પાનું અને ઉપરની તારીખ અપડેટ કરીશું."
+        }
+      ],
+      "parent_note": "આ ઍપ માતા-પિતા, વાલીઓ અને સંભાળ રાખનારાઓને નિર્ણયમાં મદદ કરવા માટે છે, બાળકો એકલા વાપરે એ માટે નહીં. અમે બાળકનું નામ, જન્મતારીખ, તસવીરો કે આરોગ્ય માહિતી માગતા નથી અને રાખતા પણ નથી.",
+      "path": "gu-IN/privacy.html"
+    },
+    {
+      "locale": "he",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "דף הבית",
+        "תמיכה",
+        "פרטיות"
+      ],
+      "nav_label": "שפה",
+      "language_label": "שפה",
+      "support_label": "מעבר לתמיכה",
+      "contact_heading": "יצירת קשר",
+      "contact_body": "אפשר לכתוב לנו אל hourstag.app@gmail.com . כדי שנוכל לעזור כבר בתשובה הראשונה, ציינו את דגם המכשיר (הגדרות ← כללי ← אודות), את גרסת iOS, את גרסת האפליקציה ומה עשיתם רגע לפני התקלה. צילום מסך או הקלטת מסך מזרזים עוד יותר.",
+      "contact_button": "יצירת קשר",
+      "footer_note": "האתר הזה אינו משתמש בכלי מעקב, פרסומות או אנליטיקה של צד שלישי.",
+      "title": "מדיניות הפרטיות של Lumi Math Planet",
+      "description": "בקצרה: בלי חשבון, בלי איסוף מידע אישי, בלי פרסומות של צד שלישי ובלי אנליטיקה של צד שלישי.",
+      "eyebrow": "מדיניות פרטיות",
+      "heading": "פרטיות",
+      "lead": "הדף הזה מסביר אילו נתונים Lumi Math Planet מעבד, היכן הם נשארים ומה נתון להחלטתך.",
+      "sections": [
+        {
+          "heading": "למי האפליקציה מיועדת",
+          "body": "האפליקציה נועדה לשמש הורים, אפוטרופוסים ומטפלים ככלי עזר להחלטות, ולא לשימוש עצמאי של ילדים. איננו מבקשים ואיננו שומרים שם של ילד, תאריך לידה, תמונות או מידע רפואי."
+        },
+        {
+          "heading": "איזה מידע אנחנו אוספים",
+          "body": "איננו אוספים, שומרים או שולחים לשרתים שלנו שום מידע אישי. ב-Lumi Math Planet אין חשבונות משתמש ואין התחברות."
+        },
+        {
+          "heading": "היכן הנתונים שלכם נשארים",
+          "body": "מה שאתם יוצרים ומגדירים ב-Lumi Math Planet נשאר רק במכשיר שלכם, באחסון המקומי הרגיל של Apple. אם תמחקו את האפליקציה, הנתונים נמחקים איתה."
+        },
+        {
+          "heading": "רכישות",
+          "body": "רכישות בתוך האפליקציה מטופלות במלואן על ידי App Store של Apple (StoreKit). איננו מקבלים ואיננו שומרים את פרטי התשלום שלכם. עם אותו חשבון Apple אפשר לשחזר את הרכישה במכשיר חדש."
+        },
+        {
+          "heading": "צדדים שלישיים",
+          "body": "באפליקציה אין פרסומות של צד שלישי ואין ערכות אנליטיקה או מעקב. איננו בונים עליכם פרופיל בין אפליקציות או אתרים."
+        },
+        {
+          "heading": "פרטיות ילדים",
+          "body": "מכיוון שאיננו אוספים מידע אישי על אף אחד, איננו אוספים אותו גם על ילדים. איננו מבקשים שם של ילד, תאריך לידה, פרטי קשר, תמונות או מידע רפואי."
+        },
+        {
+          "heading": "הבחירה שלכם",
+          "body": "מכיוון ששום מידע אישי אינו יוצא מהמכשיר, אין אצלנו חשבון שאפשר למחוק. כדי להסיר את הנתונים המקומיים, מחקו את האפליקציה. בשאלות ובקשות בנושא פרטיות אפשר לכתוב לנו."
+        },
+        {
+          "heading": "שינויים במדיניות הזו",
+          "body": "אם תכונה באפליקציה תשתנה באופן שנוגע למדיניות הזו, נעדכן את הדף הזה ואת תאריך העדכון שלמעלה."
+        }
+      ],
+      "parent_note": "האפליקציה נועדה לשמש הורים, אפוטרופוסים ומטפלים ככלי עזר להחלטות, ולא לשימוש עצמאי של ילדים. איננו מבקשים ואיננו שומרים שם של ילד, תאריך לידה, תמונות או מידע רפואי.",
+      "path": "he/privacy.html"
+    },
+    {
+      "locale": "hi",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "होम",
+        "सहायता",
+        "निजता"
+      ],
+      "nav_label": "भाषा",
+      "language_label": "भाषा",
+      "support_label": "सहायता पर जाएँ",
+      "contact_heading": "संपर्क",
+      "contact_body": "हमें hourstag.app@gmail.com पर लिखें। पहली ही जवाबी मेल में मदद कर सकें, इसके लिए अपने डिवाइस का मॉडल (सेटिंग्स → सामान्य → परिचय), iOS संस्करण, ऐप संस्करण और समस्या से ठीक पहले आप क्या कर रहे थे — यह ज़रूर बताएँ। स्क्रीनशॉट या स्क्रीन रिकॉर्डिंग हो तो और भी तेज़ी से हल निकलता है।",
+      "contact_button": "संपर्क",
+      "footer_note": "यह साइट किसी तीसरे पक्ष के ट्रैकर, विज्ञापन या एनालिटिक्स का उपयोग नहीं करती।",
+      "title": "Lumi Math Planet की निजता नीति",
+      "description": "संक्षेप में: कोई अकाउंट नहीं, कोई व्यक्तिगत डेटा संग्रह नहीं, तीसरे पक्ष के विज्ञापन नहीं, तीसरे पक्ष का एनालिटिक्स नहीं।",
+      "eyebrow": "निजता नीति",
+      "heading": "निजता",
+      "lead": "यह पेज बताता है कि Lumi Math Planet किस तरह का डेटा इस्तेमाल करता है, वह कहाँ रहता है, और किन बातों का फ़ैसला आप करते हैं।",
+      "sections": [
+        {
+          "heading": "यह ऐप किसके लिए है",
+          "body": "यह ऐप माता-पिता, अभिभावकों और देखभाल करने वालों के लिए निर्णय में मदद का साधन है, बच्चों के अकेले इस्तेमाल के लिए नहीं। हम किसी बच्चे का नाम, जन्मतिथि, तस्वीरें या स्वास्थ्य जानकारी न माँगते हैं, न रखते हैं।"
+        },
+        {
+          "heading": "हम कौन-सी जानकारी एकत्र करते हैं",
+          "body": "हम अपने सर्वर पर कोई भी व्यक्तिगत डेटा एकत्र, संग्रहीत या प्रेषित नहीं करते। Lumi Math Planet में उपयोगकर्ता अकाउंट या साइन-इन की कोई व्यवस्था नहीं है।"
+        },
+        {
+          "heading": "आपका डेटा कहाँ रहता है",
+          "body": "आप Lumi Math Planet में जो बनाते और सेट करते हैं वह केवल आपके डिवाइस पर, Apple के सामान्य स्थानीय स्टोरेज में रहता है। ऐप हटाने पर वह भी साथ ही हट जाता है।"
+        },
+        {
+          "heading": "ख़रीदारी",
+          "body": "इन-ऐप ख़रीदारी पूरी तरह Apple के App Store (StoreKit) द्वारा संभाली जाती है। आपकी भुगतान जानकारी न हमें मिलती है, न हम उसे रखते हैं। उसी Apple अकाउंट से आप नए डिवाइस पर ख़रीद पुनर्स्थापित कर सकते हैं।"
+        },
+        {
+          "heading": "तीसरे पक्ष",
+          "body": "ऐप में तीसरे पक्ष के विज्ञापन, एनालिटिक्स या ट्रैकिंग SDK नहीं हैं। हम अलग-अलग ऐप्स या वेबसाइटों के बीच आपकी कोई प्रोफ़ाइल नहीं बनाते।"
+        },
+        {
+          "heading": "बच्चों की निजता",
+          "body": "चूँकि हम किसी का भी व्यक्तिगत डेटा एकत्र नहीं करते, इसलिए बच्चों का भी नहीं करते। हम किसी बच्चे का नाम, जन्मतिथि, संपर्क विवरण, तस्वीरें या स्वास्थ्य जानकारी नहीं माँगते।"
+        },
+        {
+          "heading": "आपके विकल्प",
+          "body": "चूँकि कोई व्यक्तिगत डेटा आपके डिवाइस से बाहर नहीं जाता, हमारे पास हटाने के लिए कोई अकाउंट ही नहीं है। स्थानीय डेटा हटाना हो तो ऐप हटा दें। निजता से जुड़े सवाल या अनुरोध ईमेल से भेज सकते हैं।"
+        },
+        {
+          "heading": "इस नीति में बदलाव",
+          "body": "अगर ऐप की कोई सुविधा इस तरह बदलती है कि उसका असर इस नीति पर पड़े, तो हम यह पेज और ऊपर दी गई तारीख़ अपडेट कर देंगे।"
+        }
+      ],
+      "parent_note": "यह ऐप माता-पिता, अभिभावकों और देखभाल करने वालों के लिए निर्णय में मदद का साधन है, बच्चों के अकेले इस्तेमाल के लिए नहीं। हम किसी बच्चे का नाम, जन्मतिथि, तस्वीरें या स्वास्थ्य जानकारी न माँगते हैं, न रखते हैं।",
+      "path": "hi/privacy.html"
+    },
+    {
+      "locale": "hr",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Početna",
+        "Podrška",
+        "Privatnost"
+      ],
+      "nav_label": "Jezik",
+      "language_label": "Jezik",
+      "support_label": "Idi na podršku",
+      "contact_heading": "Kontakt",
+      "contact_body": "Pišite nam na hourstag.app@gmail.com . Da vam možemo pomoći već u prvom odgovoru, navedite model uređaja (Postavke → Općenito → Informacije), verziju iOS-a, verziju aplikacije i što ste radili neposredno prije problema. Snimka zaslona ili snimka zaslona u videu ubrzat će stvar još više.",
+      "contact_button": "Kontakt",
+      "footer_note": "Ova stranica ne koristi alate za praćenje, oglase ni analitiku trećih strana.",
+      "title": "Pravila privatnosti aplikacije Lumi Math Planet",
+      "description": "Ukratko: bez računa, bez prikupljanja osobnih podataka, bez oglasa trećih strana, bez tuđe analitike.",
+      "eyebrow": "Pravila privatnosti",
+      "heading": "Privatnost",
+      "lead": "Ova stranica objašnjava koje podatke Lumi Math Planet obrađuje, gdje oni ostaju i o čemu odlučujete vi.",
+      "sections": [
+        {
+          "heading": "Kome je aplikacija namijenjena",
+          "body": "Aplikacija je zamišljena kao pomoć pri odlučivanju roditeljima, skrbnicima i njegovateljima, a ne da je djeca koriste sama. Ne tražimo i ne pohranjujemo djetetovo ime, datum rođenja, fotografije ni zdravstvene podatke."
+        },
+        {
+          "heading": "Koje podatke prikupljamo",
+          "body": "Ne prikupljamo, ne pohranjujemo i ne šaljemo na svoje poslužitelje nikakve osobne podatke. Lumi Math Planet nema korisničke račune ni prijavu."
+        },
+        {
+          "heading": "Gdje ostaju vaši podaci",
+          "body": "Ono što u aplikaciji Lumi Math Planet stvorite i podesite ostaje samo na vašem uređaju, u Appleovoj uobičajenoj lokalnoj pohrani. Izbrišete li aplikaciju, nestaje s njom."
+        },
+        {
+          "heading": "Kupnje",
+          "body": "Kupnje unutar aplikacije u cijelosti obavlja Appleov App Store (StoreKit). Vaše podatke o plaćanju ne primamo niti pohranjujemo. S istim Apple računom kupnju možete vratiti na novom uređaju."
+        },
+        {
+          "heading": "Treće strane",
+          "body": "Aplikacija ne sadrži oglase trećih strana ni analitičke ili prateće SDK-ove. Ne gradimo vaš profil kroz različite aplikacije ni web-stranice."
+        },
+        {
+          "heading": "Privatnost djece",
+          "body": "Budući da ni od koga ne prikupljamo osobne podatke, ne prikupljamo ih ni od djece. Ne tražimo djetetovo ime, datum rođenja, kontakte, fotografije ni zdravstvene podatke."
+        },
+        {
+          "heading": "Vaš izbor",
+          "body": "Budući da nikakvi osobni podaci ne napuštaju vaš uređaj, kod nas nema računa koji bi se brisao. Želite li ukloniti lokalne podatke, izbrišite aplikaciju. Za pitanja o privatnosti javite nam se e-poštom."
+        },
+        {
+          "heading": "Izmjene ovih pravila",
+          "body": "Ako se značajka aplikacije promijeni na način bitan za ova pravila, ažurirat ćemo ovu stranicu i datum na vrhu."
+        }
+      ],
+      "parent_note": "Aplikacija je zamišljena kao pomoć pri odlučivanju roditeljima, skrbnicima i njegovateljima, a ne da je djeca koriste sama. Ne tražimo i ne pohranjujemo djetetovo ime, datum rođenja, fotografije ni zdravstvene podatke.",
+      "path": "hr/privacy.html"
+    },
+    {
+      "locale": "hu",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Kezdőlap",
+        "Támogatás",
+        "Adatvédelem"
+      ],
+      "nav_label": "Nyelv",
+      "language_label": "Nyelv",
+      "support_label": "Tovább a támogatáshoz",
+      "contact_heading": "Kapcsolat",
+      "contact_body": "Írj nekünk a hourstag.app@gmail.com címre. Hogy már az első válaszban segíteni tudjunk, add meg a készülék típusát (Beállítások → Általános → Névjegy), az iOS verzióját, az alkalmazás verzióját, és hogy mit csináltál közvetlenül a hiba előtt. Egy képernyőkép vagy képernyőfelvétel még gyorsabbá teszi a megoldást.",
+      "contact_button": "Kapcsolat",
+      "footer_note": "Ez az oldal nem használ harmadik féltől származó nyomkövetőt, hirdetést vagy analitikát.",
+      "title": "A(z) Lumi Math Planet adatvédelmi tájékoztatója",
+      "description": "Röviden: nincs fiók, nincs személyesadat-gyűjtés, nincs külső hirdetés és nincs külső analitika.",
+      "eyebrow": "Adatvédelmi tájékoztató",
+      "heading": "Adatvédelem",
+      "lead": "Ez az oldal elmondja, milyen adatokat kezel a(z) Lumi Math Planet, hol maradnak ezek, és miről döntesz te.",
+      "sections": [
+        {
+          "heading": "Kinek készült ez az alkalmazás",
+          "body": "Az alkalmazás szülők, gondviselők és gondozók döntéstámogató eszközének készült, nem arra, hogy gyerekek önállóan használják. Nem kérjük el és nem tároljuk gyermek nevét, születési dátumát, fényképét vagy egészségügyi adatait."
+        },
+        {
+          "heading": "Milyen adatokat gyűjtünk",
+          "body": "Semmilyen személyes adatot nem gyűjtünk, nem tárolunk és nem küldünk a szervereinkre. A(z) Lumi Math Planet alkalmazásban nincs felhasználói fiók és nincs bejelentkezés."
+        },
+        {
+          "heading": "Hol maradnak az adataid",
+          "body": "Amit a(z) Lumi Math Planet alkalmazásban létrehozol és beállítasz, kizárólag a saját készülékeden marad, az Apple szokásos helyi tárolójában. Ha törlöd az alkalmazást, ez is eltűnik vele."
+        },
+        {
+          "heading": "Vásárlások",
+          "body": "Az alkalmazáson belüli vásárlásokat teljes egészében az Apple App Store (StoreKit) kezeli. Fizetési adataidat nem kapjuk meg és nem tároljuk. Ugyanazzal az Apple-fiókkal új készüléken is visszaállíthatod a vásárlást."
+        },
+        {
+          "heading": "Harmadik felek",
+          "body": "Az alkalmazás nem tartalmaz külső hirdetést, sem analitikai vagy követő SDK-t. Nem építünk rólad profilt alkalmazások vagy webhelyek között."
+        },
+        {
+          "heading": "Gyermekek adatvédelme",
+          "body": "Mivel senkiről nem gyűjtünk személyes adatot, gyermekekről sem gyűjtünk. Nem kérjük el gyermek nevét, születési dátumát, elérhetőségét, fényképét vagy egészségügyi adatait."
+        },
+        {
+          "heading": "A te döntéseid",
+          "body": "Mivel személyes adat nem hagyja el a készülékedet, nálunk nincs törölhető fiók. Ha a helyi adatokat szeretnéd eltávolítani, töröld az alkalmazást. Adatvédelmi kérdéssel vagy kéréssel fordulj hozzánk e-mailben."
+        },
+        {
+          "heading": "A tájékoztató változásai",
+          "body": "Ha az alkalmazás valamelyik funkciója úgy változik, hogy az érinti ezt a tájékoztatót, frissítjük ezt az oldalt és a fenti dátumot."
+        }
+      ],
+      "parent_note": "Az alkalmazás szülők, gondviselők és gondozók döntéstámogató eszközének készült, nem arra, hogy gyerekek önállóan használják. Nem kérjük el és nem tároljuk gyermek nevét, születési dátumát, fényképét vagy egészségügyi adatait.",
+      "path": "hu/privacy.html"
+    },
+    {
+      "locale": "id",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Beranda",
+        "Dukungan",
+        "Privasi"
+      ],
+      "nav_label": "Bahasa",
+      "language_label": "Bahasa",
+      "support_label": "Ke halaman dukungan",
+      "contact_heading": "Hubungi kami",
+      "contact_body": "Kirim email ke hourstag.app@gmail.com . Agar kami bisa membantu sejak balasan pertama, sebutkan model perangkat Anda (Pengaturan → Umum → Mengenai), versi iOS, versi aplikasi, dan apa yang Anda lakukan tepat sebelum masalah muncul. Tangkapan layar atau rekaman layar membuatnya lebih cepat lagi.",
+      "contact_button": "Hubungi kami",
+      "footer_note": "Situs ini tidak memakai pelacak, iklan, atau analitik pihak ketiga.",
+      "title": "Kebijakan privasi Lumi Math Planet",
+      "description": "Singkatnya: tanpa akun, tanpa pengumpulan data pribadi, tanpa iklan pihak ketiga, tanpa analitik pihak ketiga.",
+      "eyebrow": "Kebijakan privasi",
+      "heading": "Privasi",
+      "lead": "Halaman ini menjelaskan data apa yang diproses Lumi Math Planet, di mana data itu tersimpan, dan apa yang Anda kendalikan.",
+      "sections": [
+        {
+          "heading": "Aplikasi ini untuk siapa",
+          "body": "Aplikasi ini dirancang sebagai alat bantu keputusan untuk orang tua, wali, dan pengasuh, bukan untuk dipakai anak-anak sendirian. Kami tidak meminta dan tidak menyimpan nama, tanggal lahir, foto, atau data kesehatan anak."
+        },
+        {
+          "heading": "Informasi apa yang kami kumpulkan",
+          "body": "Kami tidak mengumpulkan, menyimpan, atau mengirim data pribadi apa pun ke server kami. Lumi Math Planet tidak punya akun pengguna maupun sistem masuk."
+        },
+        {
+          "heading": "Di mana data Anda tersimpan",
+          "body": "Apa yang Anda buat dan atur di Lumi Math Planet hanya tersimpan di perangkat Anda sendiri, pada penyimpanan lokal standar Apple. Kalau aplikasinya dihapus, datanya ikut terhapus."
+        },
+        {
+          "heading": "Pembelian",
+          "body": "Pembelian dalam aplikasi sepenuhnya ditangani App Store milik Apple (StoreKit). Kami tidak menerima maupun menyimpan data pembayaran Anda. Dengan akun Apple yang sama, pembelian bisa dipulihkan di perangkat baru."
+        },
+        {
+          "heading": "Pihak ketiga",
+          "body": "Aplikasi ini tidak memuat iklan pihak ketiga maupun SDK analitik atau pelacakan. Kami tidak membangun profil Anda lintas aplikasi atau situs."
+        },
+        {
+          "heading": "Privasi anak",
+          "body": "Karena kami tidak mengumpulkan data pribadi siapa pun, kami juga tidak mengumpulkannya dari anak-anak. Kami tidak menanyakan nama, tanggal lahir, kontak, foto, atau data kesehatan anak."
+        },
+        {
+          "heading": "Pilihan Anda",
+          "body": "Karena tidak ada data pribadi yang keluar dari perangkat Anda, di sisi kami tidak ada akun yang perlu dihapus. Untuk menghapus data lokal, hapus aplikasinya. Pertanyaan atau permintaan soal privasi bisa dikirim lewat email."
+        },
+        {
+          "heading": "Perubahan kebijakan ini",
+          "body": "Kalau ada fitur aplikasi yang berubah dan memengaruhi kebijakan ini, kami akan memperbarui halaman ini beserta tanggal di bagian atas."
+        }
+      ],
+      "parent_note": "Aplikasi ini dirancang sebagai alat bantu keputusan untuk orang tua, wali, dan pengasuh, bukan untuk dipakai anak-anak sendirian. Kami tidak meminta dan tidak menyimpan nama, tanggal lahir, foto, atau data kesehatan anak.",
+      "path": "id/privacy.html"
+    },
+    {
+      "locale": "it",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Home",
+        "Assistenza",
+        "Privacy"
+      ],
+      "nav_label": "Lingua",
+      "language_label": "Lingua",
+      "support_label": "Vai all'assistenza",
+      "contact_heading": "Contattaci",
+      "contact_body": "Scrivici a hourstag.app@gmail.com . Per aiutarti già alla prima risposta, indica il modello del dispositivo (Impostazioni → Generali → Info), la versione di iOS, la versione dell'app e che cosa stavi facendo subito prima del problema. Uno screenshot o una registrazione dello schermo velocizzano ancora di più.",
+      "contact_button": "Contattaci",
+      "footer_note": "Questo sito non usa tracker, pubblicità o analytics di terze parti.",
+      "title": "Informativa sulla privacy di Lumi Math Planet",
+      "description": "In breve: nessun account, nessun dato personale raccolto, nessuna pubblicità di terze parti, nessun analytics di terze parti.",
+      "eyebrow": "Informativa sulla privacy",
+      "heading": "Privacy",
+      "lead": "Questa pagina spiega quali dati tratta Lumi Math Planet, dove restano e che cosa puoi decidere tu.",
+      "sections": [
+        {
+          "heading": "A chi è rivolta questa app",
+          "body": "L'app è pensata come strumento di supporto alle decisioni per genitori, tutori e caregiver, non per l'uso autonomo da parte dei bambini. Non chiediamo né conserviamo nome, data di nascita, foto o dati sanitari di un minore."
+        },
+        {
+          "heading": "Quali informazioni raccogliamo",
+          "body": "Non raccogliamo, non conserviamo e non trasmettiamo ai nostri server alcun dato personale. Lumi Math Planet non ha account utente né sistemi di accesso."
+        },
+        {
+          "heading": "Dove restano i tuoi dati",
+          "body": "Quello che crei e le tue impostazioni in Lumi Math Planet restano solo sul tuo dispositivo, nella memoria locale standard di Apple. Se elimini l'app, spariscono con essa."
+        },
+        {
+          "heading": "Acquisti",
+          "body": "Gli acquisti in-app sono gestiti interamente da App Store di Apple (StoreKit). Non riceviamo né conserviamo i tuoi dati di pagamento. Con lo stesso account Apple puoi ripristinare l'acquisto su un nuovo dispositivo."
+        },
+        {
+          "heading": "Terze parti",
+          "body": "L'app non contiene pubblicità di terze parti né SDK di analytics o di tracciamento. Non costruiamo profili su di te tra app o siti diversi."
+        },
+        {
+          "heading": "Privacy dei minori",
+          "body": "Poiché non raccogliamo dati personali di nessuno, non raccogliamo nemmeno quelli dei bambini. Non chiediamo nome, data di nascita, contatti, foto o dati sanitari di un minore."
+        },
+        {
+          "heading": "Le tue scelte",
+          "body": "Poiché nessun dato personale lascia il tuo dispositivo, dalla nostra parte non c'è alcun account da cancellare. Per rimuovere i dati locali basta eliminare l'app. Per domande o richieste sulla privacy puoi scriverci."
+        },
+        {
+          "heading": "Modifiche a questa informativa",
+          "body": "Se una funzione dell'app cambia in modo rilevante per questa informativa, aggiorniamo questa pagina e la data di ultimo aggiornamento in alto."
+        }
+      ],
+      "parent_note": "L'app è pensata come strumento di supporto alle decisioni per genitori, tutori e caregiver, non per l'uso autonomo da parte dei bambini. Non chiediamo né conserviamo nome, data di nascita, foto o dati sanitari di un minore.",
+      "path": "it/privacy.html"
+    },
+    {
+      "locale": "ja",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "ホーム",
+        "サポート",
+        "プライバシー"
+      ],
+      "nav_label": "言語",
+      "language_label": "言語",
+      "support_label": "サポートを見る",
+      "contact_heading": "お問い合わせ",
+      "contact_body": "hourstag.app@gmail.com までメールでご連絡ください。最初の返信でお役に立てるよう、端末の機種名(設定 → 一般 → 情報)、iOS のバージョン、アプリのバージョン、問題が起きる直前に操作した内容を添えていただけると助かります。スクリーンショットや画面収録があるとさらにスムーズです。",
+      "contact_button": "お問い合わせ",
+      "footer_note": "このサイトでは第三者のトラッキング、広告、アナリティクスを使用していません。",
+      "title": "Lumi Math Planet プライバシーポリシー",
+      "description": "要点:アカウント不要、個人データの収集なし、第三者広告なし、第三者アナリティクスなし。",
+      "eyebrow": "プライバシーポリシー",
+      "heading": "プライバシー",
+      "lead": "このページでは、Lumi Math Planet が扱うデータ、その保存場所、そしてお客様が管理できる範囲について説明します。",
+      "sections": [
+        {
+          "heading": "このアプリの対象",
+          "body": "本アプリは保護者やお世話をされる方が判断の助けとして使うことを想定しており、お子さまが一人で使うためのものではありません。お子さまの氏名、生年月日、写真、健康情報をお尋ねしたり保存したりすることはありません。"
+        },
+        {
+          "heading": "収集する情報",
+          "body": "当方のサーバーでお客様の個人データを収集、保存、送信することはありません。Lumi Math Planet にユーザーアカウントやサインインの仕組みはありません。"
+        },
+        {
+          "heading": "データの保存場所",
+          "body": "Lumi Math Planet で作成した内容や設定は、Apple 標準の端末内ストレージを使ってお使いの端末にのみ保存されます。App を削除すると一緒に削除されます。"
+        },
+        {
+          "heading": "購入について",
+          "body": "アプリ内課金は Apple の App Store(StoreKit)がすべて処理します。当方がお支払い情報を受け取ったり保存したりすることはありません。同じ Apple アカウントであれば新しい端末で購入を復元できます。"
+        },
+        {
+          "heading": "第三者について",
+          "body": "本アプリには第三者の広告、第三者のアナリティクスやトラッキング SDK は含まれていません。アプリやウェブサイトをまたいでお客様のプロファイルを作成することもありません。"
+        },
+        {
+          "heading": "お子さまのプライバシー",
+          "body": "本アプリは誰の個人データも収集しないため、お子さまの情報も収集しません。お子さまの氏名、生年月日、連絡先、写真、健康情報をお尋ねすることはありません。"
+        },
+        {
+          "heading": "お客様の選択",
+          "body": "個人データが端末外に出ることはないため、当方側に削除すべきアカウントはありません。端末内のデータを消したい場合は App を削除してください。プライバシーに関するご質問やご要望はメールでお受けします。"
+        },
+        {
+          "heading": "ポリシーの変更",
+          "body": "アプリの機能が変わり本ポリシーに影響する場合は、このページを更新し、上部の最終更新日を改めます。"
+        }
+      ],
+      "parent_note": "本アプリは保護者やお世話をされる方が判断の助けとして使うことを想定しており、お子さまが一人で使うためのものではありません。お子さまの氏名、生年月日、写真、健康情報をお尋ねしたり保存したりすることはありません。",
+      "path": "ja/privacy.html"
+    },
+    {
+      "locale": "kn-IN",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "ಮುಖಪುಟ",
+        "ನೆರವು",
+        "ಗೌಪ್ಯತೆ"
+      ],
+      "nav_label": "ಭಾಷೆ",
+      "language_label": "ಭಾಷೆ",
+      "support_label": "ನೆರವಿಗೆ ಹೋಗಿ",
+      "contact_heading": "ಸಂಪರ್ಕ",
+      "contact_body": "ನಮಗೆ hourstag.app@gmail.com ಗೆ ಬರೆಯಿರಿ. ಮೊದಲ ಉತ್ತರದಲ್ಲೇ ನೆರವಾಗಲು, ನಿಮ್ಮ ಸಾಧನದ ಮಾದರಿ (ಸೆಟ್ಟಿಂಗ್‌ಗಳು → ಸಾಮಾನ್ಯ → ಕುರಿತು), iOS ಆವೃತ್ತಿ, ಅಪ್ಲಿಕೇಶನ್ ಆವೃತ್ತಿ ಮತ್ತು ಸಮಸ್ಯೆ ಬರುವ ಸ್ವಲ್ಪ ಮೊದಲು ನೀವು ಏನು ಮಾಡುತ್ತಿದ್ದಿರಿ ಎಂಬುದನ್ನು ತಿಳಿಸಿ. ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅಥವಾ ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್ ಇದ್ದರೆ ಪರಿಹಾರ ಇನ್ನಷ್ಟು ಬೇಗ ಸಿಗುತ್ತದೆ.",
+      "contact_button": "ಸಂಪರ್ಕ",
+      "footer_note": "ಈ ತಾಣ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಟ್ರ್ಯಾಕರ್, ಜಾಹೀರಾತು ಅಥವಾ ಅನಲಿಟಿಕ್ಸ್ ಬಳಸುವುದಿಲ್ಲ.",
+      "title": "Lumi Math Planet ಗೌಪ್ಯತಾ ನೀತಿ",
+      "description": "ಸಂಕ್ಷಿಪ್ತವಾಗಿ: ಖಾತೆ ಇಲ್ಲ, ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ ಸಂಗ್ರಹ ಇಲ್ಲ, ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಜಾಹೀರಾತು ಇಲ್ಲ, ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಅನಲಿಟಿಕ್ಸ್ ಇಲ್ಲ.",
+      "eyebrow": "ಗೌಪ್ಯತಾ ನೀತಿ",
+      "heading": "ಗೌಪ್ಯತೆ",
+      "lead": "Lumi Math Planet ಯಾವ ಮಾಹಿತಿಯನ್ನು ಬಳಸುತ್ತದೆ, ಅದು ಎಲ್ಲಿ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಯಾವುದನ್ನು ನೀವು ನಿರ್ಧರಿಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ಈ ಪುಟ ವಿವರಿಸುತ್ತದೆ.",
+      "sections": [
+        {
+          "heading": "ಈ ಅಪ್ಲಿಕೇಶನ್ ಯಾರಿಗಾಗಿ",
+          "body": "ಈ ಅಪ್ಲಿಕೇಶನ್ ಪೋಷಕರು, ಪಾಲಕರು ಮತ್ತು ಆರೈಕೆ ಮಾಡುವವರಿಗೆ ನಿರ್ಧಾರದಲ್ಲಿ ನೆರವಾಗುವ ಸಾಧನವಾಗಿ ರೂಪಿಸಲಾಗಿದೆ; ಮಕ್ಕಳು ಒಬ್ಬರೇ ಬಳಸಲು ಅಲ್ಲ. ಮಗುವಿನ ಹೆಸರು, ಹುಟ್ಟಿದ ದಿನಾಂಕ, ಚಿತ್ರಗಳು ಅಥವಾ ಆರೋಗ್ಯ ಮಾಹಿತಿಯನ್ನು ನಾವು ಕೇಳುವುದಿಲ್ಲ, ಇಟ್ಟುಕೊಳ್ಳುವುದೂ ಇಲ್ಲ."
+        },
+        {
+          "heading": "ನಾವು ಯಾವ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸುತ್ತೇವೆ",
+          "body": "ನಮ್ಮ ಸರ್ವರ್‌ಗಳಿಗೆ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನಾವು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ, ಸಂಗ್ರಹಿಸಿಡುವುದಿಲ್ಲ, ಕಳುಹಿಸುವುದಿಲ್ಲ. Lumi Math Planet ನಲ್ಲಿ ಬಳಕೆದಾರ ಖಾತೆ ಅಥವಾ ಸೈನ್-ಇನ್ ವ್ಯವಸ್ಥೆಯೇ ಇಲ್ಲ."
+        },
+        {
+          "heading": "ನಿಮ್ಮ ಮಾಹಿತಿ ಎಲ್ಲಿ ಉಳಿಯುತ್ತದೆ",
+          "body": "Lumi Math Planet ನಲ್ಲಿ ನೀವು ರಚಿಸುವುದು ಮತ್ತು ಹೊಂದಿಸುವುದು ನಿಮ್ಮ ಸಾಧನದಲ್ಲೇ, Apple ನ ಸಾಮಾನ್ಯ ಸ್ಥಳೀಯ ಸಂಗ್ರಹದಲ್ಲಿ ಉಳಿಯುತ್ತದೆ. ಅಪ್ಲಿಕೇಶನ್ ಅಳಿಸಿದರೆ ಅದೂ ಹೋಗುತ್ತದೆ."
+        },
+        {
+          "heading": "ಖರೀದಿಗಳು",
+          "body": "ಇನ್-ಆಪ್ ಖರೀದಿಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ Apple ನ App Store (StoreKit) ನಿರ್ವಹಿಸುತ್ತದೆ. ನಿಮ್ಮ ಪಾವತಿ ವಿವರಗಳು ನಮಗೆ ಸಿಗುವುದಿಲ್ಲ, ನಾವು ಅವನ್ನು ಸಂಗ್ರಹಿಸುವುದೂ ಇಲ್ಲ. ಅದೇ Apple ಖಾತೆಯಿಂದ ಹೊಸ ಸಾಧನದಲ್ಲಿ ಖರೀದಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಬಹುದು."
+        },
+        {
+          "heading": "ಮೂರನೇ ವ್ಯಕ್ತಿಗಳು",
+          "body": "ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಜಾಹೀರಾತು, ಅನಲಿಟಿಕ್ಸ್ ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ SDK ಇಲ್ಲ. ಬೇರೆ ಬೇರೆ ಅಪ್ಲಿಕೇಶನ್ ಅಥವಾ ಜಾಲತಾಣಗಳ ನಡುವೆ ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಅನ್ನು ನಾವು ರೂಪಿಸುವುದಿಲ್ಲ."
+        },
+        {
+          "heading": "ಮಕ್ಕಳ ಗೌಪ್ಯತೆ",
+          "body": "ನಾವು ಯಾರ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನೂ ಸಂಗ್ರಹಿಸದ ಕಾರಣ ಮಕ್ಕಳದ್ದನ್ನೂ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ. ಮಗುವಿನ ಹೆಸರು, ಹುಟ್ಟಿದ ದಿನಾಂಕ, ಸಂಪರ್ಕ ವಿವರ, ಚಿತ್ರಗಳು ಅಥವಾ ಆರೋಗ್ಯ ಮಾಹಿತಿಯನ್ನು ನಾವು ಕೇಳುವುದಿಲ್ಲ."
+        },
+        {
+          "heading": "ನಿಮ್ಮ ಆಯ್ಕೆಗಳು",
+          "body": "ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ ನಿಮ್ಮ ಸಾಧನದಿಂದ ಹೊರಗೆ ಹೋಗದ ಕಾರಣ ನಮ್ಮ ಕಡೆ ಅಳಿಸಲು ಖಾತೆಯೇ ಇಲ್ಲ. ಸ್ಥಳೀಯ ಮಾಹಿತಿ ತೆಗೆಯಬೇಕಿದ್ದರೆ ಅಪ್ಲಿಕೇಶನ್ ಅಳಿಸಿ. ಗೌಪ್ಯತೆ ಕುರಿತ ಪ್ರಶ್ನೆ ಅಥವಾ ಕೋರಿಕೆಯನ್ನು ಇಮೇಲ್‌ನಲ್ಲಿ ಕಳುಹಿಸಬಹುದು."
+        },
+        {
+          "heading": "ಈ ನೀತಿಯಲ್ಲಿ ಬದಲಾವಣೆಗಳು",
+          "body": "ಈ ನೀತಿಯನ್ನು ತಟ್ಟುವ ರೀತಿಯಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್‌ನ ಯಾವುದೇ ಸೌಲಭ್ಯ ಬದಲಾದರೆ, ಈ ಪುಟವನ್ನೂ ಮೇಲಿನ ದಿನಾಂಕವನ್ನೂ ನವೀಕರಿಸುತ್ತೇವೆ."
+        }
+      ],
+      "parent_note": "ಈ ಅಪ್ಲಿಕೇಶನ್ ಪೋಷಕರು, ಪಾಲಕರು ಮತ್ತು ಆರೈಕೆ ಮಾಡುವವರಿಗೆ ನಿರ್ಧಾರದಲ್ಲಿ ನೆರವಾಗುವ ಸಾಧನವಾಗಿ ರೂಪಿಸಲಾಗಿದೆ; ಮಕ್ಕಳು ಒಬ್ಬರೇ ಬಳಸಲು ಅಲ್ಲ. ಮಗುವಿನ ಹೆಸರು, ಹುಟ್ಟಿದ ದಿನಾಂಕ, ಚಿತ್ರಗಳು ಅಥವಾ ಆರೋಗ್ಯ ಮಾಹಿತಿಯನ್ನು ನಾವು ಕೇಳುವುದಿಲ್ಲ, ಇಟ್ಟುಕೊಳ್ಳುವುದೂ ಇಲ್ಲ.",
+      "path": "kn-IN/privacy.html"
+    },
+    {
+      "locale": "ko",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "홈",
+        "지원",
+        "개인정보 처리방침"
+      ],
+      "nav_label": "언어",
+      "language_label": "언어",
+      "support_label": "지원 안내 보기",
+      "contact_heading": "문의하기",
+      "contact_body": "hourstag.app@gmail.com 로 메일을 보내주세요. 첫 답장에서 바로 도움을 드릴 수 있도록 기기 모델(설정 → 일반 → 정보), iOS 버전, 앱 버전, 문제가 나타나기 직전에 무엇을 했는지 함께 적어주시면 좋습니다. 스크린샷이나 화면 기록이 있으면 훨씬 빠릅니다.",
+      "contact_button": "문의하기",
+      "footer_note": "이 사이트는 제3자 추적, 광고, 분석 도구를 사용하지 않습니다.",
+      "title": "Lumi Math Planet 개인정보 처리방침",
+      "description": "요약: 계정 불필요, 개인정보 미수집, 제3자 광고 없음, 제3자 분석 없음.",
+      "eyebrow": "개인정보 처리방침",
+      "heading": "개인정보 처리방침",
+      "lead": "이 페이지에서는 Lumi Math Planet이 어떤 데이터를 다루는지, 어디에 저장되는지, 이용자가 무엇을 통제할 수 있는지 설명합니다.",
+      "sections": [
+        {
+          "heading": "이 앱의 대상",
+          "body": "이 앱은 보호자와 돌보는 분이 판단에 참고하도록 만들었으며 어린이가 혼자 사용하도록 만든 앱이 아닙니다. 아동의 이름, 생년월일, 사진, 건강 정보를 요청하거나 저장하지 않습니다."
+        },
+        {
+          "heading": "수집하는 정보",
+          "body": "저희 서버에서 이용자의 개인정보를 수집하거나 저장하거나 전송하지 않습니다. Lumi Math Planet에는 사용자 계정이나 로그인 절차가 없습니다."
+        },
+        {
+          "heading": "데이터 저장 위치",
+          "body": "Lumi Math Planet에서 만든 내용과 설정은 Apple의 표준 기기 내 저장소를 통해 이용자의 기기에만 저장되며, 앱을 삭제하면 함께 삭제됩니다."
+        },
+        {
+          "heading": "구매",
+          "body": "인앱 구매는 Apple의 App Store(StoreKit)가 전부 처리합니다. 저희는 결제 정보를 받거나 보관하지 않습니다. 같은 Apple 계정이라면 새 기기에서 구매를 복원할 수 있습니다."
+        },
+        {
+          "heading": "제3자",
+          "body": "이 앱에는 제3자 광고, 제3자 분석 또는 추적 SDK가 포함되어 있지 않습니다. 앱이나 웹사이트를 넘나들며 이용자 프로필을 만들지도 않습니다."
+        },
+        {
+          "heading": "아동의 개인정보",
+          "body": "이 앱은 누구의 개인정보도 수집하지 않으므로 아동의 정보도 수집하지 않습니다. 아동의 이름, 생년월일, 연락처, 사진, 건강 정보를 요청하지 않습니다."
+        },
+        {
+          "heading": "이용자의 선택",
+          "body": "개인정보가 기기 밖으로 나가지 않으므로 저희 쪽에 삭제할 계정이 없습니다. 기기에 저장된 데이터를 지우려면 앱을 삭제하시면 됩니다. 개인정보 관련 문의나 요청은 메일로 보내주세요."
+        },
+        {
+          "heading": "방침 변경",
+          "body": "앱의 기능이 바뀌어 이 방침에 영향을 주는 경우 이 페이지를 업데이트하고 위의 최종 업데이트 날짜를 변경합니다."
+        }
+      ],
+      "parent_note": "이 앱은 보호자와 돌보는 분이 판단에 참고하도록 만들었으며 어린이가 혼자 사용하도록 만든 앱이 아닙니다. 아동의 이름, 생년월일, 사진, 건강 정보를 요청하거나 저장하지 않습니다.",
+      "path": "ko/privacy.html"
+    },
+    {
+      "locale": "ml-IN",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "ഹോം",
+        "പിന്തുണ",
+        "സ്വകാര്യത"
+      ],
+      "nav_label": "ഭാഷ",
+      "language_label": "ഭാഷ",
+      "support_label": "പിന്തുണയിലേക്ക്",
+      "contact_heading": "ബന്ധപ്പെടുക",
+      "contact_body": "ഞങ്ങൾക്ക് hourstag.app@gmail.com എന്ന വിലാസത്തിൽ എഴുതുക. ആദ്യ മറുപടിയിൽത്തന്നെ സഹായിക്കാനായി, ഉപകരണ മോഡൽ (ക്രമീകരണങ്ങൾ → പൊതുവായവ → ഇതിനെക്കുറിച്ച്), iOS പതിപ്പ്, ആപ്പ് പതിപ്പ്, പ്രശ്നം വരുന്നതിന് തൊട്ടുമുമ്പ് നിങ്ങൾ എന്തു ചെയ്യുകയായിരുന്നു എന്നിവ അറിയിക്കുക. സ്ക്രീൻഷോട്ടോ സ്ക്രീൻ റെക്കോർഡിംഗോ ഉണ്ടെങ്കിൽ പരിഹാരം കൂടുതൽ വേഗത്തിലാകും.",
+      "contact_button": "ബന്ധപ്പെടുക",
+      "footer_note": "ഈ സൈറ്റ് മൂന്നാം കക്ഷിയുടെ ട്രാക്കറുകളോ പരസ്യങ്ങളോ അനലിറ്റിക്സോ ഉപയോഗിക്കുന്നില്ല.",
+      "title": "Lumi Math Planet സ്വകാര്യതാ നയം",
+      "description": "ചുരുക്കത്തിൽ: അക്കൗണ്ട് ഇല്ല, വ്യക്തിഗത വിവരശേഖരണം ഇല്ല, മൂന്നാം കക്ഷിയുടെ പരസ്യം ഇല്ല, മൂന്നാം കക്ഷിയുടെ അനലിറ്റിക്സ് ഇല്ല.",
+      "eyebrow": "സ്വകാര്യതാ നയം",
+      "heading": "സ്വകാര്യത",
+      "lead": "Lumi Math Planet ഏതു വിവരമാണ് കൈകാര്യം ചെയ്യുന്നത്, അത് എവിടെ നിൽക്കുന്നു, എന്തൊക്കെ നിങ്ങൾ തീരുമാനിക്കുന്നു എന്ന് ഈ പേജ് വിശദീകരിക്കുന്നു.",
+      "sections": [
+        {
+          "heading": "ഈ ആപ്പ് ആർക്കുവേണ്ടി",
+          "body": "ഈ ആപ്പ് മാതാപിതാക്കൾക്കും രക്ഷിതാക്കൾക്കും പരിചരിക്കുന്നവർക്കും തീരുമാനമെടുക്കാൻ സഹായിക്കുന്ന ഉപകരണമായാണ് രൂപകൽപ്പന ചെയ്തത്; കുട്ടികൾ ഒറ്റയ്ക്ക് ഉപയോഗിക്കാനല്ല. ഒരു കുട്ടിയുടെ പേര്, ജനനത്തീയതി, ചിത്രങ്ങൾ, ആരോഗ്യ വിവരം എന്നിവ ഞങ്ങൾ ചോദിക്കുന്നുമില്ല സൂക്ഷിക്കുന്നുമില്ല."
+        },
+        {
+          "heading": "ഞങ്ങൾ ഏതു വിവരം ശേഖരിക്കുന്നു",
+          "body": "ഞങ്ങളുടെ സെർവറുകളിലേക്ക് ഒരു വ്യക്തിഗത വിവരവും ഞങ്ങൾ ശേഖരിക്കുകയോ സൂക്ഷിക്കുകയോ അയക്കുകയോ ചെയ്യുന്നില്ല. Lumi Math Planet-ൽ ഉപയോക്തൃ അക്കൗണ്ടോ സൈൻ-ഇൻ സംവിധാനമോ ഇല്ല."
+        },
+        {
+          "heading": "നിങ്ങളുടെ വിവരങ്ങൾ എവിടെ നിൽക്കുന്നു",
+          "body": "Lumi Math Planet-ൽ നിങ്ങൾ ഉണ്ടാക്കുന്നതും ക്രമീകരിക്കുന്നതും നിങ്ങളുടെ ഉപകരണത്തിൽ മാത്രം, Apple-ന്റെ സാധാരണ ലോക്കൽ സ്റ്റോറേജിൽ നിൽക്കും. ആപ്പ് നീക്കം ചെയ്താൽ അതും പോകും."
+        },
+        {
+          "heading": "വാങ്ങലുകൾ",
+          "body": "ഇൻ-ആപ്പ് വാങ്ങലുകൾ പൂർണമായും Apple-ന്റെ App Store (StoreKit) കൈകാര്യം ചെയ്യുന്നു. നിങ്ങളുടെ പണമിടപാട് വിവരങ്ങൾ ഞങ്ങൾക്ക് ലഭിക്കുന്നില്ല, ഞങ്ങൾ അവ സൂക്ഷിക്കുന്നുമില്ല. അതേ Apple അക്കൗണ്ടിൽ പുതിയ ഉപകരണത്തിൽ വാങ്ങൽ പുനഃസ്ഥാപിക്കാം."
+        },
+        {
+          "heading": "മൂന്നാം കക്ഷികൾ",
+          "body": "ആപ്പിൽ മൂന്നാം കക്ഷിയുടെ പരസ്യം, അനലിറ്റിക്സ് അല്ലെങ്കിൽ ട്രാക്കിംഗ് SDK ഇല്ല. വിവിധ ആപ്പുകൾക്കോ വെബ്സൈറ്റുകൾക്കോ ഇടയിൽ നിങ്ങളുടെ പ്രൊഫൈൽ ഞങ്ങൾ ഉണ്ടാക്കുന്നില്ല."
+        },
+        {
+          "heading": "കുട്ടികളുടെ സ്വകാര്യത",
+          "body": "ആരുടെയും വ്യക്തിഗത വിവരം ഞങ്ങൾ ശേഖരിക്കാത്തതിനാൽ കുട്ടികളുടേതും ശേഖരിക്കുന്നില്ല. ഒരു കുട്ടിയുടെ പേര്, ജനനത്തീയതി, ബന്ധപ്പെടാനുള്ള വിവരം, ചിത്രങ്ങൾ, ആരോഗ്യ വിവരം എന്നിവ ഞങ്ങൾ ചോദിക്കുന്നില്ല."
+        },
+        {
+          "heading": "നിങ്ങളുടെ തിരഞ്ഞെടുപ്പുകൾ",
+          "body": "വ്യക്തിഗത വിവരമൊന്നും നിങ്ങളുടെ ഉപകരണത്തിനു പുറത്തേക്കു പോകാത്തതിനാൽ ഞങ്ങളുടെ ഭാഗത്ത് മായ്ക്കാൻ അക്കൗണ്ടേ ഇല്ല. ലോക്കൽ വിവരങ്ങൾ നീക്കണമെങ്കിൽ ആപ്പ് നീക്കം ചെയ്യുക. സ്വകാര്യത സംബന്ധിച്ച ചോദ്യങ്ങളും അഭ്യർത്ഥനകളും ഇമെയിലിൽ അയക്കാം."
+        },
+        {
+          "heading": "ഈ നയത്തിലെ മാറ്റങ്ങൾ",
+          "body": "ഈ നയത്തെ ബാധിക്കുന്ന വിധത്തിൽ ആപ്പിന്റെ ഏതെങ്കിലും സവിശേഷത മാറിയാൽ, ഈ പേജും മുകളിലെ തീയതിയും ഞങ്ങൾ പുതുക്കും."
+        }
+      ],
+      "parent_note": "ഈ ആപ്പ് മാതാപിതാക്കൾക്കും രക്ഷിതാക്കൾക്കും പരിചരിക്കുന്നവർക്കും തീരുമാനമെടുക്കാൻ സഹായിക്കുന്ന ഉപകരണമായാണ് രൂപകൽപ്പന ചെയ്തത്; കുട്ടികൾ ഒറ്റയ്ക്ക് ഉപയോഗിക്കാനല്ല. ഒരു കുട്ടിയുടെ പേര്, ജനനത്തീയതി, ചിത്രങ്ങൾ, ആരോഗ്യ വിവരം എന്നിവ ഞങ്ങൾ ചോദിക്കുന്നുമില്ല സൂക്ഷിക്കുന്നുമില്ല.",
+      "path": "ml-IN/privacy.html"
+    },
+    {
+      "locale": "mr-IN",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "मुख्यपृष्ठ",
+        "मदत",
+        "गोपनीयता"
+      ],
+      "nav_label": "भाषा",
+      "language_label": "भाषा",
+      "support_label": "मदतीकडे जा",
+      "contact_heading": "संपर्क",
+      "contact_body": "आम्हाला hourstag.app@gmail.com वर लिहा. पहिल्याच उत्तरात मदत करता यावी म्हणून तुमच्या उपकरणाचे मॉडेल (सेटिंग्ज → सामान्य → विषयी), iOS आवृत्ती, अॅप आवृत्ती आणि अडचण येण्याच्या अगदी आधी तुम्ही काय करत होतात हे कळवा. स्क्रीनशॉट किंवा स्क्रीन रेकॉर्डिंग असेल तर आणखी लवकर मार्ग निघतो.",
+      "contact_button": "संपर्क",
+      "footer_note": "हे संकेतस्थळ तिसऱ्या पक्षाचे ट्रॅकर, जाहिराती किंवा अॅनालिटिक्स वापरत नाही.",
+      "title": "Lumi Math Planet चे गोपनीयता धोरण",
+      "description": "थोडक्यात: खाते नाही, वैयक्तिक माहिती गोळा केली जात नाही, तिसऱ्या पक्षाच्या जाहिराती नाहीत, तिसऱ्या पक्षाचे अॅनालिटिक्स नाही.",
+      "eyebrow": "गोपनीयता धोरण",
+      "heading": "गोपनीयता",
+      "lead": "हे पान सांगते की Lumi Math Planet कोणती माहिती हाताळते, ती कुठे राहते आणि कशाचा निर्णय तुम्ही घेता.",
+      "sections": [
+        {
+          "heading": "हे अॅप कोणासाठी आहे",
+          "body": "हे अॅप पालक, पालकत्व असणारे आणि काळजी घेणाऱ्यांना निर्णयात मदत करण्यासाठी आहे, मुलांनी एकट्याने वापरण्यासाठी नाही. आम्ही मुलाचे नाव, जन्मतारीख, छायाचित्रे किंवा आरोग्यविषयक माहिती मागत नाही आणि ठेवतही नाही."
+        },
+        {
+          "heading": "आम्ही कोणती माहिती गोळा करतो",
+          "body": "आम्ही आमच्या सर्व्हरवर कोणतीही वैयक्तिक माहिती गोळा करत नाही, साठवत नाही आणि पाठवत नाही. Lumi Math Planet मध्ये वापरकर्ता खाते किंवा साइन-इन ची व्यवस्थाच नाही."
+        },
+        {
+          "heading": "तुमची माहिती कुठे राहते",
+          "body": "तुम्ही Lumi Math Planet मध्ये जे तयार करता आणि जे सेट करता ते फक्त तुमच्याच उपकरणावर, Apple च्या नेहमीच्या स्थानिक साठ्यात राहते. अॅप हटवले की तेही जाते."
+        },
+        {
+          "heading": "खरेदी",
+          "body": "इन-अॅप खरेदी संपूर्णपणे Apple चे App Store (StoreKit) हाताळते. तुमची देयक माहिती आम्हाला मिळत नाही आणि आम्ही ती साठवतही नाही. त्याच Apple खात्याने नव्या उपकरणावर खरेदी पुनर्संचयित करता येते."
+        },
+        {
+          "heading": "तिसरे पक्ष",
+          "body": "अॅपमध्ये तिसऱ्या पक्षाच्या जाहिराती, अॅनालिटिक्स किंवा ट्रॅकिंग SDK नाहीत. वेगवेगळ्या अॅप्स किंवा संकेतस्थळांदरम्यान आम्ही तुमची कोणतीही प्रोफाइल तयार करत नाही."
+        },
+        {
+          "heading": "मुलांची गोपनीयता",
+          "body": "आम्ही कोणाचीही वैयक्तिक माहिती गोळा करत नसल्यामुळे मुलांचीही करत नाही. आम्ही मुलाचे नाव, जन्मतारीख, संपर्क तपशील, छायाचित्रे किंवा आरोग्यविषयक माहिती मागत नाही."
+        },
+        {
+          "heading": "तुमचे पर्याय",
+          "body": "कोणतीही वैयक्तिक माहिती तुमच्या उपकरणाबाहेर जात नसल्याने आमच्याकडे हटवण्यासारखे खातेच नाही. स्थानिक माहिती काढायची असेल तर अॅप हटवा. गोपनीयतेविषयी प्रश्न किंवा विनंती ईमेलने पाठवू शकता."
+        },
+        {
+          "heading": "या धोरणातील बदल",
+          "body": "अॅपचे एखादे वैशिष्ट्य या धोरणाला स्पर्श करेल अशा प्रकारे बदलल्यास आम्ही हे पान आणि वरची तारीख अद्ययावत करू."
+        }
+      ],
+      "parent_note": "हे अॅप पालक, पालकत्व असणारे आणि काळजी घेणाऱ्यांना निर्णयात मदत करण्यासाठी आहे, मुलांनी एकट्याने वापरण्यासाठी नाही. आम्ही मुलाचे नाव, जन्मतारीख, छायाचित्रे किंवा आरोग्यविषयक माहिती मागत नाही आणि ठेवतही नाही.",
+      "path": "mr-IN/privacy.html"
+    },
+    {
+      "locale": "ms",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Laman utama",
+        "Sokongan",
+        "Privasi"
+      ],
+      "nav_label": "Bahasa",
+      "language_label": "Bahasa",
+      "support_label": "Ke halaman sokongan",
+      "contact_heading": "Hubungi kami",
+      "contact_body": "E-mel kami di hourstag.app@gmail.com . Supaya kami dapat membantu sejak balasan pertama, nyatakan model peranti anda (Tetapan → Umum → Perihal), versi iOS, versi apl, dan apa yang anda lakukan sejurus sebelum masalah berlaku. Tangkapan skrin atau rakaman skrin menjadikannya lebih pantas lagi.",
+      "contact_button": "Hubungi kami",
+      "footer_note": "Laman ini tidak menggunakan penjejak, iklan atau analitis pihak ketiga.",
+      "title": "Dasar privasi Lumi Math Planet",
+      "description": "Ringkasnya: tiada akaun, tiada pengumpulan data peribadi, tiada iklan pihak ketiga, tiada analitis pihak ketiga.",
+      "eyebrow": "Dasar privasi",
+      "heading": "Privasi",
+      "lead": "Halaman ini menerangkan data apa yang diproses oleh Lumi Math Planet, di mana ia kekal, dan apa yang anda tentukan sendiri.",
+      "sections": [
+        {
+          "heading": "Untuk siapa apl ini",
+          "body": "Apl ini direka sebagai alat bantu keputusan untuk ibu bapa, penjaga dan pengasuh, bukan untuk digunakan kanak-kanak secara bersendirian. Kami tidak meminta dan tidak menyimpan nama, tarikh lahir, foto atau data kesihatan kanak-kanak."
+        },
+        {
+          "heading": "Maklumat apa yang kami kumpul",
+          "body": "Kami tidak mengumpul, menyimpan atau menghantar sebarang data peribadi ke pelayan kami. Lumi Math Planet tiada akaun pengguna dan tiada log masuk."
+        },
+        {
+          "heading": "Di mana data anda kekal",
+          "body": "Apa yang anda cipta dan tetapkan dalam Lumi Math Planet kekal pada peranti anda sahaja, dalam storan setempat biasa Apple. Jika apl dipadam, data itu hilang bersamanya."
+        },
+        {
+          "heading": "Pembelian",
+          "body": "Pembelian dalam apl dikendalikan sepenuhnya oleh App Store Apple (StoreKit). Kami tidak menerima dan tidak menyimpan maklumat pembayaran anda. Dengan akaun Apple yang sama, pembelian boleh dipulihkan pada peranti baharu."
+        },
+        {
+          "heading": "Pihak ketiga",
+          "body": "Apl ini tidak mengandungi iklan pihak ketiga mahupun SDK analitis atau penjejakan. Kami tidak membina profil anda merentas apl atau tapak web."
+        },
+        {
+          "heading": "Privasi kanak-kanak",
+          "body": "Oleh sebab kami tidak mengumpul data peribadi sesiapa pun, kami juga tidak mengumpulnya daripada kanak-kanak. Kami tidak meminta nama, tarikh lahir, maklumat perhubungan, foto atau data kesihatan kanak-kanak."
+        },
+        {
+          "heading": "Pilihan anda",
+          "body": "Oleh sebab tiada data peribadi keluar daripada peranti anda, tiada akaun di pihak kami yang perlu dipadam. Untuk membuang data setempat, padam apl itu. Untuk soalan atau permintaan berkaitan privasi, e-mel kami."
+        },
+        {
+          "heading": "Perubahan pada dasar ini",
+          "body": "Jika ciri apl berubah dengan cara yang menyentuh dasar ini, kami akan mengemas kini halaman ini dan tarikh di bahagian atas."
+        }
+      ],
+      "parent_note": "Apl ini direka sebagai alat bantu keputusan untuk ibu bapa, penjaga dan pengasuh, bukan untuk digunakan kanak-kanak secara bersendirian. Kami tidak meminta dan tidak menyimpan nama, tarikh lahir, foto atau data kesihatan kanak-kanak.",
+      "path": "ms/privacy.html"
+    },
+    {
+      "locale": "nl-NL",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Home",
+        "Support",
+        "Privacy"
+      ],
+      "nav_label": "Taal",
+      "language_label": "Taal",
+      "support_label": "Naar support",
+      "contact_heading": "Contact",
+      "contact_body": "Mail ons op hourstag.app@gmail.com . Om je meteen in de eerste reactie te kunnen helpen: vermeld je toestelmodel (Instellingen → Algemeen → Info), je iOS-versie, de app-versie en wat je deed vlak voordat het misging. Een schermafbeelding of schermopname helpt nog sneller.",
+      "contact_button": "Contact",
+      "footer_note": "Deze site gebruikt geen trackers, advertenties of analytics van derden.",
+      "title": "Privacyverklaring van Lumi Math Planet",
+      "description": "Kort samengevat: geen account, geen verzameling van persoonsgegevens, geen advertenties van derden, geen analytics van derden.",
+      "eyebrow": "Privacyverklaring",
+      "heading": "Privacy",
+      "lead": "Op deze pagina lees je welke gegevens Lumi Math Planet verwerkt, waar ze blijven en waar je zelf zeggenschap over hebt.",
+      "sections": [
+        {
+          "heading": "Voor wie deze app bedoeld is",
+          "body": "De app is bedoeld als hulpmiddel bij beslissingen voor ouders, verzorgers en begeleiders, niet om zelfstandig door kinderen gebruikt te worden. We vragen of bewaren geen naam, geboortedatum, foto's of gezondheidsgegevens van een kind."
+        },
+        {
+          "heading": "Welke gegevens we verzamelen",
+          "body": "We verzamelen, bewaren of versturen geen persoonsgegevens naar onze servers. Lumi Math Planet heeft geen gebruikersaccounts en geen inlogfunctie."
+        },
+        {
+          "heading": "Waar je gegevens blijven",
+          "body": "Wat je in Lumi Math Planet maakt en instelt, staat alleen op je eigen toestel, in de standaardopslag van Apple. Verwijder je de app, dan verdwijnt het mee."
+        },
+        {
+          "heading": "Aankopen",
+          "body": "In-app aankopen worden volledig door de App Store van Apple (StoreKit) afgehandeld. Wij ontvangen of bewaren geen betaalgegevens. Met hetzelfde Apple-account herstel je je aankoop op een nieuw toestel."
+        },
+        {
+          "heading": "Derden",
+          "body": "De app bevat geen advertenties van derden en geen analytics- of trackingSDK's. We bouwen geen profiel van je op over apps of websites heen."
+        },
+        {
+          "heading": "Privacy van kinderen",
+          "body": "Omdat we van niemand persoonsgegevens verzamelen, verzamelen we die ook niet van kinderen. We vragen geen naam, geboortedatum, contactgegevens, foto's of gezondheidsgegevens van een kind."
+        },
+        {
+          "heading": "Jouw keuzes",
+          "body": "Omdat er geen persoonsgegevens van je toestel af gaan, is er aan onze kant geen account om te verwijderen. Wil je de lokale gegevens weg, verwijder dan de app. Vragen of verzoeken over privacy kun je ons mailen."
+        },
+        {
+          "heading": "Wijzigingen in deze verklaring",
+          "body": "Verandert een functie van de app op een manier die deze verklaring raakt, dan werken we deze pagina bij en passen we de datum bovenaan aan."
+        }
+      ],
+      "parent_note": "De app is bedoeld als hulpmiddel bij beslissingen voor ouders, verzorgers en begeleiders, niet om zelfstandig door kinderen gebruikt te worden. We vragen of bewaren geen naam, geboortedatum, foto's of gezondheidsgegevens van een kind.",
+      "path": "nl-NL/privacy.html"
+    },
+    {
+      "locale": "no",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Hjem",
+        "Kundestøtte",
+        "Personvern"
+      ],
+      "nav_label": "Språk",
+      "language_label": "Språk",
+      "support_label": "Gå til kundestøtte",
+      "contact_heading": "Kontakt",
+      "contact_body": "Skriv til oss på hourstag.app@gmail.com . For at vi skal kunne hjelpe deg allerede i første svar: oppgi gjerne enhetsmodell (Innstillinger → Generelt → Om), iOS-versjon, appversjon og hva du gjorde rett før problemet oppsto. Et skjermbilde eller et skjermopptak gjør det enda raskere.",
+      "contact_button": "Kontakt",
+      "footer_note": "Denne siden bruker ingen sporere, annonser eller analyseverktøy fra tredjeparter.",
+      "title": "Personvernerklæring for Lumi Math Planet",
+      "description": "Kort fortalt: ingen konto, ingen innsamling av personopplysninger, ingen tredjepartsannonser, ingen tredjepartsanalyse.",
+      "eyebrow": "Personvernerklæring",
+      "heading": "Personvern",
+      "lead": "Denne siden forklarer hvilke data Lumi Math Planet behandler, hvor de blir værende, og hva du selv bestemmer.",
+      "sections": [
+        {
+          "heading": "Hvem appen er laget for",
+          "body": "Appen er ment som et beslutningsverktøy for foreldre, verger og omsorgspersoner, ikke for at barn skal bruke den alene. Vi ber ikke om og lagrer ikke et barns navn, fødselsdato, bilder eller helseopplysninger."
+        },
+        {
+          "heading": "Hvilke opplysninger vi samler inn",
+          "body": "Vi samler ikke inn, lagrer ikke og sender ingen personopplysninger til våre servere. Lumi Math Planet har verken brukerkontoer eller innlogging."
+        },
+        {
+          "heading": "Hvor dataene dine blir",
+          "body": "Det du lager og stiller inn i Lumi Math Planet, blir bare på din egen enhet, i Apples vanlige lokale lagring. Sletter du appen, forsvinner det med den."
+        },
+        {
+          "heading": "Kjøp",
+          "body": "Kjøp i appen håndteres i sin helhet av Apples App Store (StoreKit). Vi mottar og lagrer ingen betalingsopplysninger. Med den samme Apple-kontoen kan du gjenopprette kjøpet på en ny enhet."
+        },
+        {
+          "heading": "Tredjeparter",
+          "body": "Appen inneholder verken tredjepartsannonser eller analyse- og sporings-SDK-er. Vi bygger ingen profil av deg på tvers av apper eller nettsteder."
+        },
+        {
+          "heading": "Barns personvern",
+          "body": "Siden vi ikke samler inn personopplysninger om noen, samler vi dem heller ikke inn om barn. Vi spør ikke om et barns navn, fødselsdato, kontaktopplysninger, bilder eller helseopplysninger."
+        },
+        {
+          "heading": "Dine valg",
+          "body": "Siden ingen personopplysninger forlater enheten din, finnes det ingen konto hos oss å slette. Vil du fjerne de lokale dataene, sletter du appen. Spørsmål eller ønsker om personvern kan du sende oss på e-post."
+        },
+        {
+          "heading": "Endringer i denne erklæringen",
+          "body": "Hvis en funksjon i appen endres på en måte som berører denne erklæringen, oppdaterer vi denne siden og datoen øverst."
+        }
+      ],
+      "parent_note": "Appen er ment som et beslutningsverktøy for foreldre, verger og omsorgspersoner, ikke for at barn skal bruke den alene. Vi ber ikke om og lagrer ikke et barns navn, fødselsdato, bilder eller helseopplysninger.",
+      "path": "no/privacy.html"
+    },
+    {
+      "locale": "or-IN",
+      "surface": "index",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "ପରିଚୟ",
+        "ସହାୟତା",
+        "ଗୋପନୀୟତା"
+      ],
+      "nav_label": "ଭାଷା",
+      "language_label": "ଭାଷା",
+      "support_label": "ସହାୟତା ଦେଖନ୍ତୁ",
+      "contact_heading": "ଆମ ସହ ଯୋଗାଯୋଗ",
+      "contact_body": "ଆପଣ କ’ଣ କରିଥିଲେ, କ’ଣ ଘଟିଲା, ଡିଭାଇସ୍ ମଡେଲ୍, iOS ଓ App ସଂସ୍କରଣ ଲେଖନ୍ତୁ। ବ୍ୟକ୍ତିଗତ ବିଷୟବସ୍ତୁ ପଠାନ୍ତୁ ନାହିଁ।",
+      "contact_button": "ଆମ ସହ ଯୋଗାଯୋଗ",
+      "footer_note": "ଏହି ସ୍ଥିର ସାଇଟ୍‌ରେ ଆନାଲିଟିକ୍ସ, ବିଜ୍ଞାପନ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ।",
+      "title": "Lumi Math Planet — ଆଧିକାରିକ ସହାୟତା",
+      "description": "ସର୍ବୋତ୍ତମ ଶିଶୁମାନଙ୍କର ଗଣିତ ଆପ୍ ତର୍କ ଶିକ୍ଷା ଦେଇଥାଏ — ନମୁନା, କ୍ରମ, ସ୍ଥାନୀୟ ଚିନ୍ତନ — କେବଳ ଗଣିତ ଅଭ୍ୟାସ ନୁହେଁ, ଏବଂ ଏହାକୁ ଏକ ଖେଳ ମଧ୍ୟରେ ଲୁଚାଇଥାଏ ଯାହା ଶିଶୁ ଖେଳିବାକୁ ଚାହାଁନ୍ତି — Lumi Math Planet ଏହା ପାଇଁ ତିଆରି।",
+      "eyebrow": "ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍",
+      "heading": "Lumi Math Planet",
+      "lead": "ସର୍ବୋତ୍ତମ ଶିଶୁମାନଙ୍କର ଗଣିତ ଆପ୍ ତର୍କ ଶିକ୍ଷା ଦେଇଥାଏ — ନମୁନା, କ୍ରମ, ସ୍ଥାନୀୟ ଚିନ୍ତନ — କେବଳ ଗଣିତ ଅଭ୍ୟାସ ନୁହେଁ, ଏବଂ ଏହାକୁ ଏକ ଖେଳ ମଧ୍ୟରେ ଲୁଚାଇଥାଏ ଯାହା ଶିଶୁ ଖେଳିବାକୁ ଚାହାଁନ୍ତି — Lumi Math Planet ଏହା ପାଇଁ ତିଆରି।",
+      "sections": [
+        {
+          "heading": "Lumi Math Planet ବିଷୟରେ",
+          "body": "ସର୍ବୋତ୍ତମ ଶିଶୁମାନଙ୍କର ଗଣିତ ଆପ୍ ତର୍କ ଶିକ୍ଷା ଦେଇଥାଏ — ନମୁନା, କ୍ରମ, ସ୍ଥାନୀୟ ଚିନ୍ତନ — କେବଳ ଗଣିତ ଅଭ୍ୟାସ ନୁହେଁ, ଏବଂ ଏହାକୁ ଏକ ଖେଳ ମଧ୍ୟରେ ଲୁଚାଇଥାଏ ଯାହା ଶିଶୁ ଖେଳିବାକୁ ଚାହାଁନ୍ତି — Lumi Math Planet ଏହା ପାଇଁ ତିଆରି।"
+        },
+        {
+          "heading": "ଗୋପନୀୟତାର ସାରାଂଶ",
+          "body": "ଡେଭଲପର୍ ଖାତା ନାହିଁ, ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ ନାହିଁ, ତୃତୀୟ-ପକ୍ଷ ଆନାଲିଟିକ୍ସ ନାହିଁ ଓ କ୍ରସ୍-App ଟ୍ରାକିଂ ନାହିଁ।"
+        }
+      ],
+      "store_url": "https://apps.apple.com/in/app/id6778269699?pt=118326163&ct=iag_data_or_in&mt=8",
+      "store_label": "App Store ରୁ Lumi Math Planet ପାଆନ୍ତୁ →",
+      "parent_note": "ଏହି ସୂଚନା ବୟସ୍କଙ୍କ ପାଇଁ ଲେଖାଯାଇଛି। App ଶିଶୁଙ୍କୁ ବାହ୍ୟ ଲିଙ୍କ ଖୋଲିବା କିମ୍ବା କ୍ରୟ କରିବାକୁ ପ୍ରେରିତ କରେ ନାହିଁ।",
+      "path": "or-IN/index.html"
+    },
+    {
+      "locale": "or-IN",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "ପରିଚୟ",
+        "ସହାୟତା",
+        "ଗୋପନୀୟତା"
+      ],
+      "nav_label": "ଭାଷା",
+      "language_label": "ଭାଷା",
+      "support_label": "ସହାୟତା ଦେଖନ୍ତୁ",
+      "contact_heading": "ଆମ ସହ ଯୋଗାଯୋଗ",
+      "contact_body": "ଆପଣ କ’ଣ କରିଥିଲେ, କ’ଣ ଘଟିଲା, ଡିଭାଇସ୍ ମଡେଲ୍, iOS ଓ App ସଂସ୍କରଣ ଲେଖନ୍ତୁ। ବ୍ୟକ୍ତିଗତ ବିଷୟବସ୍ତୁ ପଠାନ୍ତୁ ନାହିଁ।",
+      "contact_button": "ଆମ ସହ ଯୋଗାଯୋଗ",
+      "footer_note": "ଏହି ସ୍ଥିର ସାଇଟ୍‌ରେ ଆନାଲିଟିକ୍ସ, ବିଜ୍ଞାପନ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ।",
+      "title": "Lumi Math Planet ଗୋପନୀୟତା ନୀତି",
+      "description": "ଡେଭଲପର୍ ଖାତା ନାହିଁ, ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ ନାହିଁ, ତୃତୀୟ-ପକ୍ଷ ଆନାଲିଟିକ୍ସ ନାହିଁ ଓ କ୍ରସ୍-App ଟ୍ରାକିଂ ନାହିଁ।",
+      "eyebrow": "ଗୋପନୀୟତା ନୀତି",
+      "heading": "ଗୋପନୀୟତା",
+      "lead": "ଏହି ପୃଷ୍ଠାରେ Lumi Math Planet କେଉଁ ସୂଚନା ପ୍ରକ୍ରିୟା କରେ, ସେଗୁଡ଼ିକ କେଉଁଠି ରହେ ଓ ଆପଣଙ୍କ ନିୟନ୍ତ୍ରଣ କ’ଣ ତାହା ବୁଝାଯାଇଛି।",
+      "sections": [
+        {
+          "heading": "ମାତାପିତା ଓ ଯତ୍ନଦାତାଙ୍କ ପାଇଁ",
+          "body": "ଏହି ସୂଚନା ବୟସ୍କଙ୍କ ପାଇଁ ଲେଖାଯାଇଛି। App ଶିଶୁଙ୍କୁ ବାହ୍ୟ ଲିଙ୍କ ଖୋଲିବା କିମ୍ବା କ୍ରୟ କରିବାକୁ ପ୍ରେରିତ କରେ ନାହିଁ।"
+        },
+        {
+          "heading": "ଡେଭଲପର୍ ସଂଗ୍ରହ କରୁଥିବା ସୂଚନା",
+          "body": "ଆମେ ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ବିଷୟବସ୍ତୁ ସଂଗ୍ରହ, ସଞ୍ଚୟ କିମ୍ବା ଡେଭଲପର୍ ସର୍ଭର୍‌କୁ ପଠାଉ ନାହିଁ। Lumi Math Planetରେ ଡେଭଲପର୍ ଖାତା କିମ୍ବା ସାଇନ୍-ଇନ୍ ନାହିଁ।"
+        },
+        {
+          "heading": "ଡିଭାଇସ୍‌ରେ ରହୁଥିବା ସୂଚନା",
+          "body": "Lumi Math Planetରେ ତିଆରି ବିଷୟବସ୍ତୁ ଓ ସେଟିଂସ୍ ଡିଭାଇସ୍‌ର Apple ସ୍ଥାନୀୟ ସଞ୍ଚୟରେ ରହେ, ଯଦି ଆପଣ ସ୍ପଷ୍ଟ ଭାବେ ରପ୍ତାନି, ସେୟାର୍ କିମ୍ବା ତଳେ ଥିବା Apple ସେବା ଚାଲୁ ନକରନ୍ତି।"
+        },
+        {
+          "heading": "କ୍ରୟ",
+          "body": "App Store ମାଧ୍ୟମରେ କ୍ରୟ ଓ ପୁନଃସ୍ଥାପନ Apple ପ୍ରକ୍ରିୟା କରେ। ଡେଭଲପର୍ ଆପଣଙ୍କ ଦେୟ ସୂଚନା ପାଉନ୍ତି କିମ୍ବା ସଞ୍ଚୟ କରନ୍ତି ନାହିଁ।"
+        },
+        {
+          "heading": "ବିଜ୍ଞାପନ, ଆନାଲିଟିକ୍ସ ଓ ଟ୍ରାକିଂ",
+          "body": "Lumi Math Planetରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ଆନାଲିଟିକ୍ସ କିମ୍ବା ଟ୍ରାକିଂ SDK ନାହିଁ ଏବଂ App କିମ୍ବା ୱେବସାଇଟ୍ ଜୁଡ଼ି ପ୍ରୋଫାଇଲ୍ ତିଆରି ହୁଏ ନାହିଁ।"
+        },
+        {
+          "heading": "ଶିଶୁଙ୍କ ଗୋପନୀୟତା",
+          "body": "ଡେଭଲପର୍ ଶିଶୁ କିମ୍ବା ବୟସ୍କଙ୍କ ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ କରନ୍ତି ନାହିଁ। ଶିଶୁର ନାମ, ଜନ୍ମଦିନ, ଯୋଗାଯୋଗ, ଫଟୋ କିମ୍ବା ସ୍ୱାସ୍ଥ୍ୟ ସୂଚନା ଡେଭଲପର୍‌ଙ୍କୁ ପଠାଇବାକୁ App କୁହେ ନାହିଁ।"
+        },
+        {
+          "heading": "ଆପଣଙ୍କ ନିୟନ୍ତ୍ରଣ",
+          "body": "ସ୍ଥାନୀୟ ବିଷୟବସ୍ତୁ ମିଟାଇବାକୁ Appର ନିୟନ୍ତ୍ରଣ ବ୍ୟବହାର କରନ୍ତୁ। App ହଟାଇଲେ ତାହାର ସ୍ଥାନୀୟ କଣ୍ଟେନର୍ ହଟେ; ରପ୍ତାନି, ସେୟାର୍ କିମ୍ବା Apple ସହ ସଞ୍ଚୟ କରାଯାଇଥିବା କପି ସେଠାରେ ରହେ।"
+        },
+        {
+          "heading": "ନୀତିର ପରିବର୍ତ୍ତନ",
+          "body": "ପ୍ରକାଶିତ ସୁବିଧା ଏହି ପ୍ରଚଳନ ବଦଳାଇଲେ, ସେହି ରିଲିଜ୍‌ର ପୂର୍ବରୁ କିମ୍ବା ସହିତ ଏହି ପୃଷ୍ଠା ଓ ତାରିଖ ବଦଳିବ।"
+        }
+      ],
+      "parent_note": "ଏହି ସୂଚନା ବୟସ୍କଙ୍କ ପାଇଁ ଲେଖାଯାଇଛି। App ଶିଶୁଙ୍କୁ ବାହ୍ୟ ଲିଙ୍କ ଖୋଲିବା କିମ୍ବା କ୍ରୟ କରିବାକୁ ପ୍ରେରିତ କରେ ନାହିଁ।",
+      "path": "or-IN/privacy.html"
+    },
+    {
+      "locale": "or-IN",
+      "surface": "support",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "ପରିଚୟ",
+        "ସହାୟତା",
+        "ଗୋପନୀୟତା"
+      ],
+      "nav_label": "ଭାଷା",
+      "language_label": "ଭାଷା",
+      "support_label": "ସହାୟତା ଦେଖନ୍ତୁ",
+      "contact_heading": "ଆମ ସହ ଯୋଗାଯୋଗ",
+      "contact_body": "ଆପଣ କ’ଣ କରିଥିଲେ, କ’ଣ ଘଟିଲା, ଡିଭାଇସ୍ ମଡେଲ୍, iOS ଓ App ସଂସ୍କରଣ ଲେଖନ୍ତୁ। ବ୍ୟକ୍ତିଗତ ବିଷୟବସ୍ତୁ ପଠାନ୍ତୁ ନାହିଁ।",
+      "contact_button": "ଆମ ସହ ଯୋଗାଯୋଗ",
+      "footer_note": "ଏହି ସ୍ଥିର ସାଇଟ୍‌ରେ ଆନାଲିଟିକ୍ସ, ବିଜ୍ଞାପନ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ।",
+      "title": "Lumi Math Planet ସହାୟତା — ପ୍ରଶ୍ନ ଓ ସମସ୍ୟା ସମାଧାନ",
+      "description": "Lumi Math Planet ବିଷୟରେ ସ୍ପଷ୍ଟ ଉତ୍ତର, ନିଜେ ସମାଧାନ କରିବା ପଦକ୍ଷେପ ଓ ଡେଭଲପର୍‌ଙ୍କ ସହ ସିଧା ଯୋଗାଯୋଗ।",
+      "eyebrow": "ସହାୟତା କେନ୍ଦ୍ର",
+      "heading": "ଆମ ସହ ଯୋଗାଯୋଗ",
+      "lead": "Lumi Math Planet ବିଷୟରେ ସ୍ପଷ୍ଟ ଉତ୍ତର, ନିଜେ ସମାଧାନ କରିବା ପଦକ୍ଷେପ ଓ ଡେଭଲପର୍‌ଙ୍କ ସହ ସିଧା ଯୋଗାଯୋଗ।",
+      "sections": [
+        {
+          "heading": "ସମସ୍ୟା ସମାଧାନ",
+          "body": "Lumi Math Planetକୁ ସମ୍ପୂର୍ଣ୍ଣ ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ। ଅସ୍ଥାୟୀ ସିଷ୍ଟମ୍ ସମସ୍ୟା ହଟାଇବାକୁ iPhone କିମ୍ବା iPad ପୁନରାରମ୍ଭ କରନ୍ତୁ। App Store ଖୋଲି Lumi Math Planet ପାଇଁ ଥିବା ଅଦ୍ୟତନ ସ୍ଥାପନ କରନ୍ତୁ। ସମସ୍ୟା ରହିଲେ ଇମେଲ୍‌ରେ ଠିକ୍ ପୁନରୁତ୍ପାଦନ ପଦକ୍ଷେପ ଦିଅନ୍ତୁ।"
+        }
+      ],
+      "faqs": [
+        [
+          "ଖାତା ଦରକାର କି?",
+          "ନା। Lumi Math Planet ପାଇଁ ଡେଭଲପର୍ ଖାତା କିମ୍ବା ସାଇନ୍-ଇନ୍ ଦରକାର ନାହିଁ।"
+        ],
+        [
+          "ମୁଖ୍ୟ ସୁବିଧା ଅଫ୍‌ଲାଇନ୍‌ରେ ଚାଲେ କି?",
+          "ହଁ। Lumi Math Planetର ମୁଖ୍ୟ ପ୍ରକ୍ରିୟା ଡିଭାଇସ୍‌ରେ ହୁଏ। App ଡାଉନଲୋଡ୍, କ୍ରୟ ଓ ସ୍ପଷ୍ଟ ଅନଲାଇନ୍ ସୁବିଧା ପାଇଁ ଇଣ୍ଟରନେଟ୍ ଦରକାର।"
+        ],
+        [
+          "ବିଜ୍ଞାପନ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ଟ୍ରାକିଂ ଅଛି କି?",
+          "ନା। Lumi Math Planetରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ଆନାଲିଟିକ୍ସ କିମ୍ବା କ୍ରସ୍-App ଟ୍ରାକିଂ SDK ନାହିଁ।"
+        ],
+        [
+          "ସୂଚନା କିପରି କାମ କରେ?",
+          "ଆପଣ ଚାଲୁ କରିଥିବା ସ୍ମରଣିକା ଡିଭାଇସ୍‌ରେ ନିର୍ଦ୍ଧାରିତ ହୁଏ। iOS Settingsରେ ସେଗୁଡ଼ିକ ବଦଳାଇ କିମ୍ବା ବନ୍ଦ କରିପାରିବେ।"
+        ],
+        [
+          "App କିପରି ଅଦ୍ୟତନ କରିବି?",
+          "App Store ଖୋଲି ଆପଣଙ୍କ ଖାତା ଚିତ୍ର ଟ୍ୟାପ୍ କରନ୍ତୁ ଓ Lumi Math Planet ପାଇଁ ଥିବା ଅଦ୍ୟତନ ସ୍ଥାପନ କରନ୍ତୁ।"
+        ],
+        [
+          "ତ୍ରୁଟି ରିପୋର୍ଟରେ କ’ଣ ଦେବି?",
+          "hourstag.app@gmail.comକୁ ଡିଭାଇସ୍ ମଡେଲ୍, iOS, App ସଂସ୍କରଣ, ପୁନରୁତ୍ପାଦନ ପଦକ୍ଷେପ ଓ ବ୍ୟକ୍ତିଗତ ସୂଚନା ନଥିବା ସ୍କ୍ରିନ୍‌ଶଟ୍ ପଠାନ୍ତୁ।"
+        ]
+      ],
+      "faq_heading": "ସାଧାରଣ ପ୍ରଶ୍ନ",
+      "parent_note": "ଏହି ସୂଚନା ବୟସ୍କଙ୍କ ପାଇଁ ଲେଖାଯାଇଛି। App ଶିଶୁଙ୍କୁ ବାହ୍ୟ ଲିଙ୍କ ଖୋଲିବା କିମ୍ବା କ୍ରୟ କରିବାକୁ ପ୍ରେରିତ କରେ ନାହିଁ।",
+      "path": "or-IN/support.html"
+    },
+    {
+      "locale": "pa-IN",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "ਮੁੱਖ ਪੰਨਾ",
+        "ਸਹਾਇਤਾ",
+        "ਨਿੱਜਤਾ"
+      ],
+      "nav_label": "ਭਾਸ਼ਾ",
+      "language_label": "ਭਾਸ਼ਾ",
+      "support_label": "ਸਹਾਇਤਾ ਵੱਲ ਜਾਓ",
+      "contact_heading": "ਸੰਪਰਕ",
+      "contact_body": "ਸਾਨੂੰ hourstag.app@gmail.com ਉੱਤੇ ਲਿਖੋ। ਪਹਿਲੇ ਹੀ ਜਵਾਬ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕੀਏ, ਇਸ ਲਈ ਆਪਣੇ ਡਿਵਾਈਸ ਦਾ ਮਾਡਲ (ਸੈਟਿੰਗਜ਼ → ਆਮ → ਬਾਰੇ), iOS ਵਰਜਨ, ਐਪ ਵਰਜਨ ਅਤੇ ਸਮੱਸਿਆ ਤੋਂ ਐਨ ਪਹਿਲਾਂ ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਸੀ, ਜ਼ਰੂਰ ਦੱਸੋ। ਸਕਰੀਨਸ਼ਾਟ ਜਾਂ ਸਕਰੀਨ ਰਿਕਾਰਡਿੰਗ ਹੋਵੇ ਤਾਂ ਹੱਲ ਹੋਰ ਤੇਜ਼ ਨਿਕਲਦਾ ਹੈ।",
+      "contact_button": "ਸੰਪਰਕ",
+      "footer_note": "ਇਹ ਸਾਈਟ ਕਿਸੇ ਤੀਜੀ ਧਿਰ ਦੇ ਟ੍ਰੈਕਰ, ਇਸ਼ਤਿਹਾਰ ਜਾਂ ਐਨਾਲਿਟਿਕਸ ਨਹੀਂ ਵਰਤਦੀ।",
+      "title": "Lumi Math Planet ਦੀ ਨਿੱਜਤਾ ਨੀਤੀ",
+      "description": "ਸੰਖੇਪ ਵਿੱਚ: ਕੋਈ ਖਾਤਾ ਨਹੀਂ, ਨਿੱਜੀ ਡਾਟਾ ਇਕੱਠਾ ਨਹੀਂ, ਤੀਜੀ ਧਿਰ ਦੇ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ, ਤੀਜੀ ਧਿਰ ਦਾ ਐਨਾਲਿਟਿਕਸ ਨਹੀਂ।",
+      "eyebrow": "ਨਿੱਜਤਾ ਨੀਤੀ",
+      "heading": "ਨਿੱਜਤਾ",
+      "lead": "ਇਹ ਪੰਨਾ ਦੱਸਦਾ ਹੈ ਕਿ Lumi Math Planet ਕਿਹੜਾ ਡਾਟਾ ਵਰਤਦੀ ਹੈ, ਉਹ ਕਿੱਥੇ ਰਹਿੰਦਾ ਹੈ ਅਤੇ ਕਿਹੜੇ ਫ਼ੈਸਲੇ ਤੁਹਾਡੇ ਹੱਥ ਹਨ।",
+      "sections": [
+        {
+          "heading": "ਇਹ ਐਪ ਕਿਸ ਲਈ ਹੈ",
+          "body": "ਇਹ ਐਪ ਮਾਪਿਆਂ, ਸਰਪ੍ਰਸਤਾਂ ਅਤੇ ਸੰਭਾਲ ਕਰਨ ਵਾਲਿਆਂ ਲਈ ਫ਼ੈਸਲੇ ਵਿੱਚ ਮਦਦ ਦਾ ਸਾਧਨ ਹੈ, ਬੱਚਿਆਂ ਦੇ ਇਕੱਲੇ ਵਰਤਣ ਲਈ ਨਹੀਂ। ਅਸੀਂ ਕਿਸੇ ਬੱਚੇ ਦਾ ਨਾਂ, ਜਨਮ ਤਾਰੀਖ਼, ਤਸਵੀਰਾਂ ਜਾਂ ਸਿਹਤ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਨਾ ਮੰਗਦੇ ਹਾਂ ਨਾ ਰੱਖਦੇ ਹਾਂ।"
+        },
+        {
+          "heading": "ਅਸੀਂ ਕਿਹੜੀ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਦੇ ਹਾਂ",
+          "body": "ਅਸੀਂ ਆਪਣੇ ਸਰਵਰਾਂ ਉੱਤੇ ਕੋਈ ਵੀ ਨਿੱਜੀ ਡਾਟਾ ਇਕੱਠਾ, ਸਾਂਭ ਜਾਂ ਭੇਜ ਨਹੀਂ ਰਹੇ। Lumi Math Planet ਵਿੱਚ ਵਰਤੋਂਕਾਰ ਖਾਤਾ ਜਾਂ ਸਾਈਨ-ਇਨ ਦੀ ਕੋਈ ਵਿਵਸਥਾ ਹੀ ਨਹੀਂ।"
+        },
+        {
+          "heading": "ਤੁਹਾਡਾ ਡਾਟਾ ਕਿੱਥੇ ਰਹਿੰਦਾ ਹੈ",
+          "body": "ਤੁਸੀਂ Lumi Math Planet ਵਿੱਚ ਜੋ ਬਣਾਉਂਦੇ ਅਤੇ ਸੈੱਟ ਕਰਦੇ ਹੋ ਉਹ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ, Apple ਦੇ ਆਮ ਸਥਾਨਕ ਭੰਡਾਰ ਵਿੱਚ ਰਹਿੰਦਾ ਹੈ। ਐਪ ਹਟਾਉਣ ਨਾਲ ਉਹ ਵੀ ਚਲਾ ਜਾਂਦਾ ਹੈ।"
+        },
+        {
+          "heading": "ਖ਼ਰੀਦਾਂ",
+          "body": "ਇਨ-ਐਪ ਖ਼ਰੀਦਾਂ ਪੂਰੀ ਤਰ੍ਹਾਂ Apple ਦਾ App Store (StoreKit) ਸੰਭਾਲਦਾ ਹੈ। ਤੁਹਾਡੀ ਅਦਾਇਗੀ ਦੀ ਜਾਣਕਾਰੀ ਨਾ ਸਾਨੂੰ ਮਿਲਦੀ ਹੈ ਨਾ ਅਸੀਂ ਸਾਂਭਦੇ ਹਾਂ। ਉਸੇ Apple ਖਾਤੇ ਨਾਲ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਖ਼ਰੀਦ ਬਹਾਲ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।"
+        },
+        {
+          "heading": "ਤੀਜੀਆਂ ਧਿਰਾਂ",
+          "body": "ਐਪ ਵਿੱਚ ਤੀਜੀ ਧਿਰ ਦੇ ਇਸ਼ਤਿਹਾਰ, ਐਨਾਲਿਟਿਕਸ ਜਾਂ ਟ੍ਰੈਕਿੰਗ SDK ਨਹੀਂ ਹਨ। ਵੱਖ-ਵੱਖ ਐਪਾਂ ਜਾਂ ਵੈੱਬਸਾਈਟਾਂ ਵਿਚਕਾਰ ਅਸੀਂ ਤੁਹਾਡੀ ਕੋਈ ਪ੍ਰੋਫ਼ਾਈਲ ਨਹੀਂ ਬਣਾਉਂਦੇ।"
+        },
+        {
+          "heading": "ਬੱਚਿਆਂ ਦੀ ਨਿੱਜਤਾ",
+          "body": "ਕਿਉਂਕਿ ਅਸੀਂ ਕਿਸੇ ਦਾ ਵੀ ਨਿੱਜੀ ਡਾਟਾ ਇਕੱਠਾ ਨਹੀਂ ਕਰਦੇ, ਇਸ ਲਈ ਬੱਚਿਆਂ ਦਾ ਵੀ ਨਹੀਂ ਕਰਦੇ। ਅਸੀਂ ਕਿਸੇ ਬੱਚੇ ਦਾ ਨਾਂ, ਜਨਮ ਤਾਰੀਖ਼, ਸੰਪਰਕ ਵੇਰਵਾ, ਤਸਵੀਰਾਂ ਜਾਂ ਸਿਹਤ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਨਹੀਂ ਮੰਗਦੇ।"
+        },
+        {
+          "heading": "ਤੁਹਾਡੀਆਂ ਚੋਣਾਂ",
+          "body": "ਕਿਉਂਕਿ ਕੋਈ ਨਿੱਜੀ ਡਾਟਾ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ, ਸਾਡੇ ਕੋਲ ਮਿਟਾਉਣ ਲਈ ਕੋਈ ਖਾਤਾ ਹੀ ਨਹੀਂ। ਸਥਾਨਕ ਡਾਟਾ ਹਟਾਉਣਾ ਹੋਵੇ ਤਾਂ ਐਪ ਹਟਾ ਦਿਓ। ਨਿੱਜਤਾ ਬਾਰੇ ਸਵਾਲ ਜਾਂ ਬੇਨਤੀ ਈਮੇਲ ਰਾਹੀਂ ਭੇਜ ਸਕਦੇ ਹੋ।"
+        },
+        {
+          "heading": "ਇਸ ਨੀਤੀ ਵਿੱਚ ਤਬਦੀਲੀਆਂ",
+          "body": "ਜੇ ਐਪ ਦੀ ਕੋਈ ਖ਼ੂਬੀ ਇਸ ਤਰ੍ਹਾਂ ਬਦਲਦੀ ਹੈ ਕਿ ਉਸ ਦਾ ਅਸਰ ਇਸ ਨੀਤੀ ਉੱਤੇ ਪਵੇ, ਤਾਂ ਅਸੀਂ ਇਹ ਪੰਨਾ ਅਤੇ ਉੱਤੇ ਦਿੱਤੀ ਤਾਰੀਖ਼ ਅੱਪਡੇਟ ਕਰ ਦੇਵਾਂਗੇ।"
+        }
+      ],
+      "parent_note": "ਇਹ ਐਪ ਮਾਪਿਆਂ, ਸਰਪ੍ਰਸਤਾਂ ਅਤੇ ਸੰਭਾਲ ਕਰਨ ਵਾਲਿਆਂ ਲਈ ਫ਼ੈਸਲੇ ਵਿੱਚ ਮਦਦ ਦਾ ਸਾਧਨ ਹੈ, ਬੱਚਿਆਂ ਦੇ ਇਕੱਲੇ ਵਰਤਣ ਲਈ ਨਹੀਂ। ਅਸੀਂ ਕਿਸੇ ਬੱਚੇ ਦਾ ਨਾਂ, ਜਨਮ ਤਾਰੀਖ਼, ਤਸਵੀਰਾਂ ਜਾਂ ਸਿਹਤ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਨਾ ਮੰਗਦੇ ਹਾਂ ਨਾ ਰੱਖਦੇ ਹਾਂ।",
+      "path": "pa-IN/privacy.html"
+    },
+    {
+      "locale": "pl",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Start",
+        "Pomoc techniczna",
+        "Prywatność"
+      ],
+      "nav_label": "Język",
+      "language_label": "Język",
+      "support_label": "Przejdź do pomocy",
+      "contact_heading": "Kontakt",
+      "contact_body": "Napisz do nas na adres hourstag.app@gmail.com . Żebyśmy mogli pomóc już w pierwszej odpowiedzi, podaj model urządzenia (Ustawienia → Ogólne → To urządzenie), wersję iOS, wersję aplikacji oraz to, co robiłeś tuż przed wystąpieniem problemu. Zrzut ekranu lub nagranie ekranu przyspieszy sprawę jeszcze bardziej.",
+      "contact_button": "Kontakt",
+      "footer_note": "Ta strona nie korzysta z zewnętrznych narzędzi śledzących, reklam ani analityki.",
+      "title": "Polityka prywatności aplikacji Lumi Math Planet",
+      "description": "W skrócie: brak konta, brak zbierania danych osobowych, brak reklam firm trzecich, brak zewnętrznej analityki.",
+      "eyebrow": "Polityka prywatności",
+      "heading": "Prywatność",
+      "lead": "Ta strona wyjaśnia, jakie dane przetwarza Lumi Math Planet, gdzie one zostają i o czym decydujesz Ty.",
+      "sections": [
+        {
+          "heading": "Dla kogo jest ta aplikacja",
+          "body": "Aplikacja jest pomyślana jako narzędzie wspierające decyzje rodziców, opiekunów prawnych i opiekunów, a nie do samodzielnego używania przez dzieci. Nie pytamy o imię, datę urodzenia, zdjęcia ani dane zdrowotne dziecka i ich nie przechowujemy."
+        },
+        {
+          "heading": "Jakie informacje zbieramy",
+          "body": "Nie zbieramy, nie przechowujemy ani nie przesyłamy na nasze serwery żadnych danych osobowych. Lumi Math Planet nie ma kont użytkownika ani logowania."
+        },
+        {
+          "heading": "Gdzie zostają Twoje dane",
+          "body": "To, co tworzysz i ustawiasz w aplikacji Lumi Math Planet, zostaje wyłącznie na Twoim urządzeniu, w standardowej pamięci lokalnej Apple. Po usunięciu aplikacji znika razem z nią."
+        },
+        {
+          "heading": "Zakupy",
+          "body": "Zakupy w aplikacji obsługuje w całości App Store firmy Apple (StoreKit). Nie otrzymujemy ani nie przechowujemy Twoich danych płatniczych. Na tym samym koncie Apple możesz przywrócić zakup na nowym urządzeniu."
+        },
+        {
+          "heading": "Firmy trzecie",
+          "body": "Aplikacja nie zawiera reklam firm trzecich ani zestawów SDK do analityki czy śledzenia. Nie budujemy Twojego profilu na podstawie różnych aplikacji ani witryn."
+        },
+        {
+          "heading": "Prywatność dzieci",
+          "body": "Ponieważ nie zbieramy niczyich danych osobowych, nie zbieramy ich również od dzieci. Nie pytamy o imię, datę urodzenia, dane kontaktowe, zdjęcia ani dane zdrowotne dziecka."
+        },
+        {
+          "heading": "Twoje wybory",
+          "body": "Ponieważ żadne dane osobowe nie opuszczają Twojego urządzenia, po naszej stronie nie ma konta do usunięcia. Aby skasować dane lokalne, usuń aplikację. W sprawach dotyczących prywatności napisz do nas."
+        },
+        {
+          "heading": "Zmiany tej polityki",
+          "body": "Jeśli funkcja aplikacji zmieni się w sposób istotny dla tej polityki, zaktualizujemy tę stronę oraz datę widoczną na górze."
+        }
+      ],
+      "parent_note": "Aplikacja jest pomyślana jako narzędzie wspierające decyzje rodziców, opiekunów prawnych i opiekunów, a nie do samodzielnego używania przez dzieci. Nie pytamy o imię, datę urodzenia, zdjęcia ani dane zdrowotne dziecka i ich nie przechowujemy.",
+      "path": "pl/privacy.html"
+    },
+    {
+      "locale": "en-US",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Overview",
+        "Support",
+        "Privacy"
+      ],
+      "nav_label": "Language",
+      "language_label": "Language",
+      "support_label": "View support",
+      "contact_heading": "Contact us",
+      "contact_body": "Tell us what you tried, what happened, your device model, iOS version and app version. Do not send private content.",
+      "contact_button": "Contact us",
+      "footer_note": "This static site uses no analytics, advertising or tracking.",
+      "title": "Lumi Math Planet privacy policy",
+      "description": "No developer account, no third-party advertising, no third-party analytics and no cross-app tracking.",
+      "eyebrow": "Privacy policy",
+      "heading": "Privacy",
+      "lead": "This page explains what Lumi Math Planet handles, where information stays and the controls available to you.",
+      "sections": [
+        {
+          "heading": "For parents and caregivers",
+          "body": "This information is written for an adult. The app does not encourage a child to follow external links or make a purchase."
+        },
+        {
+          "heading": "Information collected by the developer",
+          "body": "We do not collect, store or transmit your personal content to a developer-operated server. Lumi Math Planet has no developer account or sign-in."
+        },
+        {
+          "heading": "Information kept on your device",
+          "body": "Content and settings you create in Lumi Math Planet use local Apple storage on your device unless you explicitly export, share or enable an Apple service described below."
+        },
+        {
+          "heading": "Purchases",
+          "body": "Apple processes in-app purchases and restores through the App Store. The developer does not receive or store your payment details."
+        },
+        {
+          "heading": "Advertising, analytics and tracking",
+          "body": "Lumi Math Planet contains no third-party advertising, analytics or tracking SDK and does not build a profile across apps or websites."
+        },
+        {
+          "heading": "Children's privacy",
+          "body": "The developer does not collect personal data from children or adults. The app does not ask the developer to receive a child's name, birthday, contact details, photos or health information."
+        },
+        {
+          "heading": "Your controls",
+          "body": "Use the app's controls to delete local content. Removing the app removes its local container; copies you exported, shared or stored with Apple remain where you placed them."
+        },
+        {
+          "heading": "Policy changes",
+          "body": "If a released feature changes these practices, this page and its update date will change before or with that release."
+        }
+      ],
+      "parent_note": "This information is written for an adult. The app does not encourage a child to follow external links or make a purchase.",
+      "path": "privacy.html"
+    },
+    {
+      "locale": "pt-BR",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Início",
+        "Suporte",
+        "Privacidade"
+      ],
+      "nav_label": "Idioma",
+      "language_label": "Idioma",
+      "support_label": "Ir para o suporte",
+      "contact_heading": "Fale com a gente",
+      "contact_body": "Escreva para hourstag.app@gmail.com . Para que a primeira resposta já ajude, informe o modelo do aparelho (Ajustes → Geral → Sobre), a versão do iOS, a versão do app e o que você tocou logo antes do problema. Capturas de tela ou uma gravação de tela ajudam bastante.",
+      "contact_button": "Fale com a gente",
+      "footer_note": "Este site não usa rastreamento, publicidade ou análise de terceiros.",
+      "title": "Política de Privacidade do Lumi Math Planet",
+      "description": "Em resumo: não precisa de conta, não coletamos dados pessoais, não há publicidade de terceiros nem análise de terceiros.",
+      "eyebrow": "Política de Privacidade",
+      "heading": "Privacidade",
+      "lead": "Esta página explica quais dados o Lumi Math Planet trata, onde eles ficam e o que você pode controlar.",
+      "sections": [
+        {
+          "heading": "Para quem é este app",
+          "body": "O app foi feito para pais, responsáveis e cuidadores usarem como apoio na decisão; não é feito para a criança usar sozinha. Não pedimos nem guardamos nome, data de nascimento, fotos ou dados de saúde de nenhuma criança."
+        },
+        {
+          "heading": "Quais dados coletamos",
+          "body": "Não coletamos, armazenamos nem enviamos dados pessoais para os nossos servidores. O Lumi Math Planet não tem contas de usuário nem login."
+        },
+        {
+          "heading": "Onde os dados ficam",
+          "body": "O conteúdo e as preferências que você cria no Lumi Math Planet ficam somente no seu aparelho, no armazenamento local padrão da Apple, e são removidos se você apagar o app."
+        },
+        {
+          "heading": "Compras",
+          "body": "As compras dentro do app são processadas inteiramente pela Apple via App Store (StoreKit). Não recebemos nem guardamos seus dados de pagamento. Com a mesma conta Apple é possível restaurar compras em um aparelho novo."
+        },
+        {
+          "heading": "Terceiros",
+          "body": "O app não inclui publicidade de terceiros nem SDKs de análise ou rastreamento de terceiros. Não montamos nenhum perfil seu entre apps ou sites."
+        },
+        {
+          "heading": "Privacidade de crianças",
+          "body": "Como o app não coleta dados pessoais de ninguém, também não coleta de crianças. Não pedimos nome, data de nascimento, contatos, fotos nem dados de saúde de nenhuma criança."
+        },
+        {
+          "heading": "Suas opções",
+          "body": "Como nenhum dado pessoal sai do seu aparelho, não há conta alguma para apagar do nosso lado. Para remover os dados locais, basta apagar o app. Para dúvidas ou pedidos sobre privacidade, escreva para a gente."
+        },
+        {
+          "heading": "Mudanças nesta política",
+          "body": "Se os recursos do app mudarem de forma que afete esta política, vamos atualizar esta página e a data acima."
+        }
+      ],
+      "parent_note": "O app foi feito para pais, responsáveis e cuidadores usarem como apoio na decisão; não é feito para a criança usar sozinha. Não pedimos nem guardamos nome, data de nascimento, fotos ou dados de saúde de nenhuma criança.",
+      "path": "pt-BR/privacy.html"
+    },
+    {
+      "locale": "pt-PT",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Início",
+        "Apoio",
+        "Privacidade"
+      ],
+      "nav_label": "Idioma",
+      "language_label": "Idioma",
+      "support_label": "Ir para o apoio",
+      "contact_heading": "Contacto",
+      "contact_body": "Escreva-nos para hourstag.app@gmail.com . Para o ajudarmos logo na primeira resposta, indique o modelo do dispositivo (Definições → Geral → Informações), a versão do iOS, a versão da aplicação e o que estava a fazer imediatamente antes do problema. Uma captura ou gravação de ecrã torna tudo ainda mais rápido.",
+      "contact_button": "Contacto",
+      "footer_note": "Este site não usa rastreadores, publicidade nem análises de terceiros.",
+      "title": "Política de privacidade da Lumi Math Planet",
+      "description": "Em resumo: sem conta, sem recolha de dados pessoais, sem publicidade de terceiros e sem análises de terceiros.",
+      "eyebrow": "Política de privacidade",
+      "heading": "Privacidade",
+      "lead": "Esta página explica que dados a Lumi Math Planet trata, onde ficam e o que pode decidir.",
+      "sections": [
+        {
+          "heading": "A quem se destina esta aplicação",
+          "body": "A aplicação foi pensada como apoio à decisão de pais, tutores e cuidadores, e não para ser usada por crianças sozinhas. Não pedimos nem guardamos nome, data de nascimento, fotografias ou dados de saúde de um menor."
+        },
+        {
+          "heading": "Que informação recolhemos",
+          "body": "Não recolhemos, não guardamos nem enviamos quaisquer dados pessoais para os nossos servidores. A Lumi Math Planet não tem contas de utilizador nem início de sessão."
+        },
+        {
+          "heading": "Onde ficam os seus dados",
+          "body": "O que cria e configura na Lumi Math Planet fica apenas no seu dispositivo, no armazenamento local padrão da Apple. Se eliminar a aplicação, desaparece com ela."
+        },
+        {
+          "heading": "Compras",
+          "body": "As compras dentro da aplicação são tratadas integralmente pela App Store da Apple (StoreKit). Não recebemos nem guardamos os seus dados de pagamento. Com o mesmo início de sessão Apple pode restaurar a compra num dispositivo novo."
+        },
+        {
+          "heading": "Terceiros",
+          "body": "A aplicação não inclui publicidade de terceiros nem SDK de análise ou de rastreio. Não construímos qualquer perfil seu entre aplicações ou sites."
+        },
+        {
+          "heading": "Privacidade das crianças",
+          "body": "Como não recolhemos dados pessoais de ninguém, também não recolhemos de crianças. Não pedimos nome, data de nascimento, contactos, fotografias nem dados de saúde de um menor."
+        },
+        {
+          "heading": "As suas opções",
+          "body": "Como nenhum dado pessoal sai do seu dispositivo, do nosso lado não existe conta para apagar. Para remover os dados locais, elimine a aplicação. Para questões ou pedidos de privacidade, escreva-nos."
+        },
+        {
+          "heading": "Alterações a esta política",
+          "body": "Se alguma funcionalidade mudar de forma relevante para esta política, atualizamos esta página e a data de atualização no topo."
+        }
+      ],
+      "parent_note": "A aplicação foi pensada como apoio à decisão de pais, tutores e cuidadores, e não para ser usada por crianças sozinhas. Não pedimos nem guardamos nome, data de nascimento, fotografias ou dados de saúde de um menor.",
+      "path": "pt-PT/privacy.html"
+    },
+    {
+      "locale": "ro",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Acasă",
+        "Asistență",
+        "Confidențialitate"
+      ],
+      "nav_label": "Limbă",
+      "language_label": "Limbă",
+      "support_label": "Mergi la asistență",
+      "contact_heading": "Contact",
+      "contact_body": "Scrie-ne la hourstag.app@gmail.com . Ca să te putem ajuta chiar din primul răspuns, spune-ne modelul dispozitivului (Configurări → General → Despre), versiunea de iOS, versiunea aplicației și ce făceai chiar înainte de problemă. O captură sau o înregistrare de ecran grăbește și mai mult lucrurile.",
+      "contact_button": "Contact",
+      "footer_note": "Acest site nu folosește instrumente de urmărire, reclame sau analize de la terți.",
+      "title": "Politica de confidențialitate pentru Lumi Math Planet",
+      "description": "Pe scurt: fără cont, fără colectare de date personale, fără reclame de la terți, fără analize de la terți.",
+      "eyebrow": "Politica de confidențialitate",
+      "heading": "Confidențialitate",
+      "lead": "Pagina aceasta explică ce date prelucrează Lumi Math Planet, unde rămân ele și ce poți decide tu.",
+      "sections": [
+        {
+          "heading": "Cui i se adresează aplicația",
+          "body": "Aplicația este gândită ca instrument de sprijin în decizii pentru părinți, tutori și îngrijitori, nu pentru a fi folosită de copii singuri. Nu cerem și nu păstrăm numele, data nașterii, fotografiile sau datele de sănătate ale unui copil."
+        },
+        {
+          "heading": "Ce informații colectăm",
+          "body": "Nu colectăm, nu stocăm și nu trimitem către serverele noastre niciun fel de date personale. Lumi Math Planet nu are conturi de utilizator și nici autentificare."
+        },
+        {
+          "heading": "Unde rămân datele tale",
+          "body": "Ce creezi și ce configurezi în Lumi Math Planet rămâne doar pe dispozitivul tău, în stocarea locală obișnuită de la Apple. Dacă ștergi aplicația, dispar odată cu ea."
+        },
+        {
+          "heading": "Cumpărături",
+          "body": "Cumpărăturile din aplicație sunt gestionate integral de App Store de la Apple (StoreKit). Nu primim și nu stocăm datele tale de plată. Cu același cont Apple poți restaura achiziția pe un dispozitiv nou."
+        },
+        {
+          "heading": "Terți",
+          "body": "Aplicația nu conține reclame de la terți și nici SDK-uri de analiză sau de urmărire. Nu construim un profil al tău între aplicații sau site-uri."
+        },
+        {
+          "heading": "Confidențialitatea copiilor",
+          "body": "Fiindcă nu colectăm date personale despre nimeni, nu colectăm nici despre copii. Nu cerem numele, data nașterii, datele de contact, fotografiile sau datele de sănătate ale unui copil."
+        },
+        {
+          "heading": "Opțiunile tale",
+          "body": "Fiindcă niciun fel de date personale nu părăsesc dispozitivul, la noi nu există niciun cont de șters. Ca să elimini datele locale, șterge aplicația. Pentru întrebări sau solicitări legate de confidențialitate, scrie-ne."
+        },
+        {
+          "heading": "Modificări ale acestei politici",
+          "body": "Dacă o funcție a aplicației se schimbă într-un mod care afectează această politică, actualizăm pagina și data afișată sus."
+        }
+      ],
+      "parent_note": "Aplicația este gândită ca instrument de sprijin în decizii pentru părinți, tutori și îngrijitori, nu pentru a fi folosită de copii singuri. Nu cerem și nu păstrăm numele, data nașterii, fotografiile sau datele de sănătate ale unui copil.",
+      "path": "ro/privacy.html"
+    },
+    {
+      "locale": "ru",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Главная",
+        "Поддержка",
+        "Конфиденциальность"
+      ],
+      "nav_label": "Язык",
+      "language_label": "Язык",
+      "support_label": "Перейти к поддержке",
+      "contact_heading": "Связаться с нами",
+      "contact_body": "Напишите нам на hourstag.app@gmail.com . Чтобы мы помогли уже в первом ответе, укажите модель устройства (Настройки → Основные → Об этом устройстве), версию iOS, версию приложения и что вы делали прямо перед сбоем. Снимок или запись экрана ускорят решение ещё сильнее.",
+      "contact_button": "Связаться с нами",
+      "footer_note": "Этот сайт не использует сторонние трекеры, рекламу и аналитику.",
+      "title": "Политика конфиденциальности Lumi Math Planet",
+      "description": "Коротко: без аккаунта, без сбора персональных данных, без сторонней рекламы и без сторонней аналитики.",
+      "eyebrow": "Политика конфиденциальности",
+      "heading": "Конфиденциальность",
+      "lead": "На этой странице объясняется, какие данные обрабатывает Lumi Math Planet, где они остаются и что вы можете решать сами.",
+      "sections": [
+        {
+          "heading": "Для кого это приложение",
+          "body": "Приложение задумано как помощник в принятии решений для родителей, опекунов и тех, кто ухаживает за близкими, а не для самостоятельного использования детьми. Мы не спрашиваем и не храним имя, дату рождения, фотографии и медицинские данные ребёнка."
+        },
+        {
+          "heading": "Какие сведения мы собираем",
+          "body": "Мы не собираем, не храним и не передаём на свои серверы никаких персональных данных. В Lumi Math Planet нет учётных записей и нет входа."
+        },
+        {
+          "heading": "Где остаются ваши данные",
+          "body": "Всё, что вы создаёте и настраиваете в Lumi Math Planet, остаётся только на вашем устройстве, в обычном локальном хранилище Apple. Если удалить приложение, эти данные исчезнут вместе с ним."
+        },
+        {
+          "heading": "Покупки",
+          "body": "Встроенные покупки полностью обрабатывает App Store компании Apple (StoreKit). Мы не получаем и не храним ваши платёжные данные. С тем же аккаунтом Apple покупку можно восстановить на новом устройстве."
+        },
+        {
+          "heading": "Третьи стороны",
+          "body": "В приложении нет сторонней рекламы и нет SDK аналитики или отслеживания. Мы не строим ваш профиль между приложениями и сайтами."
+        },
+        {
+          "heading": "Конфиденциальность детей",
+          "body": "Поскольку мы не собираем персональные данные ни о ком, мы не собираем их и о детях. Мы не спрашиваем имя, дату рождения, контакты, фотографии и медицинские данные ребёнка."
+        },
+        {
+          "heading": "Ваш выбор",
+          "body": "Так как персональные данные не покидают ваше устройство, у нас нет аккаунта, который нужно было бы удалять. Чтобы стереть локальные данные, удалите приложение. По вопросам конфиденциальности пишите нам."
+        },
+        {
+          "heading": "Изменения этой политики",
+          "body": "Если функция приложения изменится так, что это затронет данную политику, мы обновим эту страницу и дату вверху."
+        }
+      ],
+      "parent_note": "Приложение задумано как помощник в принятии решений для родителей, опекунов и тех, кто ухаживает за близкими, а не для самостоятельного использования детьми. Мы не спрашиваем и не храним имя, дату рождения, фотографии и медицинские данные ребёнка.",
+      "path": "ru/privacy.html"
+    },
+    {
+      "locale": "sk",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Úvod",
+        "Podpora",
+        "Súkromie"
+      ],
+      "nav_label": "Jazyk",
+      "language_label": "Jazyk",
+      "support_label": "Prejsť na podporu",
+      "contact_heading": "Kontakt",
+      "contact_body": "Napíšte nám na hourstag.app@gmail.com . Aby sme vám vedeli pomôcť hneď v prvej odpovedi, uveďte model zariadenia (Nastavenia → Všeobecné → Informácie), verziu iOS, verziu aplikácie a čo ste robili tesne pred problémom. Snímka alebo záznam obrazovky to ešte zrýchli.",
+      "contact_button": "Kontakt",
+      "footer_note": "Táto stránka nepoužíva sledovacie nástroje, reklamu ani analytiku tretích strán.",
+      "title": "Zásady ochrany súkromia aplikácie Lumi Math Planet",
+      "description": "V skratke: žiadny účet, žiadny zber osobných údajov, žiadna reklama tretích strán, žiadna cudzia analytika.",
+      "eyebrow": "Zásady ochrany súkromia",
+      "heading": "Súkromie",
+      "lead": "Táto stránka vysvetľuje, aké údaje Lumi Math Planet spracúva, kde zostávajú a o čom rozhodujete vy.",
+      "sections": [
+        {
+          "heading": "Pre koho je aplikácia určená",
+          "body": "Aplikácia je zamýšľaná ako pomôcka pri rozhodovaní pre rodičov, zákonných zástupcov a opatrovateľov, nie na samostatné používanie deťmi. Nepýtame sa na meno, dátum narodenia, fotky ani zdravotné údaje dieťaťa a neuchovávame ich."
+        },
+        {
+          "heading": "Aké údaje zhromažďujeme",
+          "body": "Nezhromažďujeme, neukladáme ani neposielame na naše servery žiadne osobné údaje. Lumi Math Planet nemá používateľské účty ani prihlasovanie."
+        },
+        {
+          "heading": "Kde zostávajú vaše údaje",
+          "body": "To, čo v aplikácii Lumi Math Planet vytvoríte a nastavíte, zostáva len vo vašom zariadení, v štandardnom lokálnom úložisku Apple. Keď aplikáciu vymažete, zmizne to s ňou."
+        },
+        {
+          "heading": "Nákupy",
+          "body": "Nákupy v aplikácii vybavuje celé App Store od Apple (StoreKit). Vaše platobné údaje nedostávame ani neukladáme. S rovnakým účtom Apple obnovíte nákup aj na novom zariadení."
+        },
+        {
+          "heading": "Tretie strany",
+          "body": "Aplikácia neobsahuje reklamy tretích strán ani analytické či sledovacie SDK. Nevytvárame o vás profil naprieč aplikáciami ani webmi."
+        },
+        {
+          "heading": "Súkromie detí",
+          "body": "Keďže nezbierame osobné údaje nikoho, nezbierame ich ani od detí. Nepýtame sa na meno, dátum narodenia, kontakty, fotografie ani zdravotné údaje dieťaťa."
+        },
+        {
+          "heading": "Vaše možnosti",
+          "body": "Keďže z vášho zariadenia neodchádzajú žiadne osobné údaje, na našej strane nie je žiadny účet na vymazanie. Ak chcete odstrániť lokálne údaje, vymažte aplikáciu. S otázkami k súkromiu sa na nás obráťte e-mailom."
+        },
+        {
+          "heading": "Zmeny týchto zásad",
+          "body": "Ak sa funkcia aplikácie zmení spôsobom, ktorý sa týka týchto zásad, túto stránku aj dátum hore aktualizujeme."
+        }
+      ],
+      "parent_note": "Aplikácia je zamýšľaná ako pomôcka pri rozhodovaní pre rodičov, zákonných zástupcov a opatrovateľov, nie na samostatné používanie deťmi. Nepýtame sa na meno, dátum narodenia, fotky ani zdravotné údaje dieťaťa a neuchovávame ich.",
+      "path": "sk/privacy.html"
+    },
+    {
+      "locale": "sl-SI",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Domov",
+        "Podpora",
+        "Zasebnost"
+      ],
+      "nav_label": "Jezik",
+      "language_label": "Jezik",
+      "support_label": "Na podporo",
+      "contact_heading": "Stik",
+      "contact_body": "Pišite nam na hourstag.app@gmail.com . Da vam lahko pomagamo že v prvem odgovoru, navedite model naprave (Nastavitve → Splošno → Vizitka), različico iOS, različico aplikacije in kaj ste počeli tik pred težavo. Posnetek zaslona ali videoposnetek zaslona zadevo še pospeši.",
+      "contact_button": "Stik",
+      "footer_note": "Ta stran ne uporablja sledilnikov, oglasov ali analitike tretjih oseb.",
+      "title": "Politika zasebnosti aplikacije Lumi Math Planet",
+      "description": "Na kratko: brez računa, brez zbiranja osebnih podatkov, brez oglasov tretjih oseb, brez tuje analitike.",
+      "eyebrow": "Politika zasebnosti",
+      "heading": "Zasebnost",
+      "lead": "Ta stran pojasnjuje, katere podatke Lumi Math Planet obdeluje, kje ostanejo in o čem odločate vi.",
+      "sections": [
+        {
+          "heading": "Komu je aplikacija namenjena",
+          "body": "Aplikacija je zasnovana kot pripomoček pri odločanju za starše, skrbnike in negovalce, ne pa za samostojno uporabo pri otrocih. Ne sprašujemo po otrokovem imenu, datumu rojstva, fotografijah ali zdravstvenih podatkih in jih ne hranimo."
+        },
+        {
+          "heading": "Katere podatke zbiramo",
+          "body": "Ne zbiramo, ne shranjujemo in na svoje strežnike ne pošiljamo nobenih osebnih podatkov. Lumi Math Planet nima uporabniških računov ne prijave."
+        },
+        {
+          "heading": "Kje ostanejo vaši podatki",
+          "body": "Kar v aplikaciji Lumi Math Planet ustvarite in nastavite, ostane le na vaši napravi, v Applovi običajni lokalni shrambi. Če aplikacijo izbrišete, izgine z njo."
+        },
+        {
+          "heading": "Nakupi",
+          "body": "Nakupe v aplikaciji v celoti izvede Applov App Store (StoreKit). Vaših plačilnih podatkov ne prejmemo in ne shranjujemo. Z istim računom Apple lahko nakup obnovite na novi napravi."
+        },
+        {
+          "heading": "Tretje osebe",
+          "body": "Aplikacija ne vsebuje oglasov tretjih oseb niti analitičnih ali sledilnih kompletov SDK. O vas ne gradimo profila med aplikacijami ali spletnimi mesti."
+        },
+        {
+          "heading": "Zasebnost otrok",
+          "body": "Ker osebnih podatkov ne zbiramo od nikogar, jih ne zbiramo niti od otrok. Ne sprašujemo po otrokovem imenu, datumu rojstva, stikih, fotografijah ali zdravstvenih podatkih."
+        },
+        {
+          "heading": "Vaše možnosti",
+          "body": "Ker z vaše naprave ne odide noben osebni podatek, pri nas ni računa, ki bi ga bilo treba izbrisati. Če želite odstraniti lokalne podatke, izbrišite aplikacijo. Za vprašanja o zasebnosti nam pišite po e-pošti."
+        },
+        {
+          "heading": "Spremembe te politike",
+          "body": "Če se funkcija aplikacije spremeni tako, da to vpliva na to politiko, posodobimo to stran in datum na vrhu."
+        }
+      ],
+      "parent_note": "Aplikacija je zasnovana kot pripomoček pri odločanju za starše, skrbnike in negovalce, ne pa za samostojno uporabo pri otrocih. Ne sprašujemo po otrokovem imenu, datumu rojstva, fotografijah ali zdravstvenih podatkih in jih ne hranimo.",
+      "path": "sl-SI/privacy.html"
+    },
+    {
+      "locale": "en-US",
+      "surface": "support",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Overview",
+        "Support",
+        "Privacy"
+      ],
+      "nav_label": "Language",
+      "language_label": "Language",
+      "support_label": "View support",
+      "contact_heading": "Contact us",
+      "contact_body": "Tell us what you tried, what happened, your device model, iOS version and app version. Do not send private content.",
+      "contact_button": "Contact us",
+      "footer_note": "This static site uses no analytics, advertising or tracking.",
+      "title": "Lumi Math Planet support — Help and troubleshooting",
+      "description": "Clear answers, practical troubleshooting and a direct way to contact the developer about Lumi Math Planet.",
+      "eyebrow": "Support centre",
+      "heading": "Contact us",
+      "lead": "Clear answers, practical troubleshooting and a direct way to contact the developer about Lumi Math Planet.",
+      "sections": [
+        {
+          "heading": "Troubleshooting",
+          "body": "Close Lumi Math Planet completely, then open it again. Restart the iPhone or iPad to clear a temporary system problem. Open the App Store and install any available update for Lumi Math Planet. If the issue continues, include exact reproduction steps in your email."
+        }
+      ],
+      "faqs": [
+        [
+          "Do I need an account?",
+          "No. Lumi Math Planet does not require a developer account or sign-in."
+        ],
+        [
+          "Can I use the core features offline?",
+          "Yes. Lumi Math Planet's core processing runs on the device. App downloads, purchases and explicitly online features still require a connection."
+        ],
+        [
+          "Does the app contain ads or third-party tracking?",
+          "No. Lumi Math Planet contains no third-party ads, analytics or cross-app tracking SDK."
+        ],
+        [
+          "How do notifications work?",
+          "Any reminders you enable are scheduled by the device. You can change or disable them in iOS Settings."
+        ],
+        [
+          "How do I update the app?",
+          "Open the App Store, tap your account picture and install any available update for Lumi Math Planet."
+        ],
+        [
+          "What should I include in a bug report?",
+          "Email hourstag.app@gmail.com with the device model, iOS version, app version, steps to reproduce and a screenshot that contains no private information."
+        ]
+      ],
+      "faq_heading": "Frequently asked questions",
+      "parent_note": "This information is written for an adult. The app does not encourage a child to follow external links or make a purchase.",
+      "path": "support.html"
+    },
+    {
+      "locale": "sv",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Start",
+        "Support",
+        "Integritet"
+      ],
+      "nav_label": "Språk",
+      "language_label": "Språk",
+      "support_label": "Till supporten",
+      "contact_heading": "Kontakt",
+      "contact_body": "Mejla oss på hourstag.app@gmail.com . För att vi ska kunna hjälpa dig redan i första svaret: skriv gärna vilken enhetsmodell du har (Inställningar → Allmänt → Om), vilken iOS-version, vilken appversion och vad du gjorde precis innan problemet uppstod. En skärmbild eller skärminspelning gör det ännu snabbare.",
+      "contact_button": "Kontakt",
+      "footer_note": "Den här webbplatsen använder inga spårare, annonser eller analysverktyg från tredje part.",
+      "title": "Integritetspolicy för Lumi Math Planet",
+      "description": "Kort sagt: inget konto, ingen insamling av personuppgifter, inga tredjepartsannonser, ingen tredjepartsanalys.",
+      "eyebrow": "Integritetspolicy",
+      "heading": "Integritet",
+      "lead": "Den här sidan förklarar vilka uppgifter Lumi Math Planet hanterar, var de stannar och vad du själv bestämmer över.",
+      "sections": [
+        {
+          "heading": "Vem appen är till för",
+          "body": "Appen är tänkt som ett beslutsstöd för föräldrar, vårdnadshavare och andra vuxna, inte för att barn ska använda den på egen hand. Vi frågar inte efter och sparar inte ett barns namn, födelsedatum, foton eller hälsouppgifter."
+        },
+        {
+          "heading": "Vilka uppgifter vi samlar in",
+          "body": "Vi samlar inte in, lagrar inte och skickar inte några personuppgifter till våra servrar. Lumi Math Planet har varken användarkonton eller inloggning."
+        },
+        {
+          "heading": "Var dina uppgifter stannar",
+          "body": "Det du skapar och ställer in i Lumi Math Planet stannar bara på din egen enhet, i Apples vanliga lokala lagring. Raderar du appen försvinner det med den."
+        },
+        {
+          "heading": "Köp",
+          "body": "Köp i appen hanteras helt av Apples App Store (StoreKit). Vi tar inte emot och lagrar inga betaluppgifter. Med samma Apple-konto kan du återställa ditt köp på en ny enhet."
+        },
+        {
+          "heading": "Tredje part",
+          "body": "Appen innehåller varken tredjepartsannonser eller analys- och spårnings-SDK:er. Vi bygger ingen profil av dig mellan appar eller webbplatser."
+        },
+        {
+          "heading": "Barns integritet",
+          "body": "Eftersom vi inte samlar in personuppgifter om någon samlar vi inte in dem om barn heller. Vi frågar inte efter ett barns namn, födelsedatum, kontaktuppgifter, foton eller hälsouppgifter."
+        },
+        {
+          "heading": "Dina val",
+          "body": "Eftersom inga personuppgifter lämnar din enhet finns det inget konto hos oss att radera. Vill du ta bort de lokala uppgifterna raderar du appen. Frågor eller önskemål om integritet är du välkommen att mejla om."
+        },
+        {
+          "heading": "Ändringar i denna policy",
+          "body": "Om en funktion i appen ändras på ett sätt som påverkar den här policyn uppdaterar vi sidan och datumet högst upp."
+        }
+      ],
+      "parent_note": "Appen är tänkt som ett beslutsstöd för föräldrar, vårdnadshavare och andra vuxna, inte för att barn ska använda den på egen hand. Vi frågar inte efter och sparar inte ett barns namn, födelsedatum, foton eller hälsouppgifter.",
+      "path": "sv/privacy.html"
+    },
+    {
+      "locale": "ta-IN",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "முகப்பு",
+        "ஆதரவு",
+        "தனியுரிமை"
+      ],
+      "nav_label": "மொழி",
+      "language_label": "மொழி",
+      "support_label": "ஆதரவுக்குச் செல்ல",
+      "contact_heading": "தொடர்பு",
+      "contact_body": "எங்களுக்கு hourstag.app@gmail.com முகவரிக்கு எழுதுங்கள். முதல் பதிலிலேயே உதவ முடியும் என்பதற்காக, சாதன மாடல் (அமைப்புகள் → பொது → இது பற்றி), iOS பதிப்பு, பயன்பாட்டுப் பதிப்பு, சிக்கல் ஏற்படும் சற்று முன் நீங்கள் என்ன செய்து கொண்டிருந்தீர்கள் என்பதைக் குறிப்பிடுங்கள். திரைப்பிடிப்பு அல்லது திரைப் பதிவு இருந்தால் இன்னும் வேகமாகத் தீர்வு கிடைக்கும்.",
+      "contact_button": "தொடர்பு",
+      "footer_note": "இந்தத் தளம் மூன்றாம் தரப்பு கண்காணிப்பு, விளம்பரம் அல்லது பகுப்பாய்வுக் கருவிகளைப் பயன்படுத்துவதில்லை.",
+      "title": "Lumi Math Planet தனியுரிமைக் கொள்கை",
+      "description": "சுருக்கமாக: கணக்கு இல்லை, தனிப்பட்ட தரவு சேகரிப்பு இல்லை, மூன்றாம் தரப்பு விளம்பரம் இல்லை, மூன்றாம் தரப்புப் பகுப்பாய்வு இல்லை.",
+      "eyebrow": "தனியுரிமைக் கொள்கை",
+      "heading": "தனியுரிமை",
+      "lead": "Lumi Math Planet எந்தத் தரவைக் கையாளுகிறது, அது எங்கே இருக்கிறது, எதை நீங்கள் தீர்மானிக்கிறீர்கள் என்பதை இந்தப் பக்கம் விளக்குகிறது.",
+      "sections": [
+        {
+          "heading": "இந்தப் பயன்பாடு யாருக்கானது",
+          "body": "இது பெற்றோர், பாதுகாவலர்கள், பராமரிப்பாளர்களுக்கு முடிவெடுக்க உதவும் கருவியாக வடிவமைக்கப்பட்டது; குழந்தைகள் தனியாகப் பயன்படுத்துவதற்கானது அல்ல. குழந்தையின் பெயர், பிறந்த தேதி, படங்கள் அல்லது உடல்நலத் தகவலை நாங்கள் கேட்பதுமில்லை, சேமிப்பதுமில்லை."
+        },
+        {
+          "heading": "நாங்கள் சேகரிக்கும் தகவல்",
+          "body": "எங்கள் சேவையகங்களில் எந்தத் தனிப்பட்ட தரவையும் நாங்கள் சேகரிப்பதுமில்லை, சேமிப்பதுமில்லை, அனுப்புவதுமில்லை. Lumi Math Planet இல் பயனர் கணக்கோ உள்நுழைவு முறையோ கிடையாது."
+        },
+        {
+          "heading": "உங்கள் தரவு எங்கே இருக்கிறது",
+          "body": "Lumi Math Planet இல் நீங்கள் உருவாக்குவதும் அமைப்பதும் உங்கள் சாதனத்தில் மட்டுமே, Apple இன் வழக்கமான உள்ளூர் சேமிப்பில் இருக்கும். பயன்பாட்டை நீக்கினால் அதுவும் நீங்கிவிடும்."
+        },
+        {
+          "heading": "வாங்குதல்கள்",
+          "body": "இன்-ஆப் வாங்குதல்களை முழுமையாக Apple இன் App Store (StoreKit) கையாளுகிறது. உங்கள் கட்டணத் தகவல் எங்களுக்கு வருவதுமில்லை, நாங்கள் அதைச் சேமிப்பதுமில்லை. அதே Apple கணக்கில் புதிய சாதனத்தில் வாங்கியதை மீட்டமைக்கலாம்."
+        },
+        {
+          "heading": "மூன்றாம் தரப்பினர்",
+          "body": "பயன்பாட்டில் மூன்றாம் தரப்பு விளம்பரம், பகுப்பாய்வு அல்லது கண்காணிப்பு SDK எதுவும் இல்லை. வெவ்வேறு பயன்பாடுகளுக்கோ இணையதளங்களுக்கோ இடையே உங்களைப் பற்றிய சுயவிவரத்தை நாங்கள் உருவாக்குவதில்லை."
+        },
+        {
+          "heading": "குழந்தைகளின் தனியுரிமை",
+          "body": "யாருடைய தனிப்பட்ட தரவையும் நாங்கள் சேகரிக்காததால், குழந்தைகளுடையதையும் சேகரிப்பதில்லை. குழந்தையின் பெயர், பிறந்த தேதி, தொடர்புத் தகவல், படங்கள் அல்லது உடல்நலத் தகவலை நாங்கள் கேட்பதில்லை."
+        },
+        {
+          "heading": "உங்கள் தேர்வுகள்",
+          "body": "தனிப்பட்ட தரவு எதுவும் உங்கள் சாதனத்தை விட்டு வெளியே செல்லாததால், எங்கள் பக்கம் நீக்குவதற்குக் கணக்கே இல்லை. உள்ளூர் தரவை நீக்க வேண்டுமெனில் பயன்பாட்டை நீக்குங்கள். தனியுரிமை தொடர்பான கேள்விகளையும் கோரிக்கைகளையும் மின்னஞ்சலில் அனுப்பலாம்."
+        },
+        {
+          "heading": "இந்தக் கொள்கையில் மாற்றங்கள்",
+          "body": "இந்தக் கொள்கையைத் தொடும் வகையில் பயன்பாட்டின் ஏதேனும் அம்சம் மாறினால், இந்தப் பக்கத்தையும் மேலே உள்ள தேதியையும் புதுப்பிப்போம்."
+        }
+      ],
+      "parent_note": "இது பெற்றோர், பாதுகாவலர்கள், பராமரிப்பாளர்களுக்கு முடிவெடுக்க உதவும் கருவியாக வடிவமைக்கப்பட்டது; குழந்தைகள் தனியாகப் பயன்படுத்துவதற்கானது அல்ல. குழந்தையின் பெயர், பிறந்த தேதி, படங்கள் அல்லது உடல்நலத் தகவலை நாங்கள் கேட்பதுமில்லை, சேமிப்பதுமில்லை.",
+      "path": "ta-IN/privacy.html"
+    },
+    {
+      "locale": "te-IN",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "హోమ్",
+        "సహాయం",
+        "గోప్యత"
+      ],
+      "nav_label": "భాష",
+      "language_label": "భాష",
+      "support_label": "సహాయానికి వెళ్లండి",
+      "contact_heading": "సంప్రదింపు",
+      "contact_body": "మాకు hourstag.app@gmail.com కు రాయండి. మొదటి జవాబులోనే సాయం చేయగలిగేలా, మీ పరికరం మోడల్ (సెట్టింగ్‌లు → సాధారణం → గురించి), iOS వెర్షన్, యాప్ వెర్షన్, సమస్య రావడానికి ముందు మీరు ఏం చేస్తున్నారో తెలియజేయండి. స్క్రీన్‌షాట్ లేదా స్క్రీన్ రికార్డింగ్ ఉంటే మరింత వేగంగా పరిష్కారం దొరుకుతుంది.",
+      "contact_button": "సంప్రదింపు",
+      "footer_note": "ఈ సైట్ మూడో పక్షం ట్రాకర్లు, ప్రకటనలు లేదా అనలిటిక్స్ వాడదు.",
+      "title": "Lumi Math Planet గోప్యతా విధానం",
+      "description": "క్లుప్తంగా: ఖాతా లేదు, వ్యక్తిగత సమాచార సేకరణ లేదు, మూడో పక్షం ప్రకటనలు లేవు, మూడో పక్షం అనలిటిక్స్ లేదు.",
+      "eyebrow": "గోప్యతా విధానం",
+      "heading": "గోప్యత",
+      "lead": "Lumi Math Planet ఏ సమాచారాన్ని వాడుతుంది, అది ఎక్కడ ఉంటుంది, దేని గురించి మీరు నిర్ణయిస్తారు అనేది ఈ పేజీ వివరిస్తుంది.",
+      "sections": [
+        {
+          "heading": "ఈ యాప్ ఎవరి కోసం",
+          "body": "ఈ యాప్ తల్లిదండ్రులు, సంరక్షకులు, సంరక్షణ చేసేవారికి నిర్ణయంలో సాయపడే సాధనంగా రూపొందించబడింది; పిల్లలు ఒంటరిగా వాడటానికి కాదు. పిల్లల పేరు, పుట్టిన తేదీ, ఫోటోలు లేదా ఆరోగ్య సమాచారం మేము అడగము, నిల్వ చేయము."
+        },
+        {
+          "heading": "మేము ఏ సమాచారం సేకరిస్తాం",
+          "body": "మా సర్వర్లకు ఎలాంటి వ్యక్తిగత సమాచారాన్నీ మేము సేకరించము, నిల్వ చేయము, పంపము. Lumi Math Planet లో వినియోగదారు ఖాతా గానీ సైన్-ఇన్ ఏర్పాటు గానీ లేదు."
+        },
+        {
+          "heading": "మీ సమాచారం ఎక్కడ ఉంటుంది",
+          "body": "Lumi Math Planet లో మీరు తయారు చేసేవి, అమర్చుకునేవి మీ పరికరంలోనే, Apple యొక్క సాధారణ స్థానిక నిల్వలో ఉంటాయి. యాప్ తొలగిస్తే అవీ పోతాయి."
+        },
+        {
+          "heading": "కొనుగోళ్లు",
+          "body": "ఇన్-యాప్ కొనుగోళ్లను పూర్తిగా Apple యొక్క App Store (StoreKit) నిర్వహిస్తుంది. మీ చెల్లింపు వివరాలు మాకు అందవు, మేము వాటిని నిల్వ చేయము. అదే Apple ఖాతాతో కొత్త పరికరంలో కొనుగోలును పునరుద్ధరించవచ్చు."
+        },
+        {
+          "heading": "మూడో పక్షాలు",
+          "body": "యాప్‌లో మూడో పక్షం ప్రకటనలు, అనలిటిక్స్ లేదా ట్రాకింగ్ SDK లు లేవు. వేర్వేరు యాప్‌లు లేదా వెబ్‌సైట్ల మధ్య మీ ప్రొఫైల్‌ను మేము తయారు చేయము."
+        },
+        {
+          "heading": "పిల్లల గోప్యత",
+          "body": "మేము ఎవరి వ్యక్తిగత సమాచారాన్నీ సేకరించనందున పిల్లల సమాచారాన్నీ సేకరించము. పిల్లల పేరు, పుట్టిన తేదీ, సంప్రదింపు వివరాలు, ఫోటోలు లేదా ఆరోగ్య సమాచారం మేము అడగము."
+        },
+        {
+          "heading": "మీ ఎంపికలు",
+          "body": "ఏ వ్యక్తిగత సమాచారమూ మీ పరికరం దాటి బయటకు వెళ్లదు కాబట్టి మా వైపు తొలగించడానికి ఖాతానే లేదు. స్థానిక సమాచారం తీసేయాలంటే యాప్‌ను తొలగించండి. గోప్యత గురించి ప్రశ్నలు లేదా అభ్యర్థనలు ఈమెయిల్‌లో పంపవచ్చు."
+        },
+        {
+          "heading": "ఈ విధానంలో మార్పులు",
+          "body": "ఈ విధానాన్ని తాకే రీతిలో యాప్ ఏదైనా సౌకర్యం మారితే, ఈ పేజీని, పైన ఉన్న తేదీని నవీకరిస్తాం."
+        }
+      ],
+      "parent_note": "ఈ యాప్ తల్లిదండ్రులు, సంరక్షకులు, సంరక్షణ చేసేవారికి నిర్ణయంలో సాయపడే సాధనంగా రూపొందించబడింది; పిల్లలు ఒంటరిగా వాడటానికి కాదు. పిల్లల పేరు, పుట్టిన తేదీ, ఫోటోలు లేదా ఆరోగ్య సమాచారం మేము అడగము, నిల్వ చేయము.",
+      "path": "te-IN/privacy.html"
+    },
+    {
+      "locale": "th",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "หน้าแรก",
+        "การสนับสนุน",
+        "ความเป็นส่วนตัว"
+      ],
+      "nav_label": "ภาษา",
+      "language_label": "ภาษา",
+      "support_label": "ไปที่หน้าสนับสนุน",
+      "contact_heading": "ติดต่อเรา",
+      "contact_body": "ส่งอีเมลมาที่ hourstag.app@gmail.com ได้เลย เพื่อให้เราช่วยได้ตั้งแต่การตอบกลับครั้งแรก โปรดระบุรุ่นเครื่อง (การตั้งค่า → ทั่วไป → เกี่ยวกับ) เวอร์ชัน iOS เวอร์ชันแอป และสิ่งที่คุณทำอยู่ก่อนเกิดปัญหา ถ้าแนบภาพหน้าจอหรือวิดีโอบันทึกหน้าจอมาด้วยจะยิ่งเร็วขึ้น",
+      "contact_button": "ติดต่อเรา",
+      "footer_note": "เว็บไซต์นี้ไม่ใช้ตัวติดตาม โฆษณา หรือเครื่องมือวิเคราะห์ของบุคคลที่สาม",
+      "title": "นโยบายความเป็นส่วนตัวของ Lumi Math Planet",
+      "description": "สรุปสั้น ๆ: ไม่มีบัญชี ไม่เก็บข้อมูลส่วนบุคคล ไม่มีโฆษณาของบุคคลที่สาม และไม่มีการวิเคราะห์ของบุคคลที่สาม",
+      "eyebrow": "นโยบายความเป็นส่วนตัว",
+      "heading": "ความเป็นส่วนตัว",
+      "lead": "หน้านี้อธิบายว่า Lumi Math Planet ใช้ข้อมูลอะไร ข้อมูลนั้นอยู่ที่ไหน และมีอะไรบ้างที่คุณเป็นคนตัดสินใจ",
+      "sections": [
+        {
+          "heading": "แอปนี้ทำมาเพื่อใคร",
+          "body": "แอปนี้ออกแบบมาเป็นเครื่องมือช่วยตัดสินใจสำหรับพ่อแม่ ผู้ปกครอง และผู้ดูแล ไม่ได้ออกแบบให้เด็กใช้เองตามลำพัง เราไม่สอบถามและไม่เก็บชื่อ วันเกิด รูปถ่าย หรือข้อมูลสุขภาพของเด็ก"
+        },
+        {
+          "heading": "เราเก็บข้อมูลอะไรบ้าง",
+          "body": "เราไม่เก็บ ไม่บันทึก และไม่ส่งข้อมูลส่วนบุคคลใด ๆ ไปยังเซิร์ฟเวอร์ของเรา Lumi Math Planet ไม่มีบัญชีผู้ใช้และไม่มีระบบลงชื่อเข้าใช้"
+        },
+        {
+          "heading": "ข้อมูลของคุณอยู่ที่ไหน",
+          "body": "สิ่งที่คุณสร้างและตั้งค่าไว้ใน Lumi Math Planet อยู่เฉพาะบนเครื่องของคุณ ในที่เก็บข้อมูลภายในเครื่องตามมาตรฐานของ Apple หากลบแอป ข้อมูลก็ถูกลบไปด้วย"
+        },
+        {
+          "heading": "การซื้อ",
+          "body": "การซื้อในแอปดำเนินการโดย App Store ของ Apple (StoreKit) ทั้งหมด เราไม่ได้รับและไม่เก็บข้อมูลการชำระเงินของคุณ ด้วยบัญชี Apple เดิม คุณกู้คืนสิ่งที่ซื้อไว้บนเครื่องใหม่ได้"
+        },
+        {
+          "heading": "บุคคลที่สาม",
+          "body": "แอปนี้ไม่มีโฆษณาของบุคคลที่สาม และไม่มี SDK วิเคราะห์หรือติดตาม เราไม่สร้างโปรไฟล์ของคุณข้ามแอปหรือข้ามเว็บไซต์"
+        },
+        {
+          "heading": "ความเป็นส่วนตัวของเด็ก",
+          "body": "เนื่องจากเราไม่เก็บข้อมูลส่วนบุคคลของใครเลย จึงไม่เก็บข้อมูลของเด็กด้วย เราไม่สอบถามชื่อ วันเกิด ข้อมูลติดต่อ รูปถ่าย หรือข้อมูลสุขภาพของเด็ก"
+        },
+        {
+          "heading": "สิทธิ์เลือกของคุณ",
+          "body": "เนื่องจากไม่มีข้อมูลส่วนบุคคลออกจากเครื่องของคุณ ฝั่งเราจึงไม่มีบัญชีให้ลบ หากต้องการลบข้อมูลในเครื่อง ให้ลบแอป หากมีคำถามหรือคำขอเกี่ยวกับความเป็นส่วนตัว ส่งอีเมลถึงเราได้"
+        },
+        {
+          "heading": "การเปลี่ยนแปลงนโยบายนี้",
+          "body": "หากฟีเจอร์ของแอปเปลี่ยนไปในทางที่กระทบนโยบายนี้ เราจะอัปเดตหน้านี้พร้อมวันที่ด้านบน"
+        }
+      ],
+      "parent_note": "แอปนี้ออกแบบมาเป็นเครื่องมือช่วยตัดสินใจสำหรับพ่อแม่ ผู้ปกครอง และผู้ดูแล ไม่ได้ออกแบบให้เด็กใช้เองตามลำพัง เราไม่สอบถามและไม่เก็บชื่อ วันเกิด รูปถ่าย หรือข้อมูลสุขภาพของเด็ก",
+      "path": "th/privacy.html"
+    },
+    {
+      "locale": "tr",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Ana sayfa",
+        "Destek",
+        "Gizlilik"
+      ],
+      "nav_label": "Dil",
+      "language_label": "Dil",
+      "support_label": "Desteğe git",
+      "contact_heading": "İletişim",
+      "contact_body": "Bize hourstag.app@gmail.com adresinden yazın. İlk yanıtta yardımcı olabilmemiz için cihaz modelinizi (Ayarlar → Genel → Hakkında), iOS sürümünü, uygulama sürümünü ve sorun çıkmadan hemen önce ne yaptığınızı belirtin. Ekran görüntüsü veya ekran kaydı işi daha da hızlandırır.",
+      "contact_button": "İletişim",
+      "footer_note": "Bu site üçüncü taraf izleyici, reklam veya analiz aracı kullanmaz.",
+      "title": "Lumi Math Planet gizlilik politikası",
+      "description": "Kısaca: hesap yok, kişisel veri toplama yok, üçüncü taraf reklam yok, üçüncü taraf analiz yok.",
+      "eyebrow": "Gizlilik politikası",
+      "heading": "Gizlilik",
+      "lead": "Bu sayfa Lumi Math Planet uygulamasının hangi verileri işlediğini, bunların nerede kaldığını ve neye sizin karar verdiğinizi anlatır.",
+      "sections": [
+        {
+          "heading": "Bu uygulama kimin için",
+          "body": "Uygulama; ebeveynler, veliler ve bakım verenler için bir karar desteği aracı olarak tasarlandı, çocukların tek başına kullanması için değil. Bir çocuğun adını, doğum tarihini, fotoğraflarını veya sağlık verilerini istemiyor ve saklamıyoruz."
+        },
+        {
+          "heading": "Hangi bilgileri topluyoruz",
+          "body": "Sunucularımızda hiçbir kişisel veriyi toplamıyor, saklamıyor ve oraya göndermiyoruz. Lumi Math Planet uygulamasında kullanıcı hesabı ve oturum açma yoktur."
+        },
+        {
+          "heading": "Verileriniz nerede kalıyor",
+          "body": "Lumi Math Planet içinde oluşturduklarınız ve yaptığınız ayarlar yalnızca kendi cihazınızda, Apple'ın standart yerel depolamasında kalır. Uygulamayı silerseniz onunla birlikte gider."
+        },
+        {
+          "heading": "Satın alımlar",
+          "body": "Uygulama içi satın alımların tamamını Apple'ın App Store'u (StoreKit) yürütür. Ödeme bilgilerinizi almıyor ve saklamıyoruz. Aynı Apple hesabıyla satın alımınızı yeni bir cihazda geri yükleyebilirsiniz."
+        },
+        {
+          "heading": "Üçüncü taraflar",
+          "body": "Uygulamada üçüncü taraf reklamı, analiz veya izleme SDK'sı yoktur. Uygulamalar ya da web siteleri arasında sizinle ilgili profil oluşturmuyoruz."
+        },
+        {
+          "heading": "Çocukların gizliliği",
+          "body": "Hiç kimseden kişisel veri toplamadığımız için çocuklardan da toplamıyoruz. Bir çocuğun adını, doğum tarihini, iletişim bilgilerini, fotoğraflarını veya sağlık verilerini istemiyoruz."
+        },
+        {
+          "heading": "Sizin seçimleriniz",
+          "body": "Cihazınızdan hiçbir kişisel veri çıkmadığı için bizim tarafımızda silinecek bir hesap yoktur. Yerel verileri kaldırmak isterseniz uygulamayı silin. Gizlilikle ilgili soru ve taleplerinizi e-postayla iletebilirsiniz."
+        },
+        {
+          "heading": "Bu politikadaki değişiklikler",
+          "body": "Uygulamanın bir özelliği bu politikayı ilgilendirecek şekilde değişirse bu sayfayı ve üstteki tarihi güncelleriz."
+        }
+      ],
+      "parent_note": "Uygulama; ebeveynler, veliler ve bakım verenler için bir karar desteği aracı olarak tasarlandı, çocukların tek başına kullanması için değil. Bir çocuğun adını, doğum tarihini, fotoğraflarını veya sağlık verilerini istemiyor ve saklamıyoruz.",
+      "path": "tr/privacy.html"
+    },
+    {
+      "locale": "uk",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Головна",
+        "Підтримка",
+        "Конфіденційність"
+      ],
+      "nav_label": "Мова",
+      "language_label": "Мова",
+      "support_label": "Перейти до підтримки",
+      "contact_heading": "Зв'язатися з нами",
+      "contact_body": "Напишіть нам на hourstag.app@gmail.com . Щоб ми допомогли вже в першій відповіді, вкажіть модель пристрою (Параметри → Загальні → Про цей пристрій), версію iOS, версію застосунку та що ви робили безпосередньо перед проблемою. Знімок або запис екрана прискорить розв'язання ще більше.",
+      "contact_button": "Зв'язатися з нами",
+      "footer_note": "Цей сайт не використовує сторонні трекери, рекламу чи аналітику.",
+      "title": "Політика конфіденційності Lumi Math Planet",
+      "description": "Коротко: без облікового запису, без збирання персональних даних, без сторонньої реклами та без сторонньої аналітики.",
+      "eyebrow": "Політика конфіденційності",
+      "heading": "Конфіденційність",
+      "lead": "Ця сторінка пояснює, які дані обробляє Lumi Math Planet, де вони залишаються і що вирішуєте ви.",
+      "sections": [
+        {
+          "heading": "Для кого цей застосунок",
+          "body": "Застосунок задуманий як помічник у прийнятті рішень для батьків, опікунів і тих, хто доглядає за близькими, а не для самостійного використання дітьми. Ми не запитуємо і не зберігаємо ім'я, дату народження, фотографії чи медичні дані дитини."
+        },
+        {
+          "heading": "Які відомості ми збираємо",
+          "body": "Ми не збираємо, не зберігаємо і не передаємо на свої сервери жодних персональних даних. У Lumi Math Planet немає облікових записів і немає входу."
+        },
+        {
+          "heading": "Де залишаються ваші дані",
+          "body": "Усе, що ви створюєте й налаштовуєте в Lumi Math Planet, залишається лише на вашому пристрої, у звичайному локальному сховищі Apple. Якщо видалити застосунок, ці дані зникнуть разом із ним."
+        },
+        {
+          "heading": "Покупки",
+          "body": "Вбудовані покупки повністю обробляє App Store компанії Apple (StoreKit). Ми не отримуємо і не зберігаємо ваші платіжні дані. З тим самим обліковим записом Apple покупку можна відновити на новому пристрої."
+        },
+        {
+          "heading": "Треті сторони",
+          "body": "У застосунку немає сторонньої реклами та немає SDK аналітики чи відстеження. Ми не створюємо ваш профіль між застосунками чи сайтами."
+        },
+        {
+          "heading": "Конфіденційність дітей",
+          "body": "Оскільки ми не збираємо персональні дані нікого, ми не збираємо їх і про дітей. Ми не запитуємо ім'я, дату народження, контакти, фотографії чи медичні дані дитини."
+        },
+        {
+          "heading": "Ваш вибір",
+          "body": "Оскільки персональні дані не залишають ваш пристрій, у нас немає облікового запису, який треба було б видаляти. Щоб стерти локальні дані, видаліть застосунок. З питань конфіденційності пишіть нам."
+        },
+        {
+          "heading": "Зміни цієї політики",
+          "body": "Якщо функція застосунку зміниться так, що це вплине на цю політику, ми оновимо цю сторінку та дату вгорі."
+        }
+      ],
+      "parent_note": "Застосунок задуманий як помічник у прийнятті рішень для батьків, опікунів і тих, хто доглядає за близькими, а не для самостійного використання дітьми. Ми не запитуємо і не зберігаємо ім'я, дату народження, фотографії чи медичні дані дитини.",
+      "path": "uk/privacy.html"
+    },
+    {
+      "locale": "ur-PK",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "ہوم",
+        "سپورٹ",
+        "پرائیویسی"
+      ],
+      "nav_label": "زبان",
+      "language_label": "زبان",
+      "support_label": "سپورٹ پر جائیں",
+      "contact_heading": "رابطہ",
+      "contact_body": "ہمیں hourstag.app@gmail.com پر لکھیں۔ تاکہ ہم پہلے ہی جواب میں مدد کر سکیں، اپنے ڈیوائس کا ماڈل (سیٹنگز ← جنرل ← اباؤٹ)، iOS ورژن، ایپ ورژن اور مسئلہ پیش آنے سے ذرا پہلے آپ کیا کر رہے تھے، ضرور بتائیں۔ اسکرین شاٹ یا اسکرین ریکارڈنگ سے کام اور تیز ہو جاتا ہے۔",
+      "contact_button": "رابطہ",
+      "footer_note": "یہ سائٹ کسی تیسرے فریق کے ٹریکر، اشتہارات یا اینالیٹکس استعمال نہیں کرتی۔",
+      "title": "Lumi Math Planet کی پرائیویسی پالیسی",
+      "description": "مختصراً: کوئی اکاؤنٹ نہیں، ذاتی ڈیٹا جمع نہیں، تیسرے فریق کے اشتہارات نہیں، تیسرے فریق کے اینالیٹکس نہیں۔",
+      "eyebrow": "پرائیویسی پالیسی",
+      "heading": "پرائیویسی",
+      "lead": "یہ صفحہ بتاتا ہے کہ Lumi Math Planet کون سا ڈیٹا استعمال کرتا ہے، وہ کہاں رہتا ہے اور کن باتوں کا فیصلہ آپ کرتے ہیں۔",
+      "sections": [
+        {
+          "heading": "یہ ایپ کن کے لیے ہے",
+          "body": "یہ ایپ والدین، سرپرستوں اور نگہداشت کرنے والوں کے لیے فیصلہ سازی میں مدد کا ذریعہ ہے، بچوں کے تنہا استعمال کے لیے نہیں۔ ہم کسی بچے کا نام، تاریخِ پیدائش، تصاویر یا صحت سے متعلق معلومات نہ مانگتے ہیں نہ محفوظ کرتے ہیں۔"
+        },
+        {
+          "heading": "ہم کون سی معلومات جمع کرتے ہیں",
+          "body": "ہم اپنے سرورز پر کوئی ذاتی ڈیٹا جمع، محفوظ یا منتقل نہیں کرتے۔ Lumi Math Planet میں صارف اکاؤنٹ یا سائن اِن کا کوئی نظام نہیں ہے۔"
+        },
+        {
+          "heading": "آپ کا ڈیٹا کہاں رہتا ہے",
+          "body": "آپ Lumi Math Planet میں جو کچھ بناتے اور سیٹ کرتے ہیں وہ صرف آپ کے ڈیوائس پر، Apple کے عام مقامی اسٹوریج میں رہتا ہے۔ ایپ حذف کرنے پر وہ بھی ساتھ ہی ختم ہو جاتا ہے۔"
+        },
+        {
+          "heading": "خریداریاں",
+          "body": "اِن ایپ خریداریاں مکمل طور پر Apple کا App Store (StoreKit) سنبھالتا ہے۔ ہمیں آپ کی ادائیگی کی تفصیلات نہ ملتی ہیں نہ ہم انہیں محفوظ کرتے ہیں۔ اُسی Apple اکاؤنٹ سے آپ نئے ڈیوائس پر خریداری بحال کر سکتے ہیں۔"
+        },
+        {
+          "heading": "تیسرے فریق",
+          "body": "ایپ میں کسی تیسرے فریق کے اشتہارات، اینالیٹکس یا ٹریکنگ SDK شامل نہیں۔ ہم مختلف ایپس یا ویب سائٹس کے درمیان آپ کی کوئی پروفائل نہیں بناتے۔"
+        },
+        {
+          "heading": "بچوں کی پرائیویسی",
+          "body": "چونکہ ہم کسی کا بھی ذاتی ڈیٹا جمع نہیں کرتے، اس لیے بچوں کا بھی نہیں کرتے۔ ہم کسی بچے کا نام، تاریخِ پیدائش، رابطے کی تفصیل، تصاویر یا صحت سے متعلق معلومات نہیں مانگتے۔"
+        },
+        {
+          "heading": "آپ کے اختیارات",
+          "body": "چونکہ کوئی ذاتی ڈیٹا آپ کے ڈیوائس سے باہر نہیں جاتا، اس لیے ہمارے پاس حذف کرنے کے لیے کوئی اکاؤنٹ نہیں۔ مقامی ڈیٹا ہٹانے کے لیے ایپ حذف کر دیں۔ پرائیویسی سے متعلق سوال یا درخواست ای میل کے ذریعے بھیج سکتے ہیں۔"
+        },
+        {
+          "heading": "اس پالیسی میں تبدیلیاں",
+          "body": "اگر ایپ کی کوئی خصوصیت اس طرح بدلے کہ اس پالیسی پر اثر پڑے تو ہم یہ صفحہ اور اوپر درج تاریخ اپڈیٹ کر دیں گے۔"
+        }
+      ],
+      "parent_note": "یہ ایپ والدین، سرپرستوں اور نگہداشت کرنے والوں کے لیے فیصلہ سازی میں مدد کا ذریعہ ہے، بچوں کے تنہا استعمال کے لیے نہیں۔ ہم کسی بچے کا نام، تاریخِ پیدائش، تصاویر یا صحت سے متعلق معلومات نہ مانگتے ہیں نہ محفوظ کرتے ہیں۔",
+      "path": "ur-PK/privacy.html"
+    },
+    {
+      "locale": "vi",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "Trang chủ",
+        "Hỗ trợ",
+        "Quyền riêng tư"
+      ],
+      "nav_label": "Ngôn ngữ",
+      "language_label": "Ngôn ngữ",
+      "support_label": "Tới trang hỗ trợ",
+      "contact_heading": "Liên hệ",
+      "contact_body": "Hãy gửi email tới hourstag.app@gmail.com . Để chúng tôi giúp được ngay từ thư trả lời đầu tiên, bạn cho biết kiểu máy (Cài đặt → Cài đặt chung → Giới thiệu), phiên bản iOS, phiên bản ứng dụng và bạn đang làm gì ngay trước khi gặp lỗi. Kèm ảnh chụp màn hình hoặc video quay màn hình thì còn nhanh hơn nữa.",
+      "contact_button": "Liên hệ",
+      "footer_note": "Trang này không dùng công cụ theo dõi, quảng cáo hay phân tích của bên thứ ba.",
+      "title": "Chính sách quyền riêng tư của Lumi Math Planet",
+      "description": "Tóm lại: không tài khoản, không thu thập dữ liệu cá nhân, không quảng cáo của bên thứ ba, không phân tích của bên thứ ba.",
+      "eyebrow": "Chính sách quyền riêng tư",
+      "heading": "Quyền riêng tư",
+      "lead": "Trang này giải thích Lumi Math Planet xử lý dữ liệu nào, dữ liệu đó nằm ở đâu và bạn được quyết định những gì.",
+      "sections": [
+        {
+          "heading": "Ứng dụng dành cho ai",
+          "body": "Ứng dụng được thiết kế như công cụ hỗ trợ ra quyết định cho cha mẹ, người giám hộ và người chăm sóc, không dành cho trẻ tự dùng một mình. Chúng tôi không hỏi và không lưu tên, ngày sinh, ảnh hay dữ liệu sức khỏe của trẻ."
+        },
+        {
+          "heading": "Chúng tôi thu thập thông tin gì",
+          "body": "Chúng tôi không thu thập, không lưu trữ và không gửi bất kỳ dữ liệu cá nhân nào về máy chủ của mình. Lumi Math Planet không có tài khoản người dùng và không có phần đăng nhập."
+        },
+        {
+          "heading": "Dữ liệu của bạn nằm ở đâu",
+          "body": "Những gì bạn tạo và thiết lập trong Lumi Math Planet chỉ nằm trên máy của bạn, trong bộ nhớ cục bộ tiêu chuẩn của Apple. Nếu xóa ứng dụng thì dữ liệu cũng mất theo."
+        },
+        {
+          "heading": "Mua hàng",
+          "body": "Giao dịch mua trong ứng dụng do App Store của Apple (StoreKit) xử lý toàn bộ. Chúng tôi không nhận và không lưu thông tin thanh toán của bạn. Với cùng tài khoản Apple, bạn khôi phục được khoản đã mua trên máy mới."
+        },
+        {
+          "heading": "Bên thứ ba",
+          "body": "Ứng dụng không có quảng cáo của bên thứ ba, cũng không có SDK phân tích hay theo dõi. Chúng tôi không dựng hồ sơ về bạn xuyên các ứng dụng hay trang web."
+        },
+        {
+          "heading": "Quyền riêng tư của trẻ em",
+          "body": "Vì chúng tôi không thu thập dữ liệu cá nhân của bất kỳ ai nên cũng không thu thập của trẻ em. Chúng tôi không hỏi tên, ngày sinh, thông tin liên hệ, ảnh hay dữ liệu sức khỏe của trẻ."
+        },
+        {
+          "heading": "Lựa chọn của bạn",
+          "body": "Vì không có dữ liệu cá nhân nào rời khỏi máy bạn nên phía chúng tôi không có tài khoản nào để xóa. Muốn xóa dữ liệu cục bộ, hãy xóa ứng dụng. Mọi câu hỏi hay yêu cầu về quyền riêng tư, bạn cứ gửi email cho chúng tôi."
+        },
+        {
+          "heading": "Thay đổi chính sách này",
+          "body": "Nếu một tính năng của ứng dụng thay đổi theo hướng ảnh hưởng tới chính sách này, chúng tôi sẽ cập nhật trang này cùng ngày ghi ở đầu trang."
+        }
+      ],
+      "parent_note": "Ứng dụng được thiết kế như công cụ hỗ trợ ra quyết định cho cha mẹ, người giám hộ và người chăm sóc, không dành cho trẻ tự dùng một mình. Chúng tôi không hỏi và không lưu tên, ngày sinh, ảnh hay dữ liệu sức khỏe của trẻ.",
+      "path": "vi/privacy.html"
+    },
+    {
+      "locale": "zh-Hans",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "首页",
+        "支持",
+        "隐私政策"
+      ],
+      "nav_label": "语言",
+      "language_label": "语言",
+      "support_label": "查看支持说明",
+      "contact_heading": "联系我们",
+      "contact_body": "请发邮件到 hourstag.app@gmail.com 。为了第一封回信就能帮上忙,请附上:设备型号(设置 → 通用 → 关于本机)、iOS 版本、App 版本,以及问题出现前你点了什么。附上截图或屏幕录制会更快。",
+      "contact_button": "联系我们",
+      "footer_note": "本站不使用第三方跟踪、广告或分析工具。",
+      "title": "Lumi Math Planet 隐私政策",
+      "description": "要点摘要:不需要账号、不收集个人数据、无第三方广告、无第三方分析。",
+      "eyebrow": "隐私政策",
+      "heading": "隐私政策",
+      "lead": "这一页说明 Lumi Math Planet 会处理哪些数据、数据保存在哪里,以及你可以如何控制。",
+      "sections": [
+        {
+          "heading": "本 App 适合谁用",
+          "body": "本 App 是为家长与照顾者设计的,用来协助大人做判断,不是给儿童单独使用。我们不会索取或保存儿童的姓名、生日、照片或健康信息。"
+        },
+        {
+          "heading": "我们收集哪些数据",
+          "body": "我们不会收集、保存或把你的个人数据传到我们的服务器。Lumi Math Planet 没有用户账号,也没有登录流程。"
+        },
+        {
+          "heading": "数据保存在哪里",
+          "body": "你在 Lumi Math Planet 中创建的内容与设置,只会通过 Apple 标准的本地存储保存在你的设备上;删除 App 就会一并移除。"
+        },
+        {
+          "heading": "购买",
+          "body": "App 内购买完全由 Apple 通过 App Store(StoreKit)处理。我们不会获得或保存你的支付信息。你可以用同一个 Apple 账户在新设备上恢复购买。"
+        },
+        {
+          "heading": "第三方",
+          "body": "本 App 不含第三方广告,也不含第三方分析或跟踪 SDK。我们不会为你建立跨 App 或跨网站的画像。"
+        },
+        {
+          "heading": "儿童隐私",
+          "body": "因为本 App 不收集任何人的个人数据,自然也不会收集儿童的数据。我们不会索取儿童的姓名、生日、联系方式、照片或健康信息。"
+        },
+        {
+          "heading": "你的选择",
+          "body": "由于没有个人数据离开你的设备,我们这边没有账号可以删除。要清除本地数据,直接删除 App 即可。任何隐私问题或请求,欢迎来信。"
+        },
+        {
+          "heading": "政策更新",
+          "body": "若 App 的功能变化影响到本政策,我们会更新本页并修订上方的「最后更新」日期。"
+        }
+      ],
+      "parent_note": "本 App 是为家长与照顾者设计的,用来协助大人做判断,不是给儿童单独使用。我们不会索取或保存儿童的姓名、生日、照片或健康信息。",
+      "path": "zh-Hans/privacy.html"
+    },
+    {
+      "locale": "zh-Hant",
+      "surface": "privacy",
+      "app_name": "Lumi Math Planet",
+      "nav": [
+        "首頁",
+        "支援",
+        "隱私權"
+      ],
+      "nav_label": "語言",
+      "language_label": "語言",
+      "support_label": "查看支援說明",
+      "contact_heading": "聯絡我們",
+      "contact_body": "請寄信到 hourstag.app@gmail.com 。為了第一封回信就能幫上忙,請附上:裝置型號(設定 → 一般 → 關於本機)、iOS 版本、App 版本,以及問題出現前你點了什麼。附上截圖或螢幕錄影會更快。",
+      "contact_button": "聯絡我們",
+      "footer_note": "本站不使用第三方追蹤、廣告或分析工具。",
+      "title": "Lumi Math Planet 隱私權政策",
+      "description": "重點摘要:不需要帳號、不收集個人資料、無第三方廣告、無第三方分析。",
+      "eyebrow": "隱私權政策",
+      "heading": "隱私權",
+      "lead": "這一頁說明 Lumi Math Planet 會處理哪些資料、資料存在哪裡,以及你可以怎麼控制。",
+      "sections": [
+        {
+          "heading": "本 App 適合誰用",
+          "body": "本 App 是為家長與照顧者設計的,用來協助大人做判斷,不是給兒童單獨使用。我們不會索取或儲存兒童的姓名、生日、照片或健康資訊。"
+        },
+        {
+          "heading": "我們收集哪些資料",
+          "body": "我們不會收集、儲存或把你的個人資料傳到我們的伺服器。Lumi Math Planet 沒有使用者帳號,也沒有登入程序。"
+        },
+        {
+          "heading": "資料存在哪裡",
+          "body": "你在 Lumi Math Planet 裡建立的內容與設定,只會用 Apple 標準的本機儲存方式存在你的裝置上;刪除 App 就會一併移除。"
+        },
+        {
+          "heading": "購買",
+          "body": "App 內購買完全由 Apple 透過 App Store(StoreKit)處理。我們不會取得或保存你的付款資料。你可以用同一個 Apple 帳號在新裝置上恢復購買。"
+        },
+        {
+          "heading": "第三方",
+          "body": "本 App 不含第三方廣告,也不含第三方分析或追蹤 SDK。我們不會為你建立跨 App 或跨網站的個人檔案。"
+        },
+        {
+          "heading": "兒童隱私",
+          "body": "因為本 App 不收集任何人的個人資料,自然也不會收集兒童的資料。我們不會索取兒童的姓名、生日、聯絡方式、照片或健康資訊。"
+        },
+        {
+          "heading": "你的選擇",
+          "body": "由於沒有個人資料離開你的裝置,我們這邊沒有帳號可以刪除。要清除本機資料,直接刪除 App 即可。任何隱私問題或請求,歡迎來信。"
+        },
+        {
+          "heading": "政策更新",
+          "body": "若 App 的功能改變並影響到本政策,我們會更新本頁並修訂上方的「最後更新」日期。"
+        }
+      ],
+      "parent_note": "本 App 是為家長與照顧者設計的,用來協助大人做判斷,不是給兒童單獨使用。我們不會索取或儲存兒童的姓名、生日、照片或健康資訊。",
+      "path": "zh-Hant/privacy.html"
+    }
+  ]
+}
