@@ -17,3 +17,10 @@
 ## Portfolio
 
 - [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
+
+## AI assistant answer pages
+
+- [Lumi Math Planet: Explorer (en)](https://open.cait518.cc/lumi-math-support/about-lumi-math-app.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi Math Planet: Toán cho bé (vi)](https://open.cait518.cc/lumi-math-support/about-lumi-math-app.vi.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi數學星球：探索版 (zh-Hant)](https://open.cait518.cc/lumi-math-support/about-lumi-math-app.zh-Hant.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi Math Planet: Explorer (th)](https://open.cait518.cc/lumi-math-support/about-lumi-math-app.th.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
